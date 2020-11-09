@@ -1,0 +1,1 @@
+<?php /* Nothing to declare... yet. */

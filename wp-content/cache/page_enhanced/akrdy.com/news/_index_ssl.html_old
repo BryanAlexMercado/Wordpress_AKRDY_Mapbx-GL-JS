@@ -1,0 +1,2325 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11"/>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v15.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>News for Critical Thinkers....and Sports - AKRDY</title>
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://akrdy.com/news/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="News for Critical Thinkers....and Sports - AKRDY" />
+	<meta property="og:description" content="News from Alaska Anchorage Exposed Religion Lower 48 News Hunting &amp; Fishing SEAHAWKS FANDOM NFL Week 8 of 17: Top 5: Steelers, Chiefs, Seahawks, Ravens, Packers Bottom 5: Washington, Falcons, Jaquars, Giants, Jets College Basketball BULLDOGS UNITE Survive" />
+	<meta property="og:url" content="https://akrdy.com/news/" />
+	<meta property="og:site_name" content="AKRDY" />
+	<meta property="article:author" content="https://www.facebook.com/profile.php?id=100045490814780" />
+	<meta property="article:modified_time" content="2020-11-09T00:22:37+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Written by">
+	<meta name="twitter:data1" content="Christopher Jones">
+	<meta name="twitter:label2" content="Est. reading time">
+	<meta name="twitter:data2" content="0 minutes">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://akrdy.com/#website","url":"https://akrdy.com/","name":"AKRDY","description":"Bring It On Alaska","potentialAction":[{"@type":"SearchAction","target":"https://akrdy.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://akrdy.com/news/#webpage","url":"https://akrdy.com/news/","name":"News for Critical Thinkers....and Sports - AKRDY","isPartOf":{"@id":"https://akrdy.com/#website"},"datePublished":"2020-10-19T05:02:38+00:00","dateModified":"2020-11-09T00:22:37+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://akrdy.com/news/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//api.mapbox.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="AKRDY &raquo; Feed" href="https://akrdy.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="AKRDY &raquo; Comments Feed" href="https://akrdy.com/comments/feed/" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.13.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+    (window.gaDevIds=window.gaDevIds||[]).push("dZGIzZG");
+	var mi_version         = '7.13.0';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-163468224-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	if ( 'undefined' === typeof gaOptout ) {
+		function gaOptout() {
+			__gaTrackerOptout();
+		}
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-163468224-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('require', 'linkid', 'linkid.js');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/akrdy.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.3"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://eadn-wc03-371667.nxedge.io/cdn/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://eadn-wc03-371667.nxedge.io/cdn/wp-includes/css/dist/block-library/theme.min.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-vendors-style-css'  href='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=3.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=3.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='iconic-wlv-css'  href='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/iconic-woo-linked-variations/assets/frontend/css/main.css?ver=1.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://eadn-wc03-371667.nxedge.io/cdn/wp-includes/css/dashicons.min.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='everest-forms-general-css'  href='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/everest-forms/assets/css/everest-forms.css?ver=1.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=4.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=4.6.2' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=4.6.2' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='mapbox_gl_js_css-css'  href='https://api.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mapbox_gl_js_geocoder_css-css'  href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mapbox_gl_js_directions_css-css'  href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v3.1.1/mapbox-gl-directions.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mapbox-gl-js-css'  href='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/wp-mapbox-gl-js/public/css/wp-mapbox-gl-js-public.css?ver=3.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='monsterinsights-popular-posts-style-css'  href='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/google-analytics-for-wordpress/assets/css/frontend.min.css?ver=7.13.0' type='text/css' media='all' />
+<link rel='stylesheet' id='search-filter-plugin-styles-css'  href='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/search-filter-pro/public/assets/css/search-filter.min.css?ver=2.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='spacious_style-css'  href='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/themes/spacious-pro/style.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='spacious-genericons-css'  href='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/themes/spacious-pro/genericons/genericons.css?ver=3.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='spacious-font-awesome-css'  href='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/themes/spacious-pro/font-awesome/css/font-awesome.min.css?ver=4.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='spacious_googlefonts-css'  href='//fonts.googleapis.com/css?family=Lato&#038;ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.0.13' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.0.13' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.0.13' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-1051-css'  href='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/elementor/css/post-1051.css?ver=1604559241' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='spacious-elementor-css'  href='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/themes/spacious-pro/inc/elementor/assets/css/elementor.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/elementor/css/global.css?ver=1604559242' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-1462-css'  href='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/elementor/css/post-1462.css?ver=1604881406' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRighteous%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.5.3' type='text/css' media='all' />
+<script type='text/javascript' id='monsterinsights-frontend-script-js-extra'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/akrdy.com","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.13.0' id='monsterinsights-frontend-script-js'></script>
+<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://api.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.js?ver=5.5.3' id='mapbox_gl_js-js'></script>
+<script type='text/javascript' src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.min.js?ver=5.5.3' id='mapbox_gl_geocoder_js-js'></script>
+<script type='text/javascript' src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v3.1.1/mapbox-gl-directions.js?ver=5.5.3' id='mapbox_gl_directions_js-js'></script>
+<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/wp-mapbox-gl-js/public/js/wp-mapbox-gl-js-public.js?ver=623' id='wp-mapbox-gl-js-js'></script>
+<script type='text/javascript' id='search-filter-plugin-build-js-extra'>
+/* <![CDATA[ */
+var SF_LDATA = {"ajax_url":"https:\/\/akrdy.com\/wp-admin\/admin-ajax.php","home_url":"https:\/\/akrdy.com\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/search-filter-pro/public/assets/js/search-filter-build.min.js?ver=2.5.1' id='search-filter-plugin-build-js'></script>
+<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/search-filter-pro/public/assets/js/chosen.jquery.min.js?ver=2.5.1' id='search-filter-plugin-chosen-js'></script>
+<!--[if lte IE 8]>
+<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/themes/spacious-pro/js/html5shiv.min.js?ver=5.5.3' id='html5-js'></script>
+<![endif]-->
+<link rel="https://api.w.org/" href="https://akrdy.com/wp-json/" /><link rel="alternate" type="application/json" href="https://akrdy.com/wp-json/wp/v2/pages/1462" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://akrdy.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://eadn-wc03-371667.nxedge.io/cdn/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.3" />
+<meta name="generator" content="Everest Forms 1.7.2" />
+<meta name="generator" content="WooCommerce 4.6.2" />
+<link rel='shortlink' href='https://akrdy.com/?p=1462' />
+<link rel="alternate" type="application/json+oembed" href="https://akrdy.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fakrdy.com%2Fnews%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://akrdy.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fakrdy.com%2Fnews%2F&#038;format=xml" />
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f2f2f2; }
+</style>
+	<link rel="icon" href="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/10/cropped-ak-ready-01-1-45x45.jpg" sizes="32x32" />
+<link rel="icon" href="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/10/cropped-ak-ready-01-1-230x230.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/10/cropped-ak-ready-01-1-230x230.jpg" />
+<meta name="msapplication-TileImage" content="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/10/cropped-ak-ready-01-1-270x270.jpg" />
+		<style type="text/css"> .social-links { float: right; padding: 0 0 0 15px; } .social-links ul li { float: left; padding: 5px 0 5px 10px; } .small-info-text { float: right; padding: 0 0 0 15px; } #masthead .small-menu { float: left; } #masthead .small-menu a { padding: 5px 16px 0 0; } @media screen and (max-width:767px){.social-links{text-align:center;float:none;padding-left:0;padding-top:10px}.small-info-text{text-align:center;float:none;padding-left:0}.social-links ul li,.social-links ul li a{float:none;display:inline}#header-meta .small-menu{text-align:center;float:none}#header-meta .small-menu li{float:none;display:inline}#header-meta .small-menu a{float:none;display:inline;padding:5px 5px 0}}
+ blockquote { border-left: 3px solid #9da56a; }
+			.spacious-button, input[type="reset"], input[type="button"], input[type="submit"], button,
+			 .spacious-woocommerce-cart-views .cart-value { background-color: #9da56a; }
+			.previous a:hover, .next a:hover { color: #9da56a; }
+			a { color: #9da56a; }
+			#site-title a:hover,.widget_fun_facts .counter-icon,.team-title a:hover { color: #9da56a; }
+			.main-navigation ul li.current_page_item a, .main-navigation ul li:hover > a { color: #9da56a; }
+			.main-navigation ul li ul { border-top: 1px solid #9da56a; }
+			.main-navigation ul li ul li a:hover, .main-navigation ul li ul li:hover > a,
+			.main-navigation ul li.current-menu-item ul li a:hover { color: #9da56a; }
+			.site-header .menu-toggle:hover.entry-meta a.read-more:hover,
+			#featured-slider .slider-read-more-button:hover, .slider-cycle .cycle-prev:hover, .slider-cycle .cycle-next:hover,
+			.call-to-action-button:hover,.entry-meta .read-more-link:hover,.spacious-button:hover, input[type="reset"]:hover,
+			input[type="button"]:hover, input[type="submit"]:hover, button:hover { background: #6b7338; }
+			.main-small-navigation li:hover { background: #9da56a; }
+			.main-small-navigation ul > .current_page_item, .main-small-navigation ul > .current-menu-item { background: #9da56a; }
+			.main-navigation a:hover, .main-navigation ul li.current-menu-item a, .main-navigation ul li.current_page_ancestor a,
+			.main-navigation ul li.current-menu-ancestor a, .main-navigation ul li.current_page_item a,
+			.main-navigation ul li:hover > a  { color: #9da56a; }
+			.small-menu a:hover, .small-menu ul li.current-menu-item a, .small-menu ul li.current_page_ancestor a,
+			.small-menu ul li.current-menu-ancestor a, .small-menu ul li.current_page_item a,
+			.small-menu ul li:hover > a { color: #9da56a; }
+			#featured-slider .slider-read-more-button,
+			.slider-cycle .cycle-prev, .slider-cycle .cycle-next, #progress,
+			.widget_our_clients .clients-cycle-prev,
+			.widget_our_clients .clients-cycle-next { background-color: #9da56a; }
+			#controllers a:hover, #controllers a.active { background-color: #9da56a; color: #9da56a; }
+			.widget_service_block a.more-link:hover, .widget_featured_single_post a.read-more:hover,
+			#secondary a:hover,logged-in-as:hover  a{ color: #6b7338; }
+			.breadcrumb a:hover { color: #9da56a; }
+			.tg-one-half .widget-title a:hover, .tg-one-third .widget-title a:hover,
+			.tg-one-fourth .widget-title a:hover { color: #9da56a; }
+			.pagination span,.site-header .menu-toggle:hover,#team-controllers a.active,
+			#team-controllers a:hover { background-color: #9da56a; }
+			.pagination a span:hover { color: #9da56a; border-color: #9da56a; }
+			.widget_testimonial .testimonial-post { border-color: #9da56a #EAEAEA #EAEAEA #EAEAEA; }
+			.call-to-action-content-wrapper { border-color: #EAEAEA #EAEAEA #EAEAEA #9da56a; }
+			.call-to-action-button { background-color: #9da56a; }
+			#content .comments-area a.comment-permalink:hover { color: #9da56a; }
+			.comments-area .comment-author-link a:hover { color: #9da56a; }
+			.comments-area .comment-author-link spanm,.team-social-icon a:hover { background-color: #9da56a; }
+			.comment .comment-reply-link:hover { color: #9da56a; }
+			.team-social-icon a:hover{ border-color: #9da56a; }
+			.nav-previous a:hover, .nav-next a:hover { color: #9da56a; }
+			#wp-calendar #today { color: #9da56a; }
+			.widget-title span { border-bottom: 2px solid #9da56a; }
+			.footer-widgets-area a:hover { color: #9da56a !important; }
+			.footer-socket-wrapper .copyright a:hover { color: #9da56a; }
+			a#back-top:before { background-color: #9da56a; }
+			.read-more, .more-link { color: #9da56a; }
+			.post .entry-title a:hover, .page .entry-title a:hover { color: #9da56a; }
+			.entry-meta .read-more-link { background-color: #9da56a; }
+			.entry-meta a:hover, .type-page .entry-meta a:hover { color: #9da56a; }
+			.single #content .tags a:hover { color: #9da56a; }
+			.widget_testimonial .testimonial-icon:before { color: #9da56a; }
+			a#scroll-up { background-color: #9da56a; }
+			#search-form span { background-color: #9da56a; }
+			.single #content .tags a:hover,.previous a:hover, .next a:hover{border-color: #9da56a;}
+			.widget_featured_posts .tg-one-half .entry-title a:hover,
+			.main-small-navigation li:hover > .sub-toggle { color: #9da56a; }
+			.woocommerce a.button, .woocommerce button.button, .woocommerce input.button,
+			.woocommerce #respond input#submit, .woocommerce #content input.button,
+			.woocommerce-page a.button, .woocommerce-page button.button, .woocommerce-page input.button,
+			.woocommerce-page #respond input#submit, .woocommerce-page #content input.button { background-color: #9da56a; }
+			.woocommerce a.button:hover,.woocommerce button.button:hover,
+			.woocommerce input.button:hover,.woocommerce #respond input#submit:hover,
+			.woocommerce #content input.button:hover,.woocommerce-page a.button:hover,
+			.woocommerce-page button.button:hover,.woocommerce-page input.button:hover,
+			.woocommerce-page #respond input#submit:hover,
+			.woocommerce-page #content input.button:hover { background-color: #9da56a; }
+			#content .wp-pagenavi .current, #content .wp-pagenavi a:hover,.main-small-navigation .sub-toggle { background-color: #9da56a; } .main-navigation ul li.tg-header-button-wrap.button-one a { background-color:#9da56a} .main-navigation ul li.tg-header-button-wrap.button-one a:hover { background-color:#6b7338} .main-navigation ul li.tg-header-button-wrap.button-two a{color:#9da56a}.main-navigation ul li.tg-header-button-wrap.button-two a:hover{color:#6b7338}.main-navigation ul li.tg-header-button-wrap.button-one a{border-color:#9da56a}.main-navigation ul li.tg-header-button-wrap.button-two a{border-color:#9da56a}.woocommerce.woocommerce-add-to-cart-style-2 ul.products li.product .button{border-color:#9da56a}.woocommerce.woocommerce-add-to-cart-style-2 ul.products li.product .button{color:#9da56a}.header-action .search-wrapper:hover .fa{color:#9da56a}.elementor .team-five-carousel.team-style-five .swiper-button-next{background-color:#9da56a}.elementor .team-five-carousel.team-style-five .swiper-button-prev{background-color:#9da56a}.elementor .main-block-wrapper .swiper-button-next{background-color:#9da56a}.elementor .main-block-wrapper .swiper-button-prev{background-color:#9da56a}.widget_testimonial .testimonial-cycle-prev{background:#9da56a;}.widget_testimonial .testimonial-cycle-next{background:#9da56a;}.footer-search-form{background:rgba(157,165,106, 0.85)}.header-toggle-wrapper .header-toggle{border-color:transparent #9da56a transparent transparent}.woocommerce-product .main-product-wrapper .product-wrapper .woocommerce-image-wrapper-two .hovered-cart-wishlist .add-to-wishlist:hover{background:#9da56a}.woocommerce-product .main-product-wrapper .product-wrapper .woocommerce-image-wrapper-two .hovered-cart-wishlist .add-to-wishlist{border:1px solid#9da56a}.woocommerce-product .main-product-wrapper .product-wrapper .woocommerce-image-wrapper-two .hovered-cart-wishlist .add-to-cart{border-color:#9da56a}.woocommerce-product .main-product-wrapper .product-wrapper .woocommerce-image-wrapper-two .hovered-cart-wishlist .add-to-cart:hover{background:#9da56a}.woocommerce-product .main-product-wrapper .product-wrapper .product-outer-wrapper .woocommerce-image-wrapper-one .add-to-cart a:hover{background:#6b7338}.woocommerce .star-rating span::before{color:#9da56a}.woocommerce-product .main-product-wrapper .product-container .product-cycle-prev{background-color:#9da56a}.woocommerce-product .main-product-wrapper .product-container .product-cycle-next{background-color:#9da56a} #header-meta { background-color: #F8F8F8; } .small-menu a { color:  #555555; } .breadcrumb { font-size : 12px; } #secondary h3.widget-title, .widget_service_block .widget-title a, .widget_featured_single_post .widget-title a, .widget_testimonial .widget-title, .widget_recent_work .tg-one-half .widget-title, .widget_recent_work .tg-one-third .widget-title, .widget_recent_work .tg-one-fourth .widget-title, .widget_our_clients .widget-title, .widget_featured_posts .widget-title { color: #222222; } #secondary h3.widget-title, .widget_service_block .widget-title, .widget_featured_single_post .widget-title, .widget_testimonial .widget-title, .widget_recent_work .tg-one-half .widget-title, .widget_recent_work .tg-one-third .widget-title, .widget_recent_work .tg-one-fourth .widget-title { font-size : 22px; } .footer-widgets-wrapper { background-color: #021827; } #colophon, #colophon p { font-size : 14px; } .call-to-action-content h3 { font-size : 24px; } .call-to-action-button { font-size : 22px; }.main-navigation ul li.tg-header-button-wrap.button-one a:hover{color:#ddb031}.main-navigation ul li.tg-header-button-wrap.button-one a{background-color:#ddb031}.main-navigation ul li.tg-header-button-wrap.button-one a:hover{background-color:#ffffff}.main-navigation ul li.tg-header-button-wrap.button-one a{border-color:#ddb031}.main-navigation ul li.tg-header-button-wrap.button-one a:hover{border-color:#ddb031}.main-navigation ul li.tg-header-button-wrap.button-two a{color:#ddb031}.main-navigation ul li.tg-header-button-wrap.button-two a:hover{color:#ffffff}.main-navigation ul li.tg-header-button-wrap.button-two a:hover{background-color:#ddb031}.main-navigation ul li.tg-header-button-wrap.button-two a{border-color:#ddb031}.main-navigation ul li.tg-header-button-wrap.button-two a:hover{border-color:#ddb031}#header-text-nav-container{border-bottom-color:#eaeaea}.header-post-title-container { background-position: center center; }.header-post-title-container { background-size: auto; }.header-post-title-container { background-attachment: scroll; }.header-post-title-container { background-repeat: repeat; }.woocommerce-page a.button:hover, .woocommerce-page button.button:hover, .woocommerce-page input.button:hover, .woocommerce-page #content input.button:hover,.woocommerce.woocommerce-add-to-cart-style-2 ul.products li.product .button:hover, .product-details .add-to-cart a:hover, .button.woocommerce-page.woocommerce-add-to-cart-style-1 ul.products li.product .button:hover, .elementor .product-carousel-container .swiper-carousel-wrapper .product-carousel-slide .product-details .add-to-cart .add_to_cart_button:hover{color:#ffffff}.woocommerce-page a.button, .woocommerce-page button.button, .woocommerce-page input.button, .woocommerce-page #content input.button, .woocommerce-add-to-cart-default .product-details .add-to-cart a, .woocommerce-add-to-cart-style-1 .product-details .add-to-cart a, .woocommerce-add-to-cart-style-2 .product-details .add-to-cart a, .elementor .product-carousel-container .swiper-carousel-wrapper .product-carousel-slide .product-details .add-to-cart{background-color:#ddb031}.woocommerce-page a.button:hover, .woocommerce-page button.button:hover, .woocommerce-page input.button:hover, .woocommerce-page #content input.button:hover, .woocommerce-add-to-cart-default .product-details .add-to-cart a:hover, .woocommerce-add-to-cart-style-1 .product-details .add-to-cart a:hover, .elementor .product-carousel-container .swiper-carousel-wrapper .product-carousel-slide .product-details .add-to-cart:hover{background-color:#dda200}.woocommerce.woocommerce-add-to-cart-style-2 ul.products li.product .button,  .button.woocommerce-page.woocommerce-add-to-cart-style-1 ul.products li.product .button, .woocommerce-add-to-cart-style-1 .product-details .add-to-cart a, .woocommerce-add-to-cart-style-2 .product-details .add-to-cart a, .elementor .product-carousel-container .swiper-carousel-wrapper .product-carousel-slide .product-details .add-to-cart{border-color:#ddb031}.woocommerce.woocommerce-add-to-cart-style-2 ul.products li.product .button:hover, .button.woocommerce-page.woocommerce-add-to-cart-style-1 ul.products li.product .button:hover, .woocommerce-add-to-cart-style-2 .product-details .add-to-cart a:hover, .woocommerce-add-to-cart-style-1 .product-details .add-to-cart a:hover, .elementor .product-carousel-container .swiper-carousel-wrapper .product-carousel-slide .product-details .add-to-cart:hover{border-color:#ddb031}#colophon { background-position: center center; }#colophon { background-size: auto; }#colophon { background-attachment: scroll; }#colophon { background-repeat: repeat; }</style>
+				<style type="text/css" id="wp-custom-css">
+			
+				#mc4wp-form-1 input[type="email"] {
+   width: 60%;
+   padding: 10px;
+   margin-right: 20px;
+   background: transparent;
+   border-color: #ddb031;
+   color: #fff;
+}
+#mc4wp-form-1 input[type="submit"] {
+   width: 20%;
+  padding: 10px;
+  border: 1px solid #ddb031;
+  color: #fff;
+}
+.main-navigation, .header-action {
+    padding-top: 5px;
+}
+
+footer .woocommerce ul.product_list_widget li a{
+	color:#ffffff;
+}				</style>
+		</head>
+
+<body class="page-template-default page page-id-1462 custom-background wp-custom-logo wp-embed-responsive theme-spacious-pro everest-forms-no-js woocommerce-no-js  better-responsive-menu wide-1218 woocommerce-sale-style-3 woocommerce-add-to-cart-default spacious-menu-header-button-enabled elementor-default elementor-kit-1051 elementor-page elementor-page-1462">
+
+
+
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+	
+		<header id="masthead" class="site-header clearfix spacious-header-display-one">
+
+					<div id="header-meta">
+				<div class="inner-wrap clearfix">
+					
+		
+		<div class="social-links clearfix">
+			<ul>
+				<li class="spacious-facebook"><a href="https://www.facebook.com/2two10/?ref=py_c" ></a></li><li class="spacious-mail"><a href="http://2to10@akrdy.com" ></a></li>
+							</ul>
+		</div><!-- .social-links -->
+		<div class="small-info-text"><p><p>Email: 2to10@akrdy.com</p></p></div>					<nav class="small-menu" class="clearfix">
+						<div class="menu-header-top-container"><ul id="menu-header-top" class="menu"><li id="menu-item-1243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1243"><a title="						" href="https://akrdy.com/about/">About</a></li>
+<li id="menu-item-1242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1242"><a title="						" href="https://akrdy.com/terms-of-use/">Terms of use</a></li>
+<li id="menu-item-1241" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1241"><a title="						" href="https://akrdy.com/privacy-policy/">Privacy Policy</a></li>
+</ul></div>					</nav>
+				</div>
+			</div>
+		
+		
+		
+		<div id="header-text-nav-container"
+		     class="">
+
+			<div class="inner-wrap clearfix" id="spacious-header-display-one">
+
+				<div id="header-text-nav-wrap" class="clearfix">
+					<div id="header-left-section">
+													<div id="header-logo-image">
+
+								<a href="https://akrdy.com/" class="custom-logo-link" rel="home"><img width="156" height="52" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/10/cropped-ak-ready1-1.png" class="custom-logo" alt="AKRDY" /></a>
+							</div><!-- #header-logo-image -->
+													<div id="header-text" class="screen-reader-text">
+															<h3 id="site-title">
+									<a href="https://akrdy.com/"
+									   title="AKRDY"
+									   rel="home">AKRDY</a>
+								</h3>
+															<p id="site-description">Bring It On Alaska</p>
+													</div><!-- #header-text -->
+					</div><!-- #header-left-section -->
+
+					<div id="header-right-section">
+						
+													<div class="header-action">
+											<div class="cart-wrapper">
+				<div class="spacious-woocommerce-cart-views">
+
+					<!-- Show cart icon with total cart item -->
+					
+					<a href="https://akrdy.com/cart/" class="wcmenucart-contents">
+						<i class="fa fa-shopping-cart"></i>
+						<span class="cart-value">0</span>
+					</a>
+
+					<!-- Show total cart price -->
+					<div class="spacious-woocommerce-cart-wrap">
+						<div class="spacious-woocommerce-cart">Total</div>
+						<div class="cart-total">&#036;0.00</div>
+					</div>
+				</div>
+
+				<!-- WooCommerce Cart Widget -->
+				<div class="widget woocommerce widget_shopping_cart"><h2 class="widgettitle">Cart</h2><div class="widget_shopping_cart_content"></div></div>
+			</div> <!-- /.cart-wrapper -->
+												<div class="search-wrapper">
+										<div class="search">
+											<i class="fa fa-search"> </i>
+										</div>
+																					<div class="header-search-form">
+												<form action="https://akrdy.com/" class="search-form searchform clearfix" method="get">
+	<div class="search-wrap">
+		<input type="text" placeholder="Search" class="s field" name="s">
+		<button class="search-icon" type="submit"></button>
+	</div>
+</form><!-- .searchform -->											</div>
+																			</div><!-- /.search-wrapper -->
+															</div>
+						
+						
+		<nav id="site-navigation" class="main-navigation clearfix spacious-header-button-enabled " role="navigation">
+			<p class="menu-toggle">Menu</p>
+			<div class="menu-primary-container"><ul id="menu-main-menu" class="nav-menu"><li id="menu-item-1834" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1462 current_page_item menu-item-1834"><a href="https://akrdy.com/news/" aria-current="page">AK News</a></li>
+<li class="menu-item tg-header-button-wrap button-one"><a href="https://akrdy.com/shop">STORE</a></li><li class="menu-item tg-header-button-wrap button-two"><a href="https://akrdy.com/blog">READ</a></li></ul></div>		</nav>
+
+							</div><!-- #header-right-section -->
+
+				</div><!-- #header-text-nav-wrap -->
+
+				
+			</div><!-- .inner-wrap -->
+
+			
+		</div><!-- #header-text-nav-container -->
+
+		
+					<div class="header-post-title-container clearfix">
+				<div class="inner-wrap">
+					<div class="post-title-wrapper">
+													<h1 class="header-post-title-class entry-title">News for Critical Thinkers&#8230;.and Sports</h1>
+							
+						
+					</div>
+					<div class="breadcrumb" xmlns:v="http://rdf.data-vocabulary.org/#"><span class="breadcrumb-title">You are here:</span><!-- Breadcrumb NavXT 6.6.0 -->
+<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to AKRDY." href="https://akrdy.com" class="home" ><span property="name">AKRDY</span></a><meta property="position" content="1"></span> &gt; <span property="itemListElement" typeof="ListItem"><span property="name" class="post post-page current-item">News for Critical Thinkers&#8230;.and Sports</span><meta property="url" content="https://akrdy.com/news/"><meta property="position" content="2"></span></div> <!-- .breadcrumb : NavXT -->				</div>
+			</div>
+				</header>
+		<div id="main" class="clearfix">
+		<div class="inner-wrap">
+
+	
+	<div id="primary">
+		<div id="content" class="clearfix">
+			
+				
+<article id="post-1462" class="post-1462 page type-page status-publish hentry  tg-column-third">
+		<div class="entry-content clearfix">
+								<div data-elementor-type="wp-page" data-elementor-id="1462" class="elementor elementor-1462" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-cb14e32 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cb14e32" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3d2eb34" data-id="3d2eb34" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-dd5d1b2 elementor-widget elementor-widget-wp-widget-rpwe_widget" data-id="dd5d1b2" data-element_type="widget" data-widget_type="wp-widget-rpwe_widget.default">
+				<div class="elementor-widget-container">
+			<style>.rpwe-block ul{
+list-style: none !important;
+margin-left: 0 !important;
+padding-left: 0 !important;
+}
+
+.rpwe-block li{
+border-bottom: 1px solid #9a9a9a;
+margin-bottom: 10px;
+padding-bottom: 10px;
+list-style-type: none;
+}
+
+.rpwe-block a{
+display: inline !important;
+text-decoration: none;
+}
+
+.rpwe-block h3{
+background: none !important;
+clear: none;
+margin-bottom: 0 !important;
+margin-top: 0 !important;
+font: 13px Arial, sans-serif;
+font-weight: bold;
+text-transform: uppercase;
+line-height: 1.5em;
+}
+
+.rpwe-thumb{
+border: 0px solid #eee !important;
+box-shadow: none !important;
+margin: 4px 10px 4px 4px;
+padding: 3px !important;
+}
+
+.rpwe-summary{
+font-size: 12px;
+}
+
+.rpwe-time{
+color: #bbb;
+font-size: 11px;
+}
+
+.rpwe-comment{
+color: #bbb;
+font-size: 11px;
+padding-left: 5px;
+}
+
+.rpwe-alignleft{
+display: inline;
+float: left;
+}
+
+.rpwe-alignright{
+display: inline;
+float: right;
+}
+
+.rpwe-aligncenter{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.rpwe-clearfix:before,
+.rpwe-clearfix:after{
+content: "";
+display: table !important;
+}
+
+.rpwe-clearfix:after{
+clear: both;
+}
+
+.rpwe-clearfix{
+zoom: 1;
+}
+</style><aside class="widget "><div  class="rpwe-block "><ul class="rpwe-ul"><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.washingtonexaminer.com/opinion/voters-stood-up-to-the-culture-and-declared-their-center-right-values?utm_source=Salena+Zito&#038;utm_campaign=114a6fac03-EMAIL_CAMPAIGN_2020_11_08_08_35&#038;utm_medium=email&#038;utm_term=0_06ac76b2f8-114a6fac03-431482555#new_tab"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/file-20201105-13-1386vv5-75x75.jpg" alt="The Center-Right Americans Voted this Week"></a><h3 class="rpwe-title"><a href="https://www.washingtonexaminer.com/opinion/voters-stood-up-to-the-culture-and-declared-their-center-right-values?utm_source=Salena+Zito&#038;utm_campaign=114a6fac03-EMAIL_CAMPAIGN_2020_11_08_08_35&#038;utm_medium=email&#038;utm_term=0_06ac76b2f8-114a6fac03-431482555#new_tab" title="Permalink to The Center-Right Americans Voted this Week" rel="bookmark">The Center-Right Americans Voted this Week</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://api.follow.it/track-rss-story-click/JkdZVAEyO__7C0lw4f4Z9erxgC_b5lQMKpdqL8OVAHkuhHDBoe-FbrE9XM1GvDTZIunXWq1gvyyXVyyG6Um3r-OJF9h-YhF7vO_pmCl7Cu3nWgQpQ0c7dnK0tapKzuDK" rel="bookmark"><img loading="lazy" class="rpwe-alignleft rpwe-thumb rpwe-default-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/10/ak-ready-01.jpg" alt="Brennan: State income tax in our future" width="75" height="75"></a><h3 class="rpwe-title"><a href="https://api.follow.it/track-rss-story-click/JkdZVAEyO__7C0lw4f4Z9erxgC_b5lQMKpdqL8OVAHkuhHDBoe-FbrE9XM1GvDTZIunXWq1gvyyXVyyG6Um3r-OJF9h-YhF7vO_pmCl7Cu3nWgQpQ0c7dnK0tapKzuDK" title="Permalink to Brennan: State income tax in our future" rel="bookmark">Brennan: State income tax in our future</a></h3></li></ul></div><!-- Generated by http://wordpress.org/plugins/recent-posts-widget-extended/ --></aside>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b8351e7 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="b8351e7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d10dcd0" data-id="d10dcd0" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-215ce92 elementor-widget elementor-widget-heading" data-id="215ce92" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">News from Alaska</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c731f86 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c731f86" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a31e5aa" data-id="a31e5aa" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-b52392f elementor-widget elementor-widget-wp-widget-rpwe_widget" data-id="b52392f" data-element_type="widget" data-widget_type="wp-widget-rpwe_widget.default">
+				<div class="elementor-widget-container">
+			<style>.rpwe-block ul{
+list-style: none !important;
+margin-left: 0 !important;
+padding-left: 0 !important;
+}
+
+.rpwe-block li{
+border-bottom: 1px solid #9a9a9a;
+margin-bottom: 10px;
+padding-bottom: 10px;
+list-style-type: none;
+}
+
+.rpwe-block a{
+display: inline !important;
+text-decoration: none;
+}
+
+.rpwe-block h3{
+background: none !important;
+clear: none;
+margin-bottom: 0 !important;
+margin-top: 0 !important;
+font: 13px Arial, sans-serif;
+font-weight: bold;
+text-transform: uppercase;
+line-height: 1.5em;
+}
+
+.rpwe-thumb{
+border: 0px solid #eee !important;
+box-shadow: none !important;
+margin: 4px 10px 4px 4px;
+padding: 3px !important;
+}
+
+.rpwe-summary{
+font-size: 12px;
+}
+
+.rpwe-time{
+color: #bbb;
+font-size: 11px;
+}
+
+.rpwe-comment{
+color: #bbb;
+font-size: 11px;
+padding-left: 5px;
+}
+
+.rpwe-alignleft{
+display: inline;
+float: left;
+}
+
+.rpwe-alignright{
+display: inline;
+float: right;
+}
+
+.rpwe-aligncenter{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.rpwe-clearfix:before,
+.rpwe-clearfix:after{
+content: "";
+display: table !important;
+}
+
+.rpwe-clearfix:after{
+clear: both;
+}
+
+.rpwe-clearfix{
+zoom: 1;
+}
+</style><aside class="widget "><div  class="rpwe-block "><ul class="rpwe-ul"><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.alaskapublic.org/2020/11/08/former-bethel-elementary-principal-chris-carmichael-pleads-guilty-to-federal-charges/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/unnamed-1-600x401-1-75x75.jpg" alt="Former Bethel elementary principal Chris Carmichael pleads guilty to federal charges"></a><h3 class="rpwe-title"><a href="https://www.alaskapublic.org/2020/11/08/former-bethel-elementary-principal-chris-carmichael-pleads-guilty-to-federal-charges/" title="Permalink to Former Bethel elementary principal Chris Carmichael pleads guilty to federal charges" rel="bookmark">Former Bethel elementary principal Chris Carmichael pleads guilty to federal charges</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.alaskapublic.org/2020/11/08/gov-dunleavy-extends-alaskas-emergency-declaration-urges-alaskans-to-change-behavior/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/Dunleavyflickr-600x400-1-75x75.jpg" alt="Gov. Dunleavy extends Alaska’s emergency declaration, urges Alaskans to change behavior"></a><h3 class="rpwe-title"><a href="https://www.alaskapublic.org/2020/11/08/gov-dunleavy-extends-alaskas-emergency-declaration-urges-alaskans-to-change-behavior/" title="Permalink to Gov. Dunleavy extends Alaska’s emergency declaration, urges Alaskans to change behavior" rel="bookmark">Gov. Dunleavy extends Alaska’s emergency declaration, urges Alaskans to change behavior</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://mustreadalaska.com/mat-su-borough-election-results/"  rel="bookmark"><img width="32" height="32" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/cropped-favicon.png" class="rpwe-alignleft rpwe-thumb the-post-thumbnail wp-post-image" alt="Mat-Su Borough election results" loading="lazy" /></a><h3 class="rpwe-title"><a href="https://mustreadalaska.com/mat-su-borough-election-results/" title="Permalink to Mat-Su Borough election results" rel="bookmark">Mat-Su Borough election results</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://mustreadalaska.com/land-of-no-biden-is-about-to-shipwreck-alaskas-economic-boat/"  rel="bookmark"><img width="32" height="32" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/cropped-favicon.png" class="rpwe-alignleft rpwe-thumb the-post-thumbnail wp-post-image" alt="‘Land of No’: Biden is about to shipwreck Alaska’s economic boat" loading="lazy" /></a><h3 class="rpwe-title"><a href="https://mustreadalaska.com/land-of-no-biden-is-about-to-shipwreck-alaskas-economic-boat/" title="Permalink to ‘Land of No’: Biden is about to shipwreck Alaska’s economic boat" rel="bookmark">‘Land of No’: Biden is about to shipwreck Alaska’s economic boat</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://mustreadalaska.com/nate-silver-to-al-gross-you-arent-going-to-get-70-brah/"  rel="bookmark"><img width="32" height="32" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/cropped-favicon.png" class="rpwe-alignleft rpwe-thumb the-post-thumbnail wp-post-image" alt="Nate Silver to Al Gross: You aren’t going to get 70%, brah" loading="lazy" /></a><h3 class="rpwe-title"><a href="https://mustreadalaska.com/nate-silver-to-al-gross-you-arent-going-to-get-70-brah/" title="Permalink to Nate Silver to Al Gross: You aren’t going to get 70%, brah" rel="bookmark">Nate Silver to Al Gross: You aren’t going to get 70%, brah</a></h3></li></ul></div><!-- Generated by http://wordpress.org/plugins/recent-posts-widget-extended/ --></aside>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-0a02a5a elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="0a02a5a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6941271" data-id="6941271" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-987a6d9 elementor-widget elementor-widget-heading" data-id="987a6d9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Anchorage Exposed</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d23d229 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d23d229" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d51b723" data-id="d51b723" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-4dd15df elementor-widget elementor-widget-wp-widget-rpwe_widget" data-id="4dd15df" data-element_type="widget" data-widget_type="wp-widget-rpwe_widget.default">
+				<div class="elementor-widget-container">
+			<style>.rpwe-block ul{
+list-style: none !important;
+margin-left: 0 !important;
+padding-left: 0 !important;
+}
+
+.rpwe-block li{
+border-bottom: 1px solid #9a9a9a;
+margin-bottom: 10px;
+padding-bottom: 10px;
+list-style-type: none;
+}
+
+.rpwe-block a{
+display: inline !important;
+text-decoration: none;
+}
+
+.rpwe-block h3{
+background: none !important;
+clear: none;
+margin-bottom: 0 !important;
+margin-top: 0 !important;
+font: 13px Arial, sans-serif;
+font-weight: bold;
+text-transform: uppercase;
+line-height: 1.5em;
+}
+
+.rpwe-thumb{
+border: 0px solid #eee !important;
+box-shadow: none !important;
+margin: 4px 10px 4px 4px;
+padding: 3px !important;
+}
+
+.rpwe-summary{
+font-size: 12px;
+}
+
+.rpwe-time{
+color: #bbb;
+font-size: 11px;
+}
+
+.rpwe-comment{
+color: #bbb;
+font-size: 11px;
+padding-left: 5px;
+}
+
+.rpwe-alignleft{
+display: inline;
+float: left;
+}
+
+.rpwe-alignright{
+display: inline;
+float: right;
+}
+
+.rpwe-aligncenter{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.rpwe-clearfix:before,
+.rpwe-clearfix:after{
+content: "";
+display: table !important;
+}
+
+.rpwe-clearfix:after{
+clear: both;
+}
+
+.rpwe-clearfix{
+zoom: 1;
+}
+</style><aside class="widget "><div  class="rpwe-block "><ul class="rpwe-ul"><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://api.follow.it/track-rss-story-click/JkdZVAEyO__7C0lw4f4Z9apq9Y3SykydKpdqL8OVAHkuhHDBoe-FbrE9XM1GvDTZIunXWq1gvyw9UTkie2WLF3dXB3TxaksFAUI__4_0IgI"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/toon-Sun.-11820-75x75.jpg" alt="Ramirez"></a><h3 class="rpwe-title"><a href="https://api.follow.it/track-rss-story-click/JkdZVAEyO__7C0lw4f4Z9apq9Y3SykydKpdqL8OVAHkuhHDBoe-FbrE9XM1GvDTZIunXWq1gvyw9UTkie2WLF3dXB3TxaksFAUI__4_0IgI" title="Permalink to Ramirez" rel="bookmark">Ramirez</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://mustreadalaska.com/by-the-numbers-alaskas-red-wave-is-largest-in-history-this-century/" rel="bookmark"><img loading="lazy" class="rpwe-alignleft rpwe-thumb rpwe-default-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/10/ak-ready-01.jpg" alt="By the numbers: Alaska’s Red wave is largest in history this century" width="75" height="75"></a><h3 class="rpwe-title"><a href="https://mustreadalaska.com/by-the-numbers-alaskas-red-wave-is-largest-in-history-this-century/" title="Permalink to By the numbers: Alaska’s Red wave is largest in history this century" rel="bookmark">By the numbers: Alaska’s Red wave is largest in history this century</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://mustreadalaska.com/after-unprecedented-election-day-alaskas-energy-community-waits-for-results/" rel="bookmark"><img loading="lazy" class="rpwe-alignleft rpwe-thumb rpwe-default-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/10/ak-ready-01.jpg" alt="After unprecedented Election Day, Alaska’s energy community waits for results" width="75" height="75"></a><h3 class="rpwe-title"><a href="https://mustreadalaska.com/after-unprecedented-election-day-alaskas-energy-community-waits-for-results/" title="Permalink to After unprecedented Election Day, Alaska’s energy community waits for results" rel="bookmark">After unprecedented Election Day, Alaska’s energy community waits for results</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://mustreadalaska.com/gross-supporters-have-a-parting-gift-for-sullivan-campaign/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/IMG_2407-1-75x75.jpeg" alt="Gross supporters have a parting gift for Sullivan campaign"></a><h3 class="rpwe-title"><a href="https://mustreadalaska.com/gross-supporters-have-a-parting-gift-for-sullivan-campaign/" title="Permalink to Gross supporters have a parting gift for Sullivan campaign" rel="bookmark">Gross supporters have a parting gift for Sullivan campaign</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://mustreadalaska.com/red-mirage-or-blue-delusion/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/TargetSmart-1-75x75.jpg" alt="Red mirage or blue delusion?"></a><h3 class="rpwe-title"><a href="https://mustreadalaska.com/red-mirage-or-blue-delusion/" title="Permalink to Red mirage or blue delusion?" rel="bookmark">Red mirage or blue delusion?</a></h3></li></ul></div><!-- Generated by http://wordpress.org/plugins/recent-posts-widget-extended/ --></aside>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-83c9826 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="83c9826" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b5338b2" data-id="b5338b2" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-889b437 elementor-widget elementor-widget-heading" data-id="889b437" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Religion</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-542c255 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="542c255" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e65ab9c" data-id="e65ab9c" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-61a7262 elementor-widget elementor-widget-wp-widget-rpwe_widget" data-id="61a7262" data-element_type="widget" data-widget_type="wp-widget-rpwe_widget.default">
+				<div class="elementor-widget-container">
+			<style>.rpwe-block ul{
+list-style: none !important;
+margin-left: 0 !important;
+padding-left: 0 !important;
+}
+
+.rpwe-block li{
+border-bottom: 1px solid #9a9a9a;
+margin-bottom: 10px;
+padding-bottom: 10px;
+list-style-type: none;
+}
+
+.rpwe-block a{
+display: inline !important;
+text-decoration: none;
+}
+
+.rpwe-block h3{
+background: none !important;
+clear: none;
+margin-bottom: 0 !important;
+margin-top: 0 !important;
+font: 13px Arial, sans-serif;
+font-weight: bold;
+text-transform: uppercase;
+line-height: 1.5em;
+}
+
+.rpwe-thumb{
+border: 0px solid #eee !important;
+box-shadow: none !important;
+margin: 4px 10px 4px 4px;
+padding: 3px !important;
+}
+
+.rpwe-summary{
+font-size: 12px;
+}
+
+.rpwe-time{
+color: #bbb;
+font-size: 11px;
+}
+
+.rpwe-comment{
+color: #bbb;
+font-size: 11px;
+padding-left: 5px;
+}
+
+.rpwe-alignleft{
+display: inline;
+float: left;
+}
+
+.rpwe-alignright{
+display: inline;
+float: right;
+}
+
+.rpwe-aligncenter{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.rpwe-clearfix:before,
+.rpwe-clearfix:after{
+content: "";
+display: table !important;
+}
+
+.rpwe-clearfix:after{
+clear: both;
+}
+
+.rpwe-clearfix{
+zoom: 1;
+}
+
+</style><aside class="widget "><div  class="rpwe-block "><ul class="rpwe-ul"><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="http://rss.desiringgod.org/link/10732/14042312/i-have-fought-the-good-fight"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/i-have-fought-the-good-fight-nzxmjwy0-823a493116c309dde28c533fdad7a449-75x75.jpg" alt="I Have Fought the Good Fight: How Assurance Changes Everything"></a><h3 class="rpwe-title"><a href="http://rss.desiringgod.org/link/10732/14042312/i-have-fought-the-good-fight" title="Permalink to I Have Fought the Good Fight: How Assurance Changes Everything" rel="bookmark">I Have Fought the Good Fight: How Assurance Changes Everything</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="http://rss.desiringgod.org/link/10732/14042311/singing-suffering-and-scripture" rel="bookmark"><img loading="lazy" class="rpwe-alignleft rpwe-thumb rpwe-default-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/10/ak-ready-01.jpg" alt="Singing, Suffering, and Scripture: How God Keeps Us Through Song" width="75" height="75"></a><h3 class="rpwe-title"><a href="http://rss.desiringgod.org/link/10732/14042311/singing-suffering-and-scripture" title="Permalink to Singing, Suffering, and Scripture: How God Keeps Us Through Song" rel="bookmark">Singing, Suffering, and Scripture: How God Keeps Us Through Song</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="http://feeds.gty.org/~/199388092/0/gtyblog"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/04-The-Preciousness-of-Heaven-Ren-75x75.jpg" alt="The Preciousness of Heaven"></a><h3 class="rpwe-title"><a href="http://feeds.gty.org/~/199388092/0/gtyblog" title="Permalink to The Preciousness of Heaven" rel="bookmark">The Preciousness of Heaven</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="http://feeds.gty.org/~/197223734/0/gtyblog"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/10/03-The-Hopelessness-of-Hope-and-Change-Ren-75x75.jpg" alt="The Hopelessness of Hope and Change"></a><h3 class="rpwe-title"><a href="http://feeds.gty.org/~/197223734/0/gtyblog" title="Permalink to The Hopelessness of Hope and Change" rel="bookmark">The Hopelessness of Hope and Change</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="http://feeds.gty.org/~/196058112/0/gtyblog"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/10/02-Morality-Damns-Ren-75x75.jpg" alt="Morality Damns"></a><h3 class="rpwe-title"><a href="http://feeds.gty.org/~/196058112/0/gtyblog" title="Permalink to Morality Damns" rel="bookmark">Morality Damns</a></h3></li></ul></div><!-- Generated by http://wordpress.org/plugins/recent-posts-widget-extended/ --></aside>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e81f6e9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e81f6e9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-272d905" data-id="272d905" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-d22ac3c elementor-widget elementor-widget-heading" data-id="d22ac3c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Lower 48 News</h2>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-705b2e7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="705b2e7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-41a645b" data-id="41a645b" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-e17aec6 elementor-widget elementor-widget-wp-widget-rpwe_widget" data-id="e17aec6" data-element_type="widget" data-widget_type="wp-widget-rpwe_widget.default">
+				<div class="elementor-widget-container">
+			<style>.rpwe-block ul{
+list-style: none !important;
+margin-left: 0 !important;
+padding-left: 0 !important;
+}
+
+.rpwe-block li{
+border-bottom: 1px solid #9a9a9a;
+margin-bottom: 10px;
+padding-bottom: 10px;
+list-style-type: none;
+}
+
+.rpwe-block a{
+display: inline !important;
+text-decoration: none;
+}
+
+.rpwe-block h3{
+background: none !important;
+clear: none;
+margin-bottom: 0 !important;
+margin-top: 0 !important;
+font: 13px Arial, sans-serif;
+font-weight: bold;
+text-transform: uppercase;
+line-height: 1.5em;
+}
+
+.rpwe-thumb{
+border: 0px solid #eee !important;
+box-shadow: none !important;
+margin: 4px 10px 4px 4px;
+padding: 3px !important;
+}
+
+.rpwe-summary{
+font-size: 12px;
+}
+
+.rpwe-time{
+color: #bbb;
+font-size: 11px;
+}
+
+.rpwe-comment{
+color: #bbb;
+font-size: 11px;
+padding-left: 5px;
+}
+
+.rpwe-alignleft{
+display: inline;
+float: left;
+}
+
+.rpwe-alignright{
+display: inline;
+float: right;
+}
+
+.rpwe-aligncenter{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.rpwe-clearfix:before,
+.rpwe-clearfix:after{
+content: "";
+display: table !important;
+}
+
+.rpwe-clearfix:after{
+clear: both;
+}
+
+.rpwe-clearfix{
+zoom: 1;
+}
+
+</style><aside class="widget "><div  class="rpwe-block "><ul class="rpwe-ul"><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.theblaze.com/news/ocasio-cortez-lashes-out-at-democratic-party"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/img-35-75x75.jpg" alt="Alexandria Ocasio-Cortez lashes out at Democratic Party, hints at quitting politics"></a><h3 class="rpwe-title"><a href="https://www.theblaze.com/news/ocasio-cortez-lashes-out-at-democratic-party" title="Permalink to Alexandria Ocasio-Cortez lashes out at Democratic Party, hints at quitting politics" rel="bookmark">Alexandria Ocasio-Cortez lashes out at Democratic Party, hints at quitting politics</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.theblaze.com/news/mitt-romney-says-americans-should-get-behind-joe-biden"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/img-34-75x75.jpg" alt="Mitt Romney says Americans should &#039;get behind&#039; Joe Biden, slams Trump: &#039;Don&#039;t expect him to go quietly&#039;"></a><h3 class="rpwe-title"><a href="https://www.theblaze.com/news/mitt-romney-says-americans-should-get-behind-joe-biden" title="Permalink to Mitt Romney says Americans should &#039;get behind&#039; Joe Biden, slams Trump: &#039;Don&#039;t expect him to go quietly&#039;" rel="bookmark">Mitt Romney says Americans should &#039;get behind&#039; Joe Biden, slams Trump: &#039;Don&#039;t expect him to go quietly&#039;</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.theblaze.com/news/washington-dc-protests-biden-blm-anarchists"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/img-31-75x75.jpg" alt="BLM and anarchist groups call to &#039;burn it down,&#039; berate Biden supporters: &#039;You are a bunch of fools!&#039;"></a><h3 class="rpwe-title"><a href="https://www.theblaze.com/news/washington-dc-protests-biden-blm-anarchists" title="Permalink to BLM and anarchist groups call to &#039;burn it down,&#039; berate Biden supporters: &#039;You are a bunch of fools!&#039;" rel="bookmark">BLM and anarchist groups call to &#039;burn it down,&#039; berate Biden supporters: &#039;You are a bunch of fools!&#039;</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://prospect.org/politics/phew-trump-defeated-biden-wins-election/" rel="bookmark"><img loading="lazy" class="rpwe-alignleft rpwe-thumb rpwe-default-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/10/ak-ready-01.jpg" alt="Phew!" width="75" height="75"></a><h3 class="rpwe-title"><a href="https://prospect.org/politics/phew-trump-defeated-biden-wins-election/" title="Permalink to Phew!" rel="bookmark">Phew!</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://prospect.org/blogs/tap/trump-the-art-of-the-deal/" rel="bookmark"><img loading="lazy" class="rpwe-alignleft rpwe-thumb rpwe-default-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/10/ak-ready-01.jpg" alt="Trump: The Art of the Deal" width="75" height="75"></a><h3 class="rpwe-title"><a href="https://prospect.org/blogs/tap/trump-the-art-of-the-deal/" title="Permalink to Trump: The Art of the Deal" rel="bookmark">Trump: The Art of the Deal</a></h3></li></ul></div><!-- Generated by http://wordpress.org/plugins/recent-posts-widget-extended/ --></aside>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-f10fdc4" data-id="f10fdc4" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-38e3dad elementor-widget elementor-widget-wp-widget-rpwe_widget" data-id="38e3dad" data-element_type="widget" data-widget_type="wp-widget-rpwe_widget.default">
+				<div class="elementor-widget-container">
+			<style>.rpwe-block ul{
+list-style: none !important;
+margin-left: 0 !important;
+padding-left: 0 !important;
+}
+
+.rpwe-block li{
+border-bottom: 1px solid #9a9a9a;
+margin-bottom: 10px;
+padding-bottom: 10px;
+list-style-type: none;
+}
+
+.rpwe-block a{
+display: inline !important;
+text-decoration: none;
+}
+
+.rpwe-block h3{
+background: none !important;
+clear: none;
+margin-bottom: 0 !important;
+margin-top: 0 !important;
+font: 13px Arial, sans-serif;
+font-weight: bold;
+text-transform: uppercase;
+line-height: 1.5em;
+}
+
+.rpwe-thumb{
+border: 0px solid #eee !important;
+box-shadow: none !important;
+margin: 4px 10px 4px 4px;
+padding: 3px !important;
+}
+
+.rpwe-summary{
+font-size: 12px;
+}
+
+.rpwe-time{
+color: #bbb;
+font-size: 11px;
+}
+
+.rpwe-comment{
+color: #bbb;
+font-size: 11px;
+padding-left: 5px;
+}
+
+.rpwe-alignleft{
+display: inline;
+float: left;
+}
+
+.rpwe-alignright{
+display: inline;
+float: right;
+}
+
+.rpwe-aligncenter{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.rpwe-clearfix:before,
+.rpwe-clearfix:after{
+content: "";
+display: table !important;
+}
+
+.rpwe-clearfix:after{
+clear: both;
+}
+
+.rpwe-clearfix{
+zoom: 1;
+}
+
+</style><aside class="widget "><div  class="rpwe-block "><ul class="rpwe-ul"><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://spectator.org/the-miracle-of-american-business/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/cropped-favicon-150x150-4-75x75.png" alt="The Miracle of American Business"></a><h3 class="rpwe-title"><a href="https://spectator.org/the-miracle-of-american-business/" title="Permalink to The Miracle of American Business" rel="bookmark">The Miracle of American Business</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://spectator.org/stop-the-steal-start-the-audit/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/cropped-favicon-150x150-4-75x75.png" alt="Stop the Steal — Start the Audit"></a><h3 class="rpwe-title"><a href="https://spectator.org/stop-the-steal-start-the-audit/" title="Permalink to Stop the Steal — Start the Audit" rel="bookmark">Stop the Steal — Start the Audit</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.washingtonexaminer.com/news/michelle-obama-says-70m-americans-voted-for-lies-hate-chaos-and-division" rel="bookmark"><img loading="lazy" class="rpwe-alignleft rpwe-thumb rpwe-default-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/10/ak-ready-01.jpg" alt="Michelle Obama says 70M Americans voted for &#039;lies, hate, chaos and division&#039;" width="75" height="75"></a><h3 class="rpwe-title"><a href="https://www.washingtonexaminer.com/news/michelle-obama-says-70m-americans-voted-for-lies-hate-chaos-and-division" title="Permalink to Michelle Obama says 70M Americans voted for &#039;lies, hate, chaos and division&#039;" rel="bookmark">Michelle Obama says 70M Americans voted for &#039;lies, hate, chaos and division&#039;</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://spectator.org/susan-collins-beat-the-lincoln-project/" rel="bookmark"><img loading="lazy" class="rpwe-alignleft rpwe-thumb rpwe-default-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/10/ak-ready-01.jpg" alt="Susan Collins Beat the Lincoln Project" width="75" height="75"></a><h3 class="rpwe-title"><a href="https://spectator.org/susan-collins-beat-the-lincoln-project/" title="Permalink to Susan Collins Beat the Lincoln Project" rel="bookmark">Susan Collins Beat the Lincoln Project</a></h3></li></ul></div><!-- Generated by http://wordpress.org/plugins/recent-posts-widget-extended/ --></aside>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6039c59" data-id="6039c59" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-9c9fc86 elementor-widget elementor-widget-wp-widget-rpwe_widget" data-id="9c9fc86" data-element_type="widget" data-widget_type="wp-widget-rpwe_widget.default">
+				<div class="elementor-widget-container">
+			<style>.rpwe-block ul{
+list-style: none !important;
+margin-left: 0 !important;
+padding-left: 0 !important;
+}
+
+.rpwe-block li{
+border-bottom: 1px solid #9a9a9a;
+margin-bottom: 10px;
+padding-bottom: 10px;
+list-style-type: none;
+}
+
+.rpwe-block a{
+display: inline !important;
+text-decoration: none;
+}
+
+.rpwe-block h3{
+background: none !important;
+clear: none;
+margin-bottom: 0 !important;
+margin-top: 0 !important;
+font: 13px Arial, sans-serif;
+font-weight: bold;
+text-transform: uppercase;
+line-height: 1.5em;
+}
+
+.rpwe-thumb{
+border: 0px solid #eee !important;
+box-shadow: none !important;
+margin: 4px 10px 4px 4px;
+padding: 3px !important;
+}
+
+.rpwe-summary{
+font-size: 12px;
+}
+
+.rpwe-time{
+color: #bbb;
+font-size: 11px;
+}
+
+.rpwe-comment{
+color: #bbb;
+font-size: 11px;
+padding-left: 5px;
+}
+
+.rpwe-alignleft{
+display: inline;
+float: left;
+}
+
+.rpwe-alignright{
+display: inline;
+float: right;
+}
+
+.rpwe-aligncenter{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.rpwe-clearfix:before,
+.rpwe-clearfix:after{
+content: "";
+display: table !important;
+}
+
+.rpwe-clearfix:after{
+clear: both;
+}
+
+.rpwe-clearfix{
+zoom: 1;
+}
+
+</style><aside class="widget "><div  class="rpwe-block "><ul class="rpwe-ul"><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.washingtonexaminer.com/opinion/how-local-focus-helped-a-pennsylvania-republican-survive-2020?utm_source=Salena+Zito&#038;utm_campaign=28db4661fe-EMAIL_CAMPAIGN_2020_11_07_11_41&#038;utm_medium=email&#038;utm_term=0_06ac76b2f8-28db4661fe-431482555#new_tab" rel="bookmark"><img loading="lazy" class="rpwe-alignleft rpwe-thumb rpwe-default-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/10/ak-ready-01.jpg" alt="The Blue Battle for Pennsylvania" width="75" height="75"></a><h3 class="rpwe-title"><a href="https://www.washingtonexaminer.com/opinion/how-local-focus-helped-a-pennsylvania-republican-survive-2020?utm_source=Salena+Zito&#038;utm_campaign=28db4661fe-EMAIL_CAMPAIGN_2020_11_07_11_41&#038;utm_medium=email&#038;utm_term=0_06ac76b2f8-28db4661fe-431482555#new_tab" title="Permalink to The Blue Battle for Pennsylvania" rel="bookmark">The Blue Battle for Pennsylvania</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.washingtonexaminer.com/opinion/voters-stood-up-to-the-culture-and-declared-their-center-right-values?utm_source=Salena+Zito&#038;utm_campaign=114a6fac03-EMAIL_CAMPAIGN_2020_11_08_08_35&#038;utm_medium=email&#038;utm_term=0_06ac76b2f8-114a6fac03-431482555#new_tab"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/file-20201105-13-1386vv5-75x75.jpg" alt="The Center-Right Americans Voted this Week"></a><h3 class="rpwe-title"><a href="https://www.washingtonexaminer.com/opinion/voters-stood-up-to-the-culture-and-declared-their-center-right-values?utm_source=Salena+Zito&#038;utm_campaign=114a6fac03-EMAIL_CAMPAIGN_2020_11_08_08_35&#038;utm_medium=email&#038;utm_term=0_06ac76b2f8-114a6fac03-431482555#new_tab" title="Permalink to The Center-Right Americans Voted this Week" rel="bookmark">The Center-Right Americans Voted this Week</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://thefederalist.com/2020/11/08/with-alex-trebek-we-say-goodbye-to-an-era-in-television/"  rel="bookmark"><img width="32" height="32" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/cropped-fdrlst-eagle-32x32-1.png" class="rpwe-alignleft rpwe-thumb the-post-thumbnail wp-post-image" alt="With Alex Trebek, We Say Goodbye To An Era In Television" loading="lazy" /></a><h3 class="rpwe-title"><a href="https://thefederalist.com/2020/11/08/with-alex-trebek-we-say-goodbye-to-an-era-in-television/" title="Permalink to With Alex Trebek, We Say Goodbye To An Era In Television" rel="bookmark">With Alex Trebek, We Say Goodbye To An Era In Television</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://thefederalist.com/2020/11/08/mollie-hemingway-on-the-media-they-lie-they-lie-they-lie-and-then-they-lie/"  rel="bookmark"><img width="32" height="32" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/cropped-fdrlst-eagle-32x32-1.png" class="rpwe-alignleft rpwe-thumb the-post-thumbnail wp-post-image" alt="Mollie Hemingway On The Media: ‘They Lie, They Lie, They Lie. And Then They Lie’" loading="lazy" /></a><h3 class="rpwe-title"><a href="https://thefederalist.com/2020/11/08/mollie-hemingway-on-the-media-they-lie-they-lie-they-lie-and-then-they-lie/" title="Permalink to Mollie Hemingway On The Media: ‘They Lie, They Lie, They Lie. And Then They Lie’" rel="bookmark">Mollie Hemingway On The Media: ‘They Lie, They Lie, They Lie. And Then They Lie’</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://thefederalist.com/2020/11/08/america-wont-trust-elections-until-the-voter-fraud-is-investigated/"  rel="bookmark"><img width="32" height="32" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/cropped-fdrlst-eagle-32x32-1.png" class="rpwe-alignleft rpwe-thumb the-post-thumbnail wp-post-image" alt="America Won’t Trust Elections Until The Voter Fraud Is Investigated" loading="lazy" /></a><h3 class="rpwe-title"><a href="https://thefederalist.com/2020/11/08/america-wont-trust-elections-until-the-voter-fraud-is-investigated/" title="Permalink to America Won’t Trust Elections Until The Voter Fraud Is Investigated" rel="bookmark">America Won’t Trust Elections Until The Voter Fraud Is Investigated</a></h3></li></ul></div><!-- Generated by http://wordpress.org/plugins/recent-posts-widget-extended/ --></aside>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-eb5b235 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="eb5b235" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-dde8941" data-id="dde8941" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-89a5f16 elementor-widget elementor-widget-heading" data-id="89a5f16" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Hunting &amp; Fishing</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-358aee7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="358aee7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c792fad" data-id="c792fad" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-44c2777 elementor-widget elementor-widget-wp-widget-rpwe_widget" data-id="44c2777" data-element_type="widget" data-widget_type="wp-widget-rpwe_widget.default">
+				<div class="elementor-widget-container">
+			<style>.rpwe-block ul{
+list-style: none !important;
+margin-left: 0 !important;
+padding-left: 0 !important;
+}
+
+.rpwe-block li{
+border-bottom: 1px solid #9a9a9a;
+margin-bottom: 10px;
+padding-bottom: 10px;
+list-style-type: none;
+}
+
+.rpwe-block a{
+display: inline !important;
+text-decoration: none;
+}
+
+.rpwe-block h3{
+background: none !important;
+clear: none;
+margin-bottom: 0 !important;
+margin-top: 0 !important;
+font: 13px Arial, sans-serif;
+font-weight: bold;
+text-transform: uppercase;
+line-height: 1.5em;
+}
+
+.rpwe-thumb{
+border: 0px solid #eee !important;
+box-shadow: none !important;
+margin: 4px 10px 4px 4px;
+padding: 3px !important;
+}
+
+.rpwe-summary{
+font-size: 12px;
+}
+
+.rpwe-time{
+color: #bbb;
+font-size: 11px;
+}
+
+.rpwe-comment{
+color: #bbb;
+font-size: 11px;
+padding-left: 5px;
+}
+
+.rpwe-alignleft{
+display: inline;
+float: left;
+}
+
+.rpwe-alignright{
+display: inline;
+float: right;
+}
+
+.rpwe-aligncenter{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.rpwe-clearfix:before,
+.rpwe-clearfix:after{
+content: "";
+display: table !important;
+}
+
+.rpwe-clearfix:after{
+clear: both;
+}
+
+.rpwe-clearfix{
+zoom: 1;
+}
+</style><aside class="widget "><div  class="rpwe-block "><ul class="rpwe-ul"><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="http://www.adfg.alaska.gov/static/applications/dcfnewsrelease/1140556595.pdf" rel="bookmark"><img loading="lazy" class="rpwe-alignleft rpwe-thumb rpwe-default-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/10/ak-ready-01.jpg" alt="Closure Announced for South Alaska Peninsula Area State-Waters Pacific Cod Pot Gear Season" width="75" height="75"></a><h3 class="rpwe-title"><a href="http://www.adfg.alaska.gov/static/applications/dcfnewsrelease/1140556595.pdf" title="Permalink to Closure Announced for South Alaska Peninsula Area State-Waters Pacific Cod Pot Gear Season" rel="bookmark">Closure Announced for South Alaska Peninsula Area State-Waters Pacific Cod Pot Gear Season</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="http://www.adfg.alaska.gov/static/applications/dcfnewsrelease/1136597979.pdf" rel="bookmark"><img loading="lazy" class="rpwe-alignleft rpwe-thumb rpwe-default-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/10/ak-ready-01.jpg" alt="2020 South Alaska Peninsula Area State-Waters Pacific Cod Season Opening for Pot Gear" width="75" height="75"></a><h3 class="rpwe-title"><a href="http://www.adfg.alaska.gov/static/applications/dcfnewsrelease/1136597979.pdf" title="Permalink to 2020 South Alaska Peninsula Area State-Waters Pacific Cod Season Opening for Pot Gear" rel="bookmark">2020 South Alaska Peninsula Area State-Waters Pacific Cod Season Opening for Pot Gear</a></h3></li></ul></div><!-- Generated by http://wordpress.org/plugins/recent-posts-widget-extended/ --></aside>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4e76327 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="4e76327" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-665e1a7" data-id="665e1a7" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-4d8747b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4d8747b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-3177f72" data-id="3177f72" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-c2126e6 elementor-widget elementor-widget-heading" data-id="c2126e6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">SEAHAWKS FANDOM</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-f63ad3a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f63ad3a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-10ae861" data-id="10ae861" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-27e1bf8 elementor-widget elementor-widget-wp-widget-rpwe_widget" data-id="27e1bf8" data-element_type="widget" data-widget_type="wp-widget-rpwe_widget.default">
+				<div class="elementor-widget-container">
+			<style>.rpwe-block ul{
+list-style: none !important;
+margin-left: 0 !important;
+padding-left: 0 !important;
+}
+
+.rpwe-block li{
+border-bottom: 1px solid #9a9a9a;
+margin-bottom: 10px;
+padding-bottom: 10px;
+list-style-type: none;
+}
+
+.rpwe-block a{
+display: inline !important;
+text-decoration: none;
+}
+
+.rpwe-block h3{
+background: none !important;
+clear: none;
+margin-bottom: 0 !important;
+margin-top: 0 !important;
+font: 13px Arial, sans-serif;
+font-weight: bold;
+text-transform: uppercase;
+line-height: 1.5em;
+}
+
+.rpwe-thumb{
+border: 0px solid #eee !important;
+box-shadow: none !important;
+margin: 4px 10px 4px 4px;
+padding: 3px !important;
+}
+
+.rpwe-summary{
+font-size: 12px;
+}
+
+.rpwe-time{
+color: #bbb;
+font-size: 11px;
+}
+
+.rpwe-comment{
+color: #bbb;
+font-size: 11px;
+padding-left: 5px;
+}
+
+.rpwe-alignleft{
+display: inline;
+float: left;
+}
+
+.rpwe-alignright{
+display: inline;
+float: right;
+}
+
+.rpwe-aligncenter{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.rpwe-clearfix:before,
+.rpwe-clearfix:after{
+content: "";
+display: table !important;
+}
+
+.rpwe-clearfix:after{
+clear: both;
+}
+
+.rpwe-clearfix{
+zoom: 1;
+}
+</style><aside class="widget "><div  class="rpwe-block "><ul class="rpwe-ul"><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.fieldgulls.com/2020/11/8/21555709/pete-carroll-seattle-seahawks-defense-nfl-news"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/usa_today_15177502.0-75x75.jpg" alt="Pete Carroll surprised Bills abandoned run to wreck Seattle’s pass D"></a><h3 class="rpwe-title"><a href="https://www.fieldgulls.com/2020/11/8/21555709/pete-carroll-seattle-seahawks-defense-nfl-news" title="Permalink to Pete Carroll surprised Bills abandoned run to wreck Seattle’s pass D" rel="bookmark">Pete Carroll surprised Bills abandoned run to wreck Seattle’s pass D</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.fieldgulls.com/2020/11/8/21555588/fire-ken-norton-jr-seattle-seahawks"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/usa_today_11918897.0-75x75.jpg" alt="This has to be the end for Ken Norton Jr"></a><h3 class="rpwe-title"><a href="https://www.fieldgulls.com/2020/11/8/21555588/fire-ken-norton-jr-seattle-seahawks" title="Permalink to This has to be the end for Ken Norton Jr" rel="bookmark">This has to be the end for Ken Norton Jr</a></h3></li></ul></div><!-- Generated by http://wordpress.org/plugins/recent-posts-widget-extended/ --></aside>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-d31ce92" data-id="d31ce92" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-313c285 elementor-widget elementor-widget-wp-widget-rpwe_widget" data-id="313c285" data-element_type="widget" data-widget_type="wp-widget-rpwe_widget.default">
+				<div class="elementor-widget-container">
+			<style>.rpwe-block ul{
+list-style: none !important;
+margin-left: 0 !important;
+padding-left: 0 !important;
+}
+
+.rpwe-block li{
+border-bottom: 1px solid #9a9a9a;
+margin-bottom: 10px;
+padding-bottom: 10px;
+list-style-type: none;
+}
+
+.rpwe-block a{
+display: inline !important;
+text-decoration: none;
+}
+
+.rpwe-block h3{
+background: none !important;
+clear: none;
+margin-bottom: 0 !important;
+margin-top: 0 !important;
+font: 13px Arial, sans-serif;
+font-weight: bold;
+text-transform: uppercase;
+line-height: 1.5em;
+}
+
+.rpwe-thumb{
+border: 0px solid #eee !important;
+box-shadow: none !important;
+margin: 4px 10px 4px 4px;
+padding: 3px !important;
+}
+
+.rpwe-summary{
+font-size: 12px;
+}
+
+.rpwe-time{
+color: #bbb;
+font-size: 11px;
+}
+
+.rpwe-comment{
+color: #bbb;
+font-size: 11px;
+padding-left: 5px;
+}
+
+.rpwe-alignleft{
+display: inline;
+float: left;
+}
+
+.rpwe-alignright{
+display: inline;
+float: right;
+}
+
+.rpwe-aligncenter{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.rpwe-clearfix:before,
+.rpwe-clearfix:after{
+content: "";
+display: table !important;
+}
+
+.rpwe-clearfix:after{
+clear: both;
+}
+
+.rpwe-clearfix{
+zoom: 1;
+}
+</style><aside class="widget "><div  class="rpwe-block "><ul class="rpwe-ul"><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://seahawkswire.usatoday.com/2020/11/08/highlights-from-the-seahawks-vs-buffalo-matchup-week-9/"  rel="bookmark"><img width="32" height="32" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/cropped-seahawkswireicon-1.png" class="rpwe-alignleft rpwe-thumb the-post-thumbnail wp-post-image" alt="Highlights from the Seahawks vs. Buffalo matchup Week 9" loading="lazy" /></a><h3 class="rpwe-title"><a href="https://seahawkswire.usatoday.com/2020/11/08/highlights-from-the-seahawks-vs-buffalo-matchup-week-9/" title="Permalink to Highlights from the Seahawks vs. Buffalo matchup Week 9" rel="bookmark">Highlights from the Seahawks vs. Buffalo matchup Week 9</a></h3></li><li class="rpwe-li rpwe-clearfix"><h3 class="rpwe-title"><a href="https://seahawkswire.usatoday.com/lists/5-takeaways-from-seattles-painful-44-34-road-loss-to-buffalo/" title="Permalink to 5 takeaways from Seattle&#039;s painful 44-34 road loss to Buffalo" rel="bookmark">5 takeaways from Seattle&#039;s painful 44-34 road loss to Buffalo</a></h3></li></ul></div><!-- Generated by http://wordpress.org/plugins/recent-posts-widget-extended/ --></aside>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d5a827f elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="d5a827f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-75df5a8" data-id="75df5a8" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-f440f0c elementor-widget elementor-widget-heading" data-id="f440f0c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">NFL
+</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a0a27ae elementor-widget elementor-widget-text-editor" data-id="a0a27ae" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h6><strong>Week 8 of 17:</strong></h6><p><strong>Top 5:</strong> <a href="https://www.espn.com/nfl/story/_/id/30197682/nfl-power-rankings-week-8-1-32-poll-plus-players-need-step-2020">Steelers, Chiefs, Seahawks, Ravens, Packers</a></p><p><strong>Bottom 5:</strong> <a href="https://www.espn.com/nfl/story/_/id/30197682/nfl-power-rankings-week-8-1-32-poll-plus-players-need-step-2020">Washington, Falcons, Jaquars, Giants, Jets</a></p></div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-11603c2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="11603c2" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-42d4a73" data-id="42d4a73" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-975c2c4 elementor-widget elementor-widget-wp-widget-rpwe_widget" data-id="975c2c4" data-element_type="widget" data-widget_type="wp-widget-rpwe_widget.default">
+				<div class="elementor-widget-container">
+			<style>.rpwe-block ul{
+list-style: none !important;
+margin-left: 0 !important;
+padding-left: 0 !important;
+}
+
+.rpwe-block li{
+border-bottom: 1px solid #9a9a9a;
+margin-bottom: 10px;
+padding-bottom: 10px;
+list-style-type: none;
+}
+
+.rpwe-block a{
+display: inline !important;
+text-decoration: none;
+}
+
+.rpwe-block h3{
+background: none !important;
+clear: none;
+margin-bottom: 0 !important;
+margin-top: 0 !important;
+font: 13px Arial, sans-serif;
+font-weight: bold;
+text-transform: uppercase;
+line-height: 1.5em;
+}
+
+.rpwe-thumb{
+border: 0px solid #eee !important;
+box-shadow: none !important;
+margin: 4px 10px 4px 4px;
+padding: 3px !important;
+}
+
+.rpwe-summary{
+font-size: 12px;
+}
+
+.rpwe-time{
+color: #bbb;
+font-size: 11px;
+}
+
+.rpwe-comment{
+color: #bbb;
+font-size: 11px;
+padding-left: 5px;
+}
+
+.rpwe-alignleft{
+display: inline;
+float: left;
+}
+
+.rpwe-alignright{
+display: inline;
+float: right;
+}
+
+.rpwe-aligncenter{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.rpwe-clearfix:before,
+.rpwe-clearfix:after{
+content: "";
+display: table !important;
+}
+
+.rpwe-clearfix:after{
+clear: both;
+}
+
+.rpwe-clearfix{
+zoom: 1;
+}
+
+</style><aside class="widget "><div  class="rpwe-block "><ul class="rpwe-ul"><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.espn.com/nfl/story/_/id/30280554/kansas-city-chiefs-qb-patrick-mahomes-passes-dan-marino-fastest-100-passing-tds"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/espn_dotcom_black-14-75x75.gif" alt="Quarterbacking 101: Mahomes tops Marino mark"></a><h3 class="rpwe-title"><a href="https://www.espn.com/nfl/story/_/id/30280554/kansas-city-chiefs-qb-patrick-mahomes-passes-dan-marino-fastest-100-passing-tds" title="Permalink to Quarterbacking 101: Mahomes tops Marino mark" rel="bookmark">Quarterbacking 101: Mahomes tops Marino mark</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.foxsports.com/nfl/video/1817165891880" rel="bookmark"><img loading="lazy" class="rpwe-alignleft rpwe-thumb rpwe-default-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/10/ak-ready-01.jpg" alt="Ben Roethlisberger may have injured MCL, which could take 2-6 weeks to heal | DR. MATT" width="75" height="75"></a><h3 class="rpwe-title"><a href="https://www.foxsports.com/nfl/video/1817165891880" title="Permalink to Ben Roethlisberger may have injured MCL, which could take 2-6 weeks to heal | DR. MATT" rel="bookmark">Ben Roethlisberger may have injured MCL, which could take 2-6 weeks to heal | DR. MATT</a></h3></li></ul></div><!-- Generated by http://wordpress.org/plugins/recent-posts-widget-extended/ --></aside>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-9f53984" data-id="9f53984" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-f4b7667 elementor-widget elementor-widget-heading" data-id="f4b7667" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">College Basketball</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b2750e1 elementor-widget elementor-widget-wp-widget-rpwe_widget" data-id="b2750e1" data-element_type="widget" data-widget_type="wp-widget-rpwe_widget.default">
+				<div class="elementor-widget-container">
+			<style>.rpwe-block ul{
+list-style: none !important;
+margin-left: 0 !important;
+padding-left: 0 !important;
+}
+
+.rpwe-block li{
+border-bottom: 1px solid #9a9a9a;
+margin-bottom: 10px;
+padding-bottom: 10px;
+list-style-type: none;
+}
+
+.rpwe-block a{
+display: inline !important;
+text-decoration: none;
+}
+
+.rpwe-block h3{
+background: none !important;
+clear: none;
+margin-bottom: 0 !important;
+margin-top: 0 !important;
+font: 13px Arial, sans-serif;
+font-weight: bold;
+text-transform: uppercase;
+line-height: 1.5em;
+}
+
+.rpwe-thumb{
+border: 0px solid #eee !important;
+box-shadow: none !important;
+margin: 4px 10px 4px 4px;
+padding: 3px !important;
+}
+
+.rpwe-summary{
+font-size: 12px;
+}
+
+.rpwe-time{
+color: #bbb;
+font-size: 11px;
+}
+
+.rpwe-comment{
+color: #bbb;
+font-size: 11px;
+padding-left: 5px;
+}
+
+.rpwe-alignleft{
+display: inline;
+float: left;
+}
+
+.rpwe-alignright{
+display: inline;
+float: right;
+}
+
+.rpwe-aligncenter{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.rpwe-clearfix:before,
+.rpwe-clearfix:after{
+content: "";
+display: table !important;
+}
+
+.rpwe-clearfix:after{
+clear: both;
+}
+
+.rpwe-clearfix{
+zoom: 1;
+}
+
+</style><aside class="widget "><div  class="rpwe-block "><ul class="rpwe-ul"><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.cbssports.com/college-basketball/news/college-basketball-rankings-mac-mcclung-cleared-to-play-by-ncaa-texas-tech-jumps-up-in-top-25-and-1/"  rel="bookmark"><img width="75" height="28" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/cbssports-digital-logo-150x56.png" class="rpwe-alignleft rpwe-thumb the-post-thumbnail wp-post-image" alt="College basketball rankings: Mac McClung cleared to play by NCAA, Texas Tech jumps up in Top 25 And 1" loading="lazy" /></a><h3 class="rpwe-title"><a href="https://www.cbssports.com/college-basketball/news/college-basketball-rankings-mac-mcclung-cleared-to-play-by-ncaa-texas-tech-jumps-up-in-top-25-and-1/" title="Permalink to College basketball rankings: Mac McClung cleared to play by NCAA, Texas Tech jumps up in Top 25 And 1" rel="bookmark">College basketball rankings: Mac McClung cleared to play by NCAA, Texas Tech jumps up in Top 25 And 1</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.cbssports.com/college-basketball/news/complete-college-basketball-rankings-begin-with-teams-no-357-201-ahead-of-2020-21-season/"  rel="bookmark"><img width="75" height="28" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/cbssports-digital-logo-150x56.png" class="rpwe-alignleft rpwe-thumb the-post-thumbnail wp-post-image" alt="Complete college basketball rankings begin with teams 357-201 ahead of 2020-21 season" loading="lazy" /></a><h3 class="rpwe-title"><a href="https://www.cbssports.com/college-basketball/news/complete-college-basketball-rankings-begin-with-teams-no-357-201-ahead-of-2020-21-season/" title="Permalink to Complete college basketball rankings begin with teams 357-201 ahead of 2020-21 season" rel="bookmark">Complete college basketball rankings begin with teams 357-201 ahead of 2020-21 season</a></h3></li></ul></div><!-- Generated by http://wordpress.org/plugins/recent-posts-widget-extended/ --></aside>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2040aad elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="2040aad" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e53ea87" data-id="e53ea87" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-2ffd1b6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2ffd1b6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-6f3c43d" data-id="6f3c43d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6e19a07 elementor-widget elementor-widget-heading" data-id="6e19a07" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">BULLDOGS UNITE</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-ec14bb9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ec14bb9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-27327fc" data-id="27327fc" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-03e1422 elementor-widget elementor-widget-wp-widget-rpwe_widget" data-id="03e1422" data-element_type="widget" data-widget_type="wp-widget-rpwe_widget.default">
+				<div class="elementor-widget-container">
+			<style>.rpwe-block ul{
+list-style: none !important;
+margin-left: 0 !important;
+padding-left: 0 !important;
+}
+
+.rpwe-block li{
+border-bottom: 1px solid #9a9a9a;
+margin-bottom: 10px;
+padding-bottom: 10px;
+list-style-type: none;
+}
+
+.rpwe-block a{
+display: inline !important;
+text-decoration: none;
+}
+
+.rpwe-block h3{
+background: none !important;
+clear: none;
+margin-bottom: 0 !important;
+margin-top: 0 !important;
+font: 13px Arial, sans-serif;
+font-weight: bold;
+text-transform: uppercase;
+line-height: 1.5em;
+}
+
+.rpwe-thumb{
+border: 0px solid #eee !important;
+box-shadow: none !important;
+margin: 4px 10px 4px 4px;
+padding: 3px !important;
+}
+
+.rpwe-summary{
+font-size: 12px;
+}
+
+.rpwe-time{
+color: #bbb;
+font-size: 11px;
+}
+
+.rpwe-comment{
+color: #bbb;
+font-size: 11px;
+padding-left: 5px;
+}
+
+.rpwe-alignleft{
+display: inline;
+float: left;
+}
+
+.rpwe-alignright{
+display: inline;
+float: right;
+}
+
+.rpwe-aligncenter{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.rpwe-clearfix:before,
+.rpwe-clearfix:after{
+content: "";
+display: table !important;
+}
+
+.rpwe-clearfix:after{
+clear: both;
+}
+
+.rpwe-clearfix{
+zoom: 1;
+}
+</style><aside class="widget "><div  class="rpwe-block "><ul class="rpwe-ul"><li class="rpwe-li rpwe-clearfix"><h3 class="rpwe-title"><a href="http://www.spokesman.com/stories/2020/nov/07/former-gonzaga-managerwalk-on-brian-pete-still-in-/" title="Permalink to Former Gonzaga manager/walk-on Brian Pete still in the game at Vanderbilt" rel="bookmark">Former Gonzaga manager/walk-on Brian Pete still in the game at Vanderbilt</a></h3></li><li class="rpwe-li rpwe-clearfix"><h3 class="rpwe-title"><a href="http://www.spokesman.com/stories/2020/nov/07/you-have-to-bring-it-gonzagas-five-walk-ons-push-s/" title="Permalink to &#039;You have to bring it&#039;: Gonzaga’s five walk-ons push starters, rotation players to improve" rel="bookmark">&#039;You have to bring it&#039;: Gonzaga’s five walk-ons push starters, rotation players to improve</a></h3></li></ul></div><!-- Generated by http://wordpress.org/plugins/recent-posts-widget-extended/ --></aside>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-fa0efc2" data-id="fa0efc2" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-c77d353 elementor-widget elementor-widget-wp-widget-rpwe_widget" data-id="c77d353" data-element_type="widget" data-widget_type="wp-widget-rpwe_widget.default">
+				<div class="elementor-widget-container">
+			<style>.rpwe-block ul{
+list-style: none !important;
+margin-left: 0 !important;
+padding-left: 0 !important;
+}
+
+.rpwe-block li{
+border-bottom: 1px solid #9a9a9a;
+margin-bottom: 10px;
+padding-bottom: 10px;
+list-style-type: none;
+}
+
+.rpwe-block a{
+display: inline !important;
+text-decoration: none;
+}
+
+.rpwe-block h3{
+background: none !important;
+clear: none;
+margin-bottom: 0 !important;
+margin-top: 0 !important;
+font: 13px Arial, sans-serif;
+font-weight: bold;
+text-transform: uppercase;
+line-height: 1.5em;
+}
+
+.rpwe-thumb{
+border: 0px solid #eee !important;
+box-shadow: none !important;
+margin: 4px 10px 4px 4px;
+padding: 3px !important;
+}
+
+.rpwe-summary{
+font-size: 12px;
+}
+
+.rpwe-time{
+color: #bbb;
+font-size: 11px;
+}
+
+.rpwe-comment{
+color: #bbb;
+font-size: 11px;
+padding-left: 5px;
+}
+
+.rpwe-alignleft{
+display: inline;
+float: left;
+}
+
+.rpwe-alignright{
+display: inline;
+float: right;
+}
+
+.rpwe-aligncenter{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.rpwe-clearfix:before,
+.rpwe-clearfix:after{
+content: "";
+display: table !important;
+}
+
+.rpwe-clearfix:after{
+clear: both;
+}
+
+.rpwe-clearfix{
+zoom: 1;
+}
+</style><aside class="widget "><div  class="rpwe-block "><ul class="rpwe-ul"><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.slipperstillfits.com/2020/11/8/21555129/2020-21-player-preview-louise-forsyth"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/1206312813.0-75x75.jpg" alt="2020-21 Player Preview: Louise Forsyth"></a><h3 class="rpwe-title"><a href="https://www.slipperstillfits.com/2020/11/8/21555129/2020-21-player-preview-louise-forsyth" title="Permalink to 2020-21 Player Preview: Louise Forsyth" rel="bookmark">2020-21 Player Preview: Louise Forsyth</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://www.slipperstillfits.com/2020/11/7/21553376/2020-21-player-preview-will-graves"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/usa_today_13897321.0-75x75.jpg" alt="2020-21 Player Preview: Will Graves"></a><h3 class="rpwe-title"><a href="https://www.slipperstillfits.com/2020/11/7/21553376/2020-21-player-preview-will-graves" title="Permalink to 2020-21 Player Preview: Will Graves" rel="bookmark">2020-21 Player Preview: Will Graves</a></h3></li></ul></div><!-- Generated by http://wordpress.org/plugins/recent-posts-widget-extended/ --></aside>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-29ac489 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="29ac489" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-992cfc9" data-id="992cfc9" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-7463e06 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7463e06" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-0592aa8" data-id="0592aa8" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-ee456ef elementor-widget elementor-widget-heading" data-id="ee456ef" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Survive</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-35c43f4 elementor-widget elementor-widget-wp-widget-rpwe_widget" data-id="35c43f4" data-element_type="widget" data-widget_type="wp-widget-rpwe_widget.default">
+				<div class="elementor-widget-container">
+			<style>.rpwe-block ul{
+list-style: none !important;
+margin-left: 0 !important;
+padding-left: 0 !important;
+}
+
+.rpwe-block li{
+border-bottom: 1px solid #9a9a9a;
+margin-bottom: 10px;
+padding-bottom: 10px;
+list-style-type: none;
+}
+
+.rpwe-block a{
+display: inline !important;
+text-decoration: none;
+}
+
+.rpwe-block h3{
+background: none !important;
+clear: none;
+margin-bottom: 0 !important;
+margin-top: 0 !important;
+font: 13px Arial, sans-serif;
+font-weight: bold;
+text-transform: uppercase;
+line-height: 1.5em;
+}
+
+.rpwe-thumb{
+border: 0px solid #eee !important;
+box-shadow: none !important;
+margin: 4px 10px 4px 4px;
+padding: 3px !important;
+}
+
+.rpwe-summary{
+font-size: 12px;
+}
+
+.rpwe-time{
+color: #bbb;
+font-size: 11px;
+}
+
+.rpwe-comment{
+color: #bbb;
+font-size: 11px;
+padding-left: 5px;
+}
+
+.rpwe-alignleft{
+display: inline;
+float: left;
+}
+
+.rpwe-alignright{
+display: inline;
+float: right;
+}
+
+.rpwe-aligncenter{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.rpwe-clearfix:before,
+.rpwe-clearfix:after{
+content: "";
+display: table !important;
+}
+
+.rpwe-clearfix:after{
+clear: both;
+}
+
+.rpwe-clearfix{
+zoom: 1;
+}
+</style><aside class="widget "><div  class="rpwe-block "><ul class="rpwe-ul"><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://content.govdelivery.com/accounts/USDHSCG/bulletins/2aa4214"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/pict2584_original-75x75.jpg" alt="Coast Guard reminds mariners, harbor users of snow load"></a><h3 class="rpwe-title"><a href="https://content.govdelivery.com/accounts/USDHSCG/bulletins/2aa4214" title="Permalink to Coast Guard reminds mariners, harbor users of snow load" rel="bookmark">Coast Guard reminds mariners, harbor users of snow load</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://content.govdelivery.com/accounts/USDHSCG/bulletins/2a9f551"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/navy_original-75x75.png" alt="Coast Guard Cutter Alex Haley returns to homeport"></a><h3 class="rpwe-title"><a href="https://content.govdelivery.com/accounts/USDHSCG/bulletins/2a9f551" title="Permalink to Coast Guard Cutter Alex Haley returns to homeport" rel="bookmark">Coast Guard Cutter Alex Haley returns to homeport</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://content.govdelivery.com/accounts/USDHSCG/bulletins/2a9d24f"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/1000w_q95-75x75.jpg" alt="Coast Guard, local agencies respond to sunken docked vessel in Juneau, Alaska "></a><h3 class="rpwe-title"><a href="https://content.govdelivery.com/accounts/USDHSCG/bulletins/2a9d24f" title="Permalink to Coast Guard, local agencies respond to sunken docked vessel in Juneau, Alaska " rel="bookmark">Coast Guard, local agencies respond to sunken docked vessel in Juneau, Alaska </a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://content.govdelivery.com/accounts/USDHSCG/bulletins/2a9d0cd"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/360x255_q75-75x75.jpg" alt="UPDATE VIDEO RELEASE: Coast Guard hoists man from water in Union Bay, Alaska"></a><h3 class="rpwe-title"><a href="https://content.govdelivery.com/accounts/USDHSCG/bulletins/2a9d0cd" title="Permalink to UPDATE VIDEO RELEASE: Coast Guard hoists man from water in Union Bay, Alaska" rel="bookmark">UPDATE VIDEO RELEASE: Coast Guard hoists man from water in Union Bay, Alaska</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://content.govdelivery.com/accounts/USDHSCG/bulletins/2a9cb6b" rel="bookmark"><img loading="lazy" class="rpwe-alignleft rpwe-thumb rpwe-default-thumb" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/10/ak-ready-01.jpg" alt="Coast Guard hoists man from water in Union Bay, Alaska" width="75" height="75"></a><h3 class="rpwe-title"><a href="https://content.govdelivery.com/accounts/USDHSCG/bulletins/2a9cb6b" title="Permalink to Coast Guard hoists man from water in Union Bay, Alaska" rel="bookmark">Coast Guard hoists man from water in Union Bay, Alaska</a></h3></li></ul></div><!-- Generated by http://wordpress.org/plugins/recent-posts-widget-extended/ --></aside>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+					</div>
+	<footer class="entry-meta-bar clearfix">
+		<div class="entry-meta clearfix">
+       			</div>
+	</footer>
+	</article>
+
+
+				
+			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+	
+<div id="secondary">
+			
+		<aside id="search-5" class="widget widget_search"><form action="https://akrdy.com/" class="search-form searchform clearfix" method="get">
+	<div class="search-wrap">
+		<input type="text" placeholder="Search" class="s field" name="s">
+		<button class="search-icon" type="submit"></button>
+	</div>
+</form><!-- .searchform --></aside>
+		<aside id="recent-posts-3" class="widget widget_recent_entries">
+		<h3 class="widget-title"><span>Recent Posts</span></h3>
+		<ul>
+											<li>
+					<a href="https://akrdy.com/how-to-prevent-moose-attack/">How to Prevent Moose Attacks</a>
+									</li>
+											<li>
+					<a href="https://akrdy.com/best-of-alaskan-photographers/">Best of Alaskan Photographers</a>
+									</li>
+											<li>
+					<a href="https://akrdy.com/top-ice-cream-destinations-in-alaska/">Top Ice Cream Destinations In Alaska</a>
+									</li>
+											<li>
+					<a href="https://akrdy.com/5-stoller-friendly-hikes-near-anchorage/">5 Stoller-Friendly Hikes Near Anchorage</a>
+									</li>
+											<li>
+					<a href="https://akrdy.com/5-peaks-to-summit-near-anchorage/">5 Peaks to Summit Near Anchorage</a>
+									</li>
+					</ul>
+
+		</aside><aside id="archives-4" class="widget widget_archive"><h3 class="widget-title"><span>Archives</span></h3>
+			<ul>
+					<li><a href='https://akrdy.com/2020/11/'>November 2020</a></li>
+	<li><a href='https://akrdy.com/2020/10/'>October 2020</a></li>
+	<li><a href='https://akrdy.com/2020/07/'>July 2020</a></li>
+	<li><a href='https://akrdy.com/2020/06/'>June 2020</a></li>
+			</ul>
+
+			</aside><aside id="categories-4" class="widget widget_categories"><h3 class="widget-title"><span>Categories</span></h3>
+			<ul>
+					<li class="cat-item cat-item-53"><a href="https://akrdy.com/category/living-in-alaska/essential-gear/bear-spray/">Bear Spray</a>
+</li>
+	<li class="cat-item cat-item-179"><a href="https://akrdy.com/category/living-in-alaska/emergency-prep/earthquakes/">Earthquakes</a>
+</li>
+	<li class="cat-item cat-item-52"><a href="https://akrdy.com/category/living-in-alaska/essential-gear/">Essential Gear</a>
+</li>
+	<li class="cat-item cat-item-74"><a href="https://akrdy.com/category/living-in-alaska/getting-outdoors/fishing/">Fishing</a>
+</li>
+	<li class="cat-item cat-item-72"><a href="https://akrdy.com/category/living-in-alaska/getting-outdoors/">Getting Outdoors</a>
+</li>
+	<li class="cat-item cat-item-73"><a href="https://akrdy.com/category/living-in-alaska/getting-outdoors/hiking/">Hiking</a>
+</li>
+	<li class="cat-item cat-item-173"><a href="https://akrdy.com/category/influencers/">Influencers</a>
+</li>
+	<li class="cat-item cat-item-69"><a href="https://akrdy.com/category/living-in-alaska/">Living in Alaska</a>
+</li>
+	<li class="cat-item cat-item-62"><a href="https://akrdy.com/category/living-in-alaska/medical/">Medical</a>
+</li>
+	<li class="cat-item cat-item-66"><a href="https://akrdy.com/category/living-in-alaska/owning-a-car-in-alaska/">Owning a Car in Alaska</a>
+</li>
+	<li class="cat-item cat-item-78"><a href="https://akrdy.com/category/living-in-alaska/getting-outdoors/photography/">Photography</a>
+</li>
+	<li class="cat-item cat-item-63"><a href="https://akrdy.com/category/living-in-alaska/medical/sleep-hygiene/">Sleep Hygiene</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://akrdy.com/category/uncategorized/">Uncategorized</a>
+</li>
+			</ul>
+
+			</aside><aside id="meta-4" class="widget widget_meta"><h3 class="widget-title"><span>Meta</span></h3>
+		<ul>
+			<li><a rel="nofollow" href="https://akrdy.com/wp-login.php?action=register">Register</a></li>			<li><a rel="nofollow" href="https://akrdy.com/wp-login.php">Log in</a></li>
+			<li><a href="https://akrdy.com/feed/">Entries feed</a></li>
+			<li><a href="https://akrdy.com/comments/feed/">Comments feed</a></li>
+
+			<li><a href="https://wordpress.org/">WordPress.org</a></li>
+		</ul>
+
+		</aside>	</div>
+	
+
+</div><!-- .inner-wrap -->
+</div><!-- #main -->
+
+<footer id="colophon" class="clearfix">
+	
+<div class="footer-widgets-wrapper">
+	<div class="inner-wrap">
+		<div class="footer-widgets-area footer-sidebar-dynamic-width clearfix">
+
+																																																																						
+					<div class="tg-one-fourth-large">
+						<aside id="text-5" class="widget widget_text">			<div class="textwidget"><p><img loading="lazy" class="alignnone wp-image-1266 size-full" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/10/ak-ready-light-175x75a.png" alt="" width="176" height="76" /></p>
+<p>AKRDY is what we wanted when we moved here. A source of information by those livings here that gets right to the facts about Alaska. Living in Alaska is a different experience than those who come on the seven-day cruises. It takes a different mentality to love the winters and soak up the summers. On the flip side, you have the time to really enjoy the beauty and the vast wilderness. Come and enjoy Alaska with us as we give you confidence to say&#8230;.Bring it on Alaska!!!</p>
+</div>
+		</aside>					</div>
+
+											<div class="tg-one-fourth-small">
+							
+		<aside id="recent-posts-4" class="widget widget_recent_entries">
+		<h3 class="widget-title"><span>Recent Posts</span></h3>
+		<ul>
+											<li>
+					<a href="https://akrdy.com/how-to-prevent-moose-attack/">How to Prevent Moose Attacks</a>
+											<span class="post-date">October 8, 2020</span>
+									</li>
+											<li>
+					<a href="https://akrdy.com/best-of-alaskan-photographers/">Best of Alaskan Photographers</a>
+											<span class="post-date">November 1, 2020</span>
+									</li>
+											<li>
+					<a href="https://akrdy.com/top-ice-cream-destinations-in-alaska/">Top Ice Cream Destinations In Alaska</a>
+											<span class="post-date">November 6, 2020</span>
+									</li>
+											<li>
+					<a href="https://akrdy.com/5-stoller-friendly-hikes-near-anchorage/">5 Stoller-Friendly Hikes Near Anchorage</a>
+											<span class="post-date">July 22, 2020</span>
+									</li>
+											<li>
+					<a href="https://akrdy.com/5-peaks-to-summit-near-anchorage/">5 Peaks to Summit Near Anchorage</a>
+											<span class="post-date">July 22, 2020</span>
+									</li>
+					</ul>
+
+		</aside>						</div>
+					
+											<div class="tg-one-fourth-small">
+							<aside id="woocommerce_product_categories-2" class="widget woocommerce widget_product_categories"><h3 class="widget-title"><span>Product categories</span></h3><ul class="product-categories"><li class="cat-item cat-item-16 cat-parent"><a href="https://akrdy.com/product-category/fishing/">Fishing</a> <span class="count">(14)</span><ul class='children'>
+<li class="cat-item cat-item-48"><a href="https://akrdy.com/product-category/fishing/ak-float-rigs/">AK Float Rigs</a> <span class="count">(1)</span></li>
+<li class="cat-item cat-item-42"><a href="https://akrdy.com/product-category/fishing/salmon-lures/">Salmon Lures</a> <span class="count">(6)</span></li>
+<li class="cat-item cat-item-44"><a href="https://akrdy.com/product-category/fishing/snagging-hooks/">Snagging Hooks</a> <span class="count">(3)</span></li>
+</ul>
+</li>
+<li class="cat-item cat-item-15"><a href="https://akrdy.com/product-category/uncategorized/">Uncategorized</a> <span class="count">(1)</span></li>
+</ul></aside>						</div>
+					
+											<div class="tg-one-fourth-small">
+							<aside id="woocommerce_products-2" class="widget woocommerce widget_products"><h3 class="widget-title"><span>Products</span></h3><ul class="product_list_widget"><li>
+	
+	<a href="https://akrdy.com/product/salmon-drifting-rigs-greatland-lure-king-5-0-akrdy/">
+		<img width="300" height="300" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/GreatLandLureDrifter5.0Yell-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/GreatLandLureDrifter5.0Yell-300x300.jpg 300w, https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/GreatLandLureDrifter5.0Yell-150x150.jpg 150w, https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/GreatLandLureDrifter5.0Yell-270x270.jpg 270w, https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/GreatLandLureDrifter5.0Yell-230x230.jpg 230w, https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/GreatLandLureDrifter5.0Yell-45x45.jpg 45w, https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/GreatLandLureDrifter5.0Yell-100x100.jpg 100w, https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/GreatLandLureDrifter5.0Yell.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />		<span class="product-title">Salmon Drifting Rigs Greatland Lure King 5/0 - AKRDY</span>
+	</a>
+
+				
+	<del><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>4.99</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>4.25</bdi></span></ins>
+	</li>
+<li>
+	
+	<a href="https://akrdy.com/product/banana-spin-sinkers-fishing-weights-danielson-akrdy/">
+		<img width="300" height="300" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/DanielsonBananaWeightsAll-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/DanielsonBananaWeightsAll-300x300.jpg 300w, https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/DanielsonBananaWeightsAll-150x150.jpg 150w, https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/DanielsonBananaWeightsAll-270x270.jpg 270w, https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/DanielsonBananaWeightsAll-230x230.jpg 230w, https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/DanielsonBananaWeightsAll-45x45.jpg 45w, https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/DanielsonBananaWeightsAll-100x100.jpg 100w, https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/DanielsonBananaWeightsAll.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />		<span class="product-title">Banana Spin Sinkers Fishing Weights Danielson - AKRDY</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>2.00</bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>2.75</bdi></span>
+	</li>
+<li>
+	
+	<a href="https://akrdy.com/product/russian_river_fly/">
+		<img width="300" height="300" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/10/RussRivFliesALL-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/10/RussRivFliesALL-300x300.jpg 300w, https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/10/RussRivFliesALL-150x150.jpg 150w, https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/10/RussRivFliesALL-270x270.jpg 270w, https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/10/RussRivFliesALL-230x230.jpg 230w, https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/10/RussRivFliesALL-45x45.jpg 45w, https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/10/RussRivFliesALL-100x100.jpg 100w, https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/10/RussRivFliesALL.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />		<span class="product-title">Russian River Fly Crystal River Alaska - AKRDY</span>
+	</a>
+
+				
+	<del><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>0.79</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>0.69</bdi></span></ins>
+	</li>
+<li>
+	
+	<a href="https://akrdy.com/product/kwikfish_stretchy_thread/">
+		<img width="300" height="300" src="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/LuhrJensenStretchyThread-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/LuhrJensenStretchyThread-300x300.jpg 300w, https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/LuhrJensenStretchyThread-150x150.jpg 150w, https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/LuhrJensenStretchyThread-270x270.jpg 270w, https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/LuhrJensenStretchyThread-230x230.jpg 230w, https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/LuhrJensenStretchyThread-45x45.jpg 45w, https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/LuhrJensenStretchyThread-100x100.jpg 100w, https://eadn-wc03-371667.nxedge.io/cdn/wp-content/uploads/2020/11/LuhrJensenStretchyThread.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />		<span class="product-title">KwikFish Stretchy Thread Luhr Jensen - AKRDY</span>
+	</a>
+
+				
+	<del><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>3.09</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>2.50</bdi></span></ins>
+	</li>
+</ul></aside>						</div>
+					
+														
+					</div>
+	</div>
+</div>
+	<div class="footer-socket-wrapper clearfix">
+		<div class="inner-wrap">
+			<div class="footer-socket-area">
+				<div class="copyright"><p>Copyright © 2020 <a href="https://akrdy.com/" title="AKRDY" ><span>AKRDY</span></a> Built for Alaskans by Alaskans</p></div>				<nav class="small-menu clearfix">
+									</nav>
+			</div>
+		</div>
+	</div>
+</footer>
+
+	<a href="#masthead" id="scroll-up"></a>
+
+
+</div><!-- #page -->
+
+	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace( /everest-forms-no-js/, 'everest-forms-js' );
+		document.body.className = c;
+	</script>
+		<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})()
+	</script>
+	<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/iconic-woo-linked-variations/assets/frontend/js/main.min.js?ver=1.0.10' id='iconic-wlv-js'></script>
+<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/akrdy.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=4.6.2' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=4.6.2' id='woocommerce-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_017ec82bdb0406bbed20037d3f18292b","fragment_name":"wc_fragments_017ec82bdb0406bbed20037d3f18292b","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=4.6.2' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/themes/spacious-pro/js/navigation.min.js?ver=5.5.3' id='spacious-navigation-js'></script>
+<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/themes/spacious-pro/js/skip-link-focus-fix.js?ver=5.5.3' id='spacious-skip-link-focus-fix-js'></script>
+<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/themes/spacious-pro/js/spacious-custom.min.js?ver=5.5.3' id='spacious-custom-js'></script>
+<script type='text/javascript' id='iconic-wssv_scripts-js-extra'>
+/* <![CDATA[ */
+var jck_wssv_vars = {"ajaxurl":"https:\/\/akrdy.com\/wp-admin\/admin-ajax.php","nonce":"9ac0fa1335","pluginSlug":"iconic-wssv"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/iconic-woo-show-single-variations/assets/frontend/js/main.min.js?ver=1.1.20' id='iconic-wssv_scripts-js'></script>
+<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.4' id='page-links-to-js'></script>
+<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-includes/js/wp-embed.min.js?ver=5.5.3' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.0.13' id='elementor-frontend-modules-js'></script>
+<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.0.6' id='elementor-sticky-js'></script>
+<script type='text/javascript' id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/akrdy.com\/wp-admin\/admin-ajax.php","nonce":"9676f78aaa","i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"menu_cart":{"cart_page_url":"https:\/\/akrdy.com\/cart\/","checkout_page_url":"https:\/\/akrdy.com\/checkout\/"},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/akrdy.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.0.6' id='elementor-pro-frontend-js'></script>
+<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/themes/spacious-pro/js/elementor-custom.min.js?ver=5.5.3' id='elementor-custom-js'></script>
+<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4' id='jquery-ui-position-js'></script>
+<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1' id='elementor-dialog-js'></script>
+<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
+<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.0.13' id='share-link-js'></script>
+<script type='text/javascript' id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.0.13","is_static":false,"legacyMode":{"elementWrappers":true},"urls":{"assets":"https:\/\/akrdy.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1462,"title":"News%20for%20Critical%20Thinkers....and%20Sports%20-%20AKRDY","excerpt":"","featuredImage":false}};
+</script>
+<script type='text/javascript' src='https://eadn-wc03-371667.nxedge.io/cdn/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.0.13' id='elementor-frontend-js'></script>
+
+</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 33/1003 objects using disk
+Page Caching using disk: enhanced 
+Content Delivery Network via N/A
+Database Caching using disk (Request-wide modification query)
+
+Served from: akrdy.com @ 2020-11-08 19:42:06 by W3 Total Cache
+-->

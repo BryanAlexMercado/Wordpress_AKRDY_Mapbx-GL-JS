@@ -1,0 +1,3041 @@
+# Translation of Themes - Spacious Pro in Lithuanian
+# This file is distributed under the same license as the Themes - Spacious Pro package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-05-30 05:37:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.2.2\n"
+"Language: lt\n"
+"Project-Id-Version: Themes - Spacious Pro\n"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1121
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page Builder Template"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-testimonial-4.php:39
+msgid "Testimonial 4"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-testimonial-3.php:39
+msgid "Testimonial 3"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-testimonial-2.php:39
+msgid "Testimonial 2"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-testimonial-1.php:39
+msgid "Testimonial 1"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-team-4.php:39
+msgid "Team 4"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-team-3.php:39
+msgid "Team 3"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-slider-1.php:39
+msgid "Slider 1"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-pricing-table-4.php:39
+msgid "Pricing Table 4"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-pricing-table-3.php:39
+msgid "Pricing Table 3"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-pricing-table-2.php:39
+msgid "Pricing Table 2"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-pricing-table-1.php:39
+msgid "Pricing Table 1"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-icon-box-4.php:39
+msgid "Icon Box 4"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-icon-box-3.php:39
+msgid "Icon Box 3"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-icon-box-2.php:39
+msgid "Icon Box 2"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-icon-box-1.php:39
+msgid "Icon Box 1"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-cta-3.php:39
+msgid "Call to Action 3"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-cta-2.php:39
+msgid "Call to Action 2"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-counter-3.php:39
+msgid "Counter 3"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-counter-2.php:39
+msgid "Counter 2"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:76
+#: spacious-toolkit/controls/content-widget-testimonial-2.php:89
+#: spacious-toolkit/controls/content-widget-testimonial-3.php:89
+#: spacious-toolkit/controls/content-widget-testimonial-4.php:89
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nisl et metus dignissim interdum. Nunc tristique ullamcorper lectus nec tempus."
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:74
+#: spacious-toolkit/controls/content-widget-testimonial-2.php:87
+#: spacious-toolkit/controls/content-widget-testimonial-3.php:87
+#: spacious-toolkit/controls/content-widget-testimonial-4.php:87
+msgid "Words"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:66
+#: spacious-toolkit/controls/content-widget-testimonial-2.php:67
+#: spacious-toolkit/controls/content-widget-testimonial-3.php:67
+#: spacious-toolkit/controls/content-widget-testimonial-4.php:67
+msgid "Company name"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:64
+#: spacious-toolkit/controls/content-widget-testimonial-2.php:65
+#: spacious-toolkit/controls/content-widget-testimonial-3.php:65
+#: spacious-toolkit/controls/content-widget-testimonial-4.php:65
+msgid "Company"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:56
+#: spacious-toolkit/controls/content-widget-testimonial-2.php:57
+#: spacious-toolkit/controls/content-widget-testimonial-3.php:57
+#: spacious-toolkit/controls/content-widget-testimonial-4.php:57
+msgid "Author designation"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:46
+#: spacious-toolkit/controls/content-widget-testimonial-2.php:47
+#: spacious-toolkit/controls/content-widget-testimonial-3.php:47
+#: spacious-toolkit/controls/content-widget-testimonial-4.php:47
+msgid "Author name"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:44
+#: spacious-toolkit/controls/content-widget-testimonial-2.php:45
+#: spacious-toolkit/controls/content-widget-testimonial-3.php:45
+#: spacious-toolkit/controls/content-widget-testimonial-4.php:45
+msgid "Author"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:36
+#: spacious-toolkit/controls/content-widget-testimonial-2.php:37
+#: spacious-toolkit/controls/content-widget-testimonial-3.php:37
+#: spacious-toolkit/controls/content-widget-testimonial-4.php:37
+msgid "Testimonial"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-4.php:113
+msgid "Pinterest link"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-1.php:123
+#: spacious-toolkit/controls/content-widget-team-2.php:123
+#: spacious-toolkit/controls/content-widget-team-3.php:123
+msgid "LinkedIn link"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-1.php:111
+#: spacious-toolkit/controls/content-widget-team-2.php:111
+#: spacious-toolkit/controls/content-widget-team-3.php:111
+msgid "Google Plus link"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-1.php:99
+#: spacious-toolkit/controls/content-widget-team-2.php:99
+#: spacious-toolkit/controls/content-widget-team-3.php:99
+#: spacious-toolkit/controls/content-widget-team-4.php:89
+msgid "Twitter link"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-1.php:87
+#: spacious-toolkit/controls/content-widget-team-2.php:87
+#: spacious-toolkit/controls/content-widget-team-3.php:87
+#: spacious-toolkit/controls/content-widget-team-4.php:77
+msgid "Facebook link"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-1.php:79
+#: spacious-toolkit/controls/content-widget-team-2.php:79
+#: spacious-toolkit/controls/content-widget-team-3.php:79
+msgid "Description of the member goes here."
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-1.php:65
+#: spacious-toolkit/controls/content-widget-team-2.php:65
+#: spacious-toolkit/controls/content-widget-team-3.php:65
+#: spacious-toolkit/controls/content-widget-team-4.php:65
+#: spacious-toolkit/controls/content-widget-testimonial-2.php:75
+#: spacious-toolkit/controls/content-widget-testimonial-3.php:75
+#: spacious-toolkit/controls/content-widget-testimonial-4.php:75
+msgid "Choose Image"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-1.php:57
+#: spacious-toolkit/controls/content-widget-team-2.php:57
+#: spacious-toolkit/controls/content-widget-team-3.php:57
+#: spacious-toolkit/controls/content-widget-team-4.php:57
+msgid "Member designation"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-1.php:55
+#: spacious-toolkit/controls/content-widget-team-2.php:55
+#: spacious-toolkit/controls/content-widget-team-3.php:55
+#: spacious-toolkit/controls/content-widget-team-4.php:55
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:54
+#: spacious-toolkit/controls/content-widget-testimonial-2.php:55
+#: spacious-toolkit/controls/content-widget-testimonial-3.php:55
+#: spacious-toolkit/controls/content-widget-testimonial-4.php:55
+msgid "Designation"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-1.php:47
+#: spacious-toolkit/controls/content-widget-team-2.php:47
+#: spacious-toolkit/controls/content-widget-team-3.php:47
+#: spacious-toolkit/controls/content-widget-team-4.php:47
+msgid "Member name"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-1.php:45
+#: spacious-toolkit/controls/content-widget-team-2.php:45
+#: spacious-toolkit/controls/content-widget-team-3.php:45
+#: spacious-toolkit/controls/content-widget-team-4.php:45
+msgid "Name"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-1.php:37
+#: spacious-toolkit/controls/content-widget-team-2.php:37
+#: spacious-toolkit/controls/content-widget-team-3.php:37
+#: spacious-toolkit/controls/content-widget-team-4.php:37
+msgid "Team"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-slider-1.php:89
+msgid "Image"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-slider-1.php:85
+msgid "Slider description"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-slider-1.php:78
+msgid "Slider title"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-slider-1.php:62
+msgid "Slider description #2"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-slider-1.php:61
+msgid "Slider title #2"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-slider-1.php:50
+msgid "Slider description #1"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-slider-1.php:49
+msgid "Slider title #1"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-slider-1.php:45
+msgid "Sliders"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:128
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:127
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:127
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:127
+#: spacious-toolkit/controls/content-widget-slider-1.php:104
+msgid "Button link"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:120
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:119
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:119
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:119
+msgid "Buy Now"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:118
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:117
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:117
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:117
+msgid "Button text"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:98
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:99
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:98
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:98
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:98
+msgid "Feature #1"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:94
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:94
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:94
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:94
+msgid "Features List"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:86
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:86
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:86
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:86
+msgid "Details"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:84
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:84
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:84
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:84
+msgid "Feature heading"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:76
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:76
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:76
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:76
+msgid "Month"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:74
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:74
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:74
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:74
+msgid "Pricing duration"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:64
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:64
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:64
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:64
+msgid "Price"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:56
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:56
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:56
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:56
+msgid "$"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:54
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:54
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:54
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:54
+msgid "Currency"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:46
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:46
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:46
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:46
+msgid "Basic"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:36
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:36
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:36
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:36
+msgid "Pricing Table"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-icon-box-1.php:76
+#: spacious-toolkit/controls/content-widget-icon-box-2.php:76
+#: spacious-toolkit/controls/content-widget-icon-box-3.php:76
+#: spacious-toolkit/controls/content-widget-icon-box-4.php:76
+msgid "Icon box content"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-icon-box-1.php:64
+#: spacious-toolkit/controls/content-widget-icon-box-2.php:64
+#: spacious-toolkit/controls/content-widget-icon-box-3.php:64
+#: spacious-toolkit/controls/content-widget-icon-box-4.php:64
+msgid "Title link"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-icon-box-1.php:56
+#: spacious-toolkit/controls/content-widget-icon-box-2.php:56
+#: spacious-toolkit/controls/content-widget-icon-box-3.php:56
+#: spacious-toolkit/controls/content-widget-icon-box-4.php:56
+msgid "Icon box title"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-icon-box-1.php:36
+#: spacious-toolkit/controls/content-widget-icon-box-2.php:36
+#: spacious-toolkit/controls/content-widget-icon-box-3.php:36
+#: spacious-toolkit/controls/content-widget-icon-box-4.php:36
+msgid "Icon Box"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-2.php:75
+#: spacious-toolkit/controls/content-widget-cta-3.php:75
+msgid "Button Link"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-2.php:67
+#: spacious-toolkit/controls/content-widget-cta-3.php:67
+#: spacious-toolkit/controls/content-widget-slider-1.php:54
+#: spacious-toolkit/controls/content-widget-slider-1.php:66
+#: spacious-toolkit/controls/content-widget-slider-1.php:99
+msgid "Click here"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-2.php:65
+#: spacious-toolkit/controls/content-widget-cta-3.php:65
+#: spacious-toolkit/controls/content-widget-slider-1.php:97
+msgid "Button Text"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-2.php:57
+#: spacious-toolkit/controls/content-widget-cta-3.php:57
+msgid "Content goes here."
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-2.php:55
+#: spacious-toolkit/controls/content-widget-cta-3.php:55
+#: spacious-toolkit/controls/content-widget-icon-box-1.php:74
+#: spacious-toolkit/controls/content-widget-icon-box-2.php:74
+#: spacious-toolkit/controls/content-widget-icon-box-3.php:74
+#: spacious-toolkit/controls/content-widget-icon-box-4.php:74
+msgid "Content"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-2.php:47
+#: spacious-toolkit/controls/content-widget-cta-3.php:47
+msgid "Call to Action title"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-2.php:37
+#: spacious-toolkit/controls/content-widget-cta-3.php:37
+msgid "Call to Action"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-counter-1.php:100
+#: spacious-toolkit/controls/content-widget-counter-2.php:100
+#: spacious-toolkit/controls/content-widget-counter-3.php:100
+msgid "Projects"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-counter-1.php:98
+#: spacious-toolkit/controls/content-widget-counter-2.php:98
+#: spacious-toolkit/controls/content-widget-counter-3.php:98
+#: spacious-toolkit/controls/content-widget-cta-2.php:45
+#: spacious-toolkit/controls/content-widget-cta-3.php:45
+#: spacious-toolkit/controls/content-widget-icon-box-1.php:54
+#: spacious-toolkit/controls/content-widget-icon-box-2.php:54
+#: spacious-toolkit/controls/content-widget-icon-box-3.php:54
+#: spacious-toolkit/controls/content-widget-icon-box-4.php:54
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:44
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:105
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:44
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:104
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:44
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:104
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:44
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:104
+#: spacious-toolkit/controls/content-widget-slider-1.php:76
+msgid "Title"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-counter-1.php:86
+#: spacious-toolkit/controls/content-widget-counter-2.php:86
+#: spacious-toolkit/controls/content-widget-counter-3.php:86
+msgid "Animation interval"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-counter-1.php:74
+#: spacious-toolkit/controls/content-widget-counter-2.php:74
+#: spacious-toolkit/controls/content-widget-counter-3.php:74
+msgid "Animation speed"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-counter-1.php:64
+#: spacious-toolkit/controls/content-widget-counter-2.php:64
+#: spacious-toolkit/controls/content-widget-counter-3.php:64
+msgid "Ending number"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-counter-1.php:54
+#: spacious-toolkit/controls/content-widget-counter-2.php:54
+#: spacious-toolkit/controls/content-widget-counter-3.php:54
+msgid "Starting number"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-counter-1.php:44
+#: spacious-toolkit/controls/content-widget-counter-2.php:44
+#: spacious-toolkit/controls/content-widget-counter-3.php:44
+#: spacious-toolkit/controls/content-widget-icon-box-1.php:44
+#: spacious-toolkit/controls/content-widget-icon-box-2.php:44
+#: spacious-toolkit/controls/content-widget-icon-box-3.php:44
+#: spacious-toolkit/controls/content-widget-icon-box-4.php:44
+msgid "Icon"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-counter-1.php:36
+#: spacious-toolkit/controls/content-widget-counter-2.php:36
+#: spacious-toolkit/controls/content-widget-counter-3.php:36
+msgid "Counter"
+msgstr ""
+
+#: inc/widgets/widgets.php:2430
+msgid "Accordian content:"
+msgstr ""
+
+#: inc/widgets/widgets.php:2426
+msgid "Accordian heading:"
+msgstr ""
+
+#: inc/widgets/widgets.php:2413
+msgid "Number of accordian to show:"
+msgstr ""
+
+#: inc/widgets/widgets.php:2242
+msgid "TG: Accordian"
+msgstr ""
+
+#: inc/widgets/widgets.php:2238
+msgid "Show a Accordian."
+msgstr ""
+
+#: inc/widgets/widgets.php:1198
+msgid "Enable carousel"
+msgstr ""
+
+#: inc/widgets/widgets.php:586
+msgid "Upload Image"
+msgstr ""
+
+#: inc/widgets/widgets.php:584
+msgid "Image:"
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+#: inc/tgm-plugin-activation/tgmpa-spacious.php:117
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:396
+#: inc/tgm-plugin-activation/tgmpa-spacious.php:116
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:395
+#: inc/tgm-plugin-activation/tgmpa-spacious.php:115
+msgid "Dismiss this notice"
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:394
+#: inc/tgm-plugin-activation/tgmpa-spacious.php:114
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:392
+#: inc/tgm-plugin-activation/tgmpa-spacious.php:112
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:390
+#: inc/tgm-plugin-activation/tgmpa-spacious.php:110
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2952
+#: inc/tgm-plugin-activation/tgmpa-spacious.php:108
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:387
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3159
+#: inc/tgm-plugin-activation/tgmpa-spacious.php:107
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:386
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:827
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:385
+#: inc/tgm-plugin-activation/tgmpa-spacious.php:106
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:380
+#: inc/tgm-plugin-activation/tgmpa-spacious.php:101
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:375
+#: inc/tgm-plugin-activation/tgmpa-spacious.php:96
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:370
+#: inc/tgm-plugin-activation/tgmpa-spacious.php:91
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+#: inc/tgm-plugin-activation/tgmpa-spacious.php:54
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:332
+#: inc/tgm-plugin-activation/tgmpa-spacious.php:53
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:330
+#: inc/tgm-plugin-activation/tgmpa-spacious.php:51
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:328
+#: inc/tgm-plugin-activation/tgmpa-spacious.php:49
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:327
+#: inc/tgm-plugin-activation/tgmpa-spacious.php:48
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/related-posts.php:6
+msgid "You May Also Like"
+msgstr ""
+
+#: inc/header-functions.php:440
+msgid "Total"
+msgstr ""
+
+#: inc/header-functions.php:368 inc/header-functions.php:379
+msgid "You are here: "
+msgstr ""
+
+#: inc/functions.php:710
+msgid "Youtube"
+msgstr ""
+
+#: inc/functions.php:665
+msgid "User Social Links"
+msgstr ""
+
+#: inc/demo-importer/demos/functions-demo-config.php:144
+msgid "Spacious Blog"
+msgstr ""
+
+#: inc/demo-importer/demos/functions-demo-config.php:108
+msgid "Spacious Free"
+msgstr ""
+
+#: inc/demo-importer/demos/functions-demo-config.php:93
+#: inc/demo-importer/demos/functions-demo-config.php:165
+msgid "Spacious Toolkit"
+msgstr ""
+
+#: inc/demo-importer/demos/functions-demo-config.php:89
+#: inc/demo-importer/demos/functions-demo-config.php:161
+msgid "Elementor"
+msgstr ""
+
+#: inc/demo-importer/demos/functions-demo-config.php:71
+msgid "Spacious Pro Business"
+msgstr ""
+
+#: inc/demo-importer/demos/functions-demo-config.php:50
+#: inc/demo-importer/demos/functions-demo-config.php:97
+#: inc/demo-importer/demos/functions-demo-config.php:127
+#: inc/demo-importer/demos/functions-demo-config.php:169
+msgid "Everest Forms – Easy Contact Form and Form Builder"
+msgstr ""
+
+#: inc/customizer.php:2108
+msgid "Check to show WooCommerce cart icon on menu bar"
+msgstr ""
+
+#: inc/customizer.php:1773
+msgid "Choose a footer design."
+msgstr ""
+
+#: inc/customizer.php:1762
+msgid "Footer Designs"
+msgstr ""
+
+#: inc/customizer.php:1666
+msgid "Check to show the Social Profiles in the Author Bio."
+msgstr ""
+
+#: inc/customizer.php:1424
+msgid "Number of post to display"
+msgstr ""
+
+#: inc/customizer.php:1408
+msgid "Related Posts By Tags"
+msgstr ""
+
+#: inc/customizer.php:1407
+msgid "Related Posts By Categories"
+msgstr ""
+
+#: inc/customizer.php:1403
+msgid "Related Posts Must Be Shown As:"
+msgstr ""
+
+#: inc/customizer.php:1389
+msgid "Check to activate the related posts"
+msgstr ""
+
+#: inc/customizer.php:1376
+msgid "Related Posts"
+msgstr ""
+
+#: inc/customizer.php:1306
+msgid "Activate term description"
+msgstr ""
+
+#: inc/customizer.php:1292
+msgid "Category Options"
+msgstr ""
+
+#: inc/customizer.php:888
+msgid "Check to enable progressbar."
+msgstr ""
+
+#: inc/customizer.php:873
+msgid "Check to enable pause on hover."
+msgstr ""
+
+#: inc/customizer.php:858
+msgid "Check to enable next/prev option."
+msgstr ""
+
+#: inc/customizer.php:477
+msgid "Hide page/post header title"
+msgstr ""
+
+#: inc/customizer.php:465
+msgid "Header Title"
+msgstr ""
+
+#: inc/customizer.php:456
+msgid "Show search icon in header."
+msgstr ""
+
+#: inc/customizer.php:444
+msgid "Search icon"
+msgstr ""
+
+#: inc/customizer.php:260
+msgid "Style 4"
+msgstr ""
+
+#: inc/customizer.php:259 inc/customizer.php:1778
+msgid "Style 3"
+msgstr ""
+
+#: inc/customizer.php:258 inc/customizer.php:1777
+msgid "Style 2"
+msgstr ""
+
+#: inc/customizer.php:257 inc/customizer.php:1776
+msgid "Style 1"
+msgstr ""
+
+#: inc/customizer.php:254
+msgid "Choose a header design."
+msgstr ""
+
+#: inc/customizer.php:243
+msgid "Header Designs"
+msgstr ""
+
+#: inc/customizer.php:236
+msgid "Type 3: Menu, header text & logo all on center"
+msgstr ""
+
+#: functions.php:93
+msgid "Footer Menu"
+msgstr "Paraštės meniu"
+
+#: functions.php:92
+msgid "Primary Menu"
+msgstr "Pagrindinis meniu"
+
+#: functions.php:91
+msgid "Header Menu"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:66
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:66
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:66
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:66
+msgid "500"
+msgstr ""
+
+#: inc/customizer.php:1427
+msgid "6"
+msgstr ""
+
+#: inc/customizer.php:1426
+msgid "3"
+msgstr ""
+
+#: inc/demo-importer/includes/views/html-admin-page-importer.php:34
+msgid "%s available demos can be imported with just a single click. They will appear here once the plugin is active."
+msgstr ""
+
+#: inc/demo-importer/class-demo-importer.php:38
+msgid "ThemeGrill Demo importer"
+msgstr ""
+
+#: inc/customizer.php:1447
+msgid "Check to activate the sticky options for content and sidebar areas."
+msgstr ""
+
+#: inc/customizer.php:1434
+msgid "Sticky Content And Sidebar"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themegrill.com/wordpress-themes/"
+msgstr ""
+
+#: inc/demo-importer/class-demo-importer.php:81
+#: inc/demo-importer/includes/views/html-admin-page-importer.php:32
+msgid "Demo Importer"
+msgstr ""
+
+#: inc/demo-importer/demos/functions-demo-config.php:64
+#: inc/demo-importer/demos/functions-demo-config.php:137
+msgid "Recent Posts Widget Extended"
+msgstr ""
+
+#: inc/demo-importer/demos/functions-demo-config.php:56
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+#: inc/widgets/widgets.php:1957
+msgid "Color :"
+msgstr ""
+
+#: inc/widgets/widgets.php:1952
+msgid "Button URL :"
+msgstr ""
+
+#: inc/widgets/widgets.php:1947
+msgid "Button Text :"
+msgstr ""
+
+#: inc/widgets/widgets.php:1935
+msgid "Features :"
+msgstr ""
+
+#: inc/widgets/widgets.php:1931
+msgid "Number of features to display :"
+msgstr ""
+
+#: inc/widgets/widgets.php:1927
+msgid "Note: Enter the number of features to display in column (default 4 features) and save it then enter the data in respective field."
+msgstr ""
+
+#: inc/widgets/widgets.php:1922
+msgid "Badge background :"
+msgstr ""
+
+#: inc/widgets/widgets.php:1917
+msgid "Badge :"
+msgstr ""
+
+#: inc/widgets/widgets.php:1912
+msgid "Sub Title :"
+msgstr ""
+
+#: inc/widgets/widgets.php:1907
+msgid "Description :"
+msgstr ""
+
+#: inc/widgets/widgets.php:1902
+msgid "Price :"
+msgstr ""
+
+#: inc/widgets/widgets.php:1897
+msgid "Title :"
+msgstr ""
+
+#: inc/widgets/widgets.php:1890
+msgid "Four"
+msgstr ""
+
+#: inc/widgets/widgets.php:1889
+msgid "Three"
+msgstr ""
+
+#: inc/widgets/widgets.php:1888
+msgid "Two"
+msgstr ""
+
+#: inc/widgets/widgets.php:1886
+msgid "Display no of Columns:"
+msgstr ""
+
+#: inc/widgets/widgets.php:1882
+msgid "Note: Enter number of columns for Pricing Table (default 3 columns) and save it then enter the data in respective field."
+msgstr ""
+
+#: inc/widgets/widgets.php:592 inc/widgets/widgets.php:1878
+msgid "Style Two"
+msgstr ""
+
+#: inc/widgets/widgets.php:591 inc/widgets/widgets.php:1877
+msgid "Style One"
+msgstr ""
+
+#: inc/widgets/widgets.php:590 inc/widgets/widgets.php:1876
+msgid "Choose style:"
+msgstr ""
+
+#: inc/widgets/widgets.php:1839
+msgid "TG: Pricing Table"
+msgstr ""
+
+#: inc/widgets/widgets.php:1836
+msgid "Use this widdget to show the Pricing Table plan. Best for Business Top or Bottom sidebar."
+msgstr ""
+
+#: inc/widgets/widgets.php:1733
+msgid "<a href=\"%s\" target=\"_blank\">Refer here</a> For Icon Class"
+msgstr ""
+
+#: inc/widgets/widgets.php:1724
+msgid "Icon Class:"
+msgstr ""
+
+#: inc/widgets/widgets.php:1720
+msgid "Fact Detail:"
+msgstr ""
+
+#: inc/widgets/widgets.php:1714
+msgid "Fact number: "
+msgstr ""
+
+#: inc/widgets/widgets.php:1705 inc/widgets/widgets.php:1873
+#: inc/widgets/widgets.php:2405
+msgid "Description:"
+msgstr ""
+
+#: inc/widgets/widgets.php:1682
+msgid "TG: Fun Facts"
+msgstr ""
+
+#: inc/widgets/widgets.php:1678
+msgid "Widget to show Fun Facts"
+msgstr ""
+
+#: inc/widgets/widgets.php:1460
+msgid "Select the teams column"
+msgstr ""
+
+#: inc/widgets/widgets.php:1452
+msgid "Enable the read more button."
+msgstr ""
+
+#: inc/widgets/widgets.php:1447
+msgid "Link title to their respective page"
+msgstr ""
+
+#: inc/widgets/widgets.php:1430
+msgid "Google Plus:"
+msgstr ""
+
+#: inc/widgets/widgets.php:1423
+msgid "Twitter:"
+msgstr ""
+
+#: inc/widgets/widgets.php:1416
+msgid "Facebook:"
+msgstr ""
+
+#: inc/widgets/widgets.php:1409
+msgid "Designation:"
+msgstr ""
+
+#: inc/widgets/widgets.php:1396
+msgid "Page:"
+msgstr ""
+
+#: inc/widgets/widgets.php:1354
+msgid "TG: Team"
+msgstr ""
+
+#: inc/widgets/widgets.php:1350
+msgid "Display some pages as team. Best for Business Top or Bottom sidebar."
+msgstr ""
+
+#: inc/customizer.php:436
+msgid "Switch to new responsive menu."
+msgstr ""
+
+#: inc/customizer.php:423
+msgid "Responsive Menu Style"
+msgstr ""
+
+#: inc/functions.php:819 navigation.php:40
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/functions.php:818 navigation.php:39
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. Template Name of the plugin/theme
+msgid "Contact Page Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Business Template"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Spacious Pro is the pro version of Spacious free theme."
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themegrill.com/themes/spacious/"
+msgstr ""
+
+#: single.php:42
+msgid "See all posts by %1$s"
+msgstr ""
+
+#: sidebar-left.php:36 sidebar.php:39
+msgid "Meta"
+msgstr "Metainformacija"
+
+#: searchform.php:12
+msgid "Search"
+msgstr "Paieška"
+
+#: no-results.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Panašu, kad nepavyko rasti jūsų ieškomo puslapio. Galbūt jums padės paieškos galimybė."
+
+#: no-results.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Deja, nieko panašaus rasti nepavyko. Pabandykite įvesti kitokį paieškos raktažodį."
+
+#: no-results.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pasirengę paskelbti pirmąjį įrašą? <a href=\"%1$s\">Pradėkite nuo čia</a>."
+
+#: navigation.php:32
+msgid "Next &rarr;"
+msgstr "Kitas &rarr;"
+
+#: navigation.php:31
+msgid "&larr; Previous"
+msgstr "&larr; Ankstesnis"
+
+#: navigation.php:20
+msgid "Next &raquo;"
+msgstr "Kitas &raquo;"
+
+#: navigation.php:19
+msgid "&laquo; Previous"
+msgstr "&laquo; Ankstesnis"
+
+#: license.php:427
+msgid "<b>Warning!</b> You're blocking external requests which means you won't be able to get %s updates. Please add %s to %s."
+msgstr ""
+
+#: license.php:408
+msgid "The License Key for Theme Spacious has not been activated, %sClick here%s to activate the license key. <a class=\"button\" href=\"%s\">Never Show</a>"
+msgstr ""
+
+#: license.php:179
+msgid "License Deactivation"
+msgstr ""
+
+#: license.php:178
+msgid "License Activation"
+msgstr ""
+
+#: license.php:128 license.php:137
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/widgets/widgets.php:1189
+msgid "Hover Title Text "
+msgstr "Pavadinimo tekstas užvedus pelės žymeklį"
+
+#: inc/widgets/widgets.php:1183
+msgid "Redirect Link "
+msgstr "Peradresuoti nuorodą"
+
+#: inc/widgets/widgets.php:1179
+msgid "Image Path Link "
+msgstr "Paveikslėlio nuoroda"
+
+#: inc/widgets/widgets.php:1165
+msgid "Note: To add the image. Go to Media->Add New. Upload an image. Copy the image path link and paste in image input field. Recommended size for the image is 200px * 75px."
+msgstr "Pastaba: Norėdami pridėti paveikslėlį eikite į Media->Pridėti naują. Įkelkite paveikslėlį. Nukopijuokite paveikslėlio nuorodą ir įklijuokite ją į paveikslėlio įvesties langelį. Rekomenduojamas paveikslėlio dydis 200px * 75px."
+
+#: inc/widgets/widgets.php:1148
+msgid "TG: Our Clients"
+msgstr "TG: Mūsų klientai"
+
+#: inc/widgets/widgets.php:1144
+msgid "Widget to show clients/partners images"
+msgstr "Klientų/partnerių paveikslėlių rodymo valdiklis"
+
+#: inc/widgets/widgets.php:992
+msgid "Select category"
+msgstr "Pasirinkite kategoriją"
+
+#: inc/widgets/widgets.php:988
+msgid "Show posts from a category"
+msgstr "Rodyti įrašus iš kategorijų"
+
+#: inc/widgets/widgets.php:986
+msgid "Show latest Posts"
+msgstr "Rodyti vėliausius įrašus"
+
+#: inc/widgets/widgets.php:982
+msgid "Medium Featured Image"
+msgstr "Vidutinis Featured paveikslėlis"
+
+#: inc/widgets/widgets.php:980
+msgid "Large Featured Image"
+msgstr "Didelis Featured paveikslėlis"
+
+#: inc/widgets/widgets.php:975
+msgid "Number of posts to display:"
+msgstr "Rodomų įrašų skaičius:"
+
+#: inc/widgets/widgets.php:949
+msgid "TG: Featured Posts"
+msgstr "TG: Featured įrašai"
+
+#: inc/widgets/widgets.php:945
+msgid "Display latest posts or posts of specific category"
+msgstr "Rodyti vėliausius įrašus arba konkrečios kategorijos įrašus"
+
+#: inc/widgets/widgets.php:832 inc/widgets/widgets.php:972
+#: inc/widgets/widgets.php:1170 inc/widgets/widgets.php:1390
+#: spacious-toolkit/controls/content-widget-slider-1.php:83
+#: spacious-toolkit/controls/content-widget-team-1.php:77
+#: spacious-toolkit/controls/content-widget-team-2.php:77
+#: spacious-toolkit/controls/content-widget-team-3.php:77
+msgid "Description"
+msgstr "Aprašymas"
+
+#: inc/widgets/widgets.php:808
+msgid "TG: Featured Widget"
+msgstr "TG: Featured valdiklis"
+
+#: inc/widgets/widgets.php:804
+msgid "Show your some pages as recent work. Best for Business Top or Bottom sidebar."
+msgstr "Parodykite keletą savo puslapių kaip neseniai atliktus darbus. Geriausiai tinka Business viršutiniam ir apatiniam skydeliui."
+
+#: inc/widgets/widgets.php:787
+msgid "Byline:"
+msgstr "Potemė:"
+
+#: inc/widgets/widgets.php:783
+msgid "Name:"
+msgstr "Pavadinimas:"
+
+#: inc/widgets/widgets.php:780
+msgid "Testimonial Description"
+msgstr "Atsiliepimo tekstas"
+
+#: inc/widgets/widgets.php:708
+msgid "TG: Testimonial"
+msgstr "TG: Atsiliepimai"
+
+#: inc/widgets/widgets.php:704
+msgid "Display Testimonial"
+msgstr "Rodyti atsiliepimus"
+
+#: inc/widgets/widgets.php:580
+msgid "Open in new tab"
+msgstr ""
+
+#: inc/widgets/widgets.php:574
+msgid "Button Redirect Link:"
+msgstr "Mygtuko nuoroda:"
+
+#: inc/widgets/widgets.php:569
+msgid "Button Text:"
+msgstr "Mygtuko tekstas:"
+
+#: inc/widgets/widgets.php:564
+msgid "Call to Action Additional Text"
+msgstr "Kvietimo veikti papildomas tekstas"
+
+#: inc/widgets/widgets.php:559
+msgid "Call to Action Main Text"
+msgstr "Kvietimo veikti pagrindinis tekstas"
+
+#: inc/widgets/widgets.php:533
+msgid "TG: Call To Action Widget"
+msgstr "TG: Kvietimo veikti valdiklis"
+
+#: inc/widgets/widgets.php:529
+msgid "Use this widget to show the call to action section."
+msgstr "Naudokite šį valdiklį parodyti kvietimą veikti."
+
+#: inc/widgets/widgets.php:394
+msgid "Select the services column"
+msgstr ""
+
+#: inc/widgets/widgets.php:392 inc/widgets/widgets.php:1457
+msgid "Check to open in new tab."
+msgstr ""
+
+#: inc/widgets/widgets.php:375 inc/widgets/widgets.php:1442
+msgid "Link featured image to their respective page"
+msgstr ""
+
+#: inc/widgets/widgets.php:350
+msgid "TG: Services"
+msgstr "TG: Paslaugos"
+
+#: inc/widgets/widgets.php:346
+msgid "Display some pages as services. Best for Business Top or Bottom sidebar."
+msgstr "Rodyti kai kuriuos puslapius kaip paslaugas. Geriausiai tinka Business viršutiniam ir apatiniam skydeliams."
+
+#: inc/widgets/widgets.php:255 inc/widgets/widgets.php:262
+msgid "Show Image After Title"
+msgstr "Rodyti paveikslėlį po pavadinimo"
+
+#: inc/widgets/widgets.php:253 inc/widgets/widgets.php:260
+msgid "Show Image Before Title"
+msgstr "Rodyti paveikslėlį prieš pavadinimą"
+
+#: inc/widgets/widgets.php:248 inc/widgets/widgets.php:388
+msgid "Disable the read more button."
+msgstr ""
+
+#: inc/widgets/widgets.php:244
+msgid "Remove the dots at the end of content"
+msgstr ""
+
+#: inc/widgets/widgets.php:240
+msgid "Link the featured image to the respective page."
+msgstr ""
+
+#: inc/widgets/widgets.php:236
+msgid "Remove Featured image"
+msgstr "Pašalinti specialų paveikslėlį"
+
+#: inc/widgets/widgets.php:231 inc/widgets/widgets.php:379
+#: inc/widgets/widgets.php:838
+msgid "Page"
+msgstr "Puslapis"
+
+#: inc/widgets/widgets.php:228
+msgid "Displays the title of the Page if title input is empty."
+msgstr "Rodo puslapio pavadinimą jei pavadinimo įvestis neužpildyta."
+
+#: inc/widgets/widgets.php:225 inc/widgets/widgets.php:777
+#: inc/widgets/widgets.php:829 inc/widgets/widgets.php:969
+#: inc/widgets/widgets.php:1167 inc/widgets/widgets.php:1386
+#: inc/widgets/widgets.php:1701 inc/widgets/widgets.php:1869
+#: inc/widgets/widgets.php:2397
+msgid "Title:"
+msgstr "Pavadinimas:"
+
+#: inc/widgets/widgets.php:222
+msgid "Suitable for Home Top Sidebar, Home Bottom Left Sidebar and Side Sidbar."
+msgstr "Tinkamas pagrindinio (Home) puslapio viršutiniam skydeliui, pagrindinio puslapio apatiniam kairiajam skydeliui ir šoniniam skydeliui. "
+
+#: inc/widgets/widgets.php:210
+msgid "TG: Featured Single Page"
+msgstr "TG: Featured puslapis"
+
+#: inc/widgets/widgets.php:206
+msgid "Display Featured Single Page"
+msgstr "Rodyti Featured puslapį"
+
+#: inc/widgets/widgets.php:174
+msgid "Shows widgets at footer sidebar four."
+msgstr "Rodyti valdiklius paraštės ketvirtame skydelyje."
+
+#: inc/widgets/widgets.php:172
+msgid "Footer Sidebar Four"
+msgstr "Paraštės ketvirtas skydelis"
+
+#: inc/widgets/widgets.php:161
+msgid "Shows widgets at footer sidebar three."
+msgstr "Rodyti valdiklius paraštės trečiame skydelyje."
+
+#: inc/widgets/widgets.php:159
+msgid "Footer Sidebar Three"
+msgstr "Paraštės trečias skydelis"
+
+#: inc/widgets/widgets.php:148
+msgid "Shows widgets at footer sidebar two."
+msgstr "Rodyti valdiklius paraštės antrame skydelyje."
+
+#: inc/widgets/widgets.php:146
+msgid "Footer Sidebar Two"
+msgstr "Paraštės antras skydelis"
+
+#: inc/widgets/widgets.php:133
+msgid "Shows widgets at footer sidebar one."
+msgstr "Rodyti valdiklius paraštės pirmame skydelyje."
+
+#: inc/widgets/widgets.php:131
+msgid "Footer Sidebar One"
+msgstr "Paraštės pirmas skydelis"
+
+#: inc/widgets/widgets.php:122
+msgid "Shows widgets on Error 404 page."
+msgstr "Rodyti valdiklius Klaida 404 puslapyje"
+
+#: inc/widgets/widgets.php:120
+msgid "Error 404 Page Sidebar"
+msgstr "Klaida 404 puslapio skydelis"
+
+#: inc/widgets/widgets.php:110
+msgid "Widget area for WooCommerce Pages."
+msgstr ""
+
+#: inc/widgets/widgets.php:108
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:98
+msgid "Shows widgets on Contact Page Template."
+msgstr "Rodyti valdiklius kontaktų puslapio šablone"
+
+#: inc/widgets/widgets.php:96
+msgid "Contact Page Sidebar"
+msgstr "Kontaktų puslapio skydelis"
+
+#: inc/widgets/widgets.php:87
+msgid "Shows widgets on Business Page Template Bottom Section."
+msgstr ""
+
+#: inc/widgets/widgets.php:85
+msgid "Business Bottom Sidebar"
+msgstr "Business apatinis skydelis"
+
+#: inc/widgets/widgets.php:75
+msgid "Shows widgets on Business Page Template Middle Section Right Half."
+msgstr ""
+
+#: inc/widgets/widgets.php:73
+msgid "Business Middle Right Sidebar"
+msgstr "Business vidurinis dešinys skydelis"
+
+#: inc/widgets/widgets.php:64 inc/widgets/widgets.php:75
+msgid "Suitable widget: TG: Testimonial, TG: Featured Single Page"
+msgstr ""
+
+#: inc/widgets/widgets.php:64
+msgid "Shows widgets on Business Page Template Middle Section Left Half."
+msgstr ""
+
+#: inc/widgets/widgets.php:62
+msgid "Business Middle Left Sidebar"
+msgstr "Business vidurinis skydelis"
+
+#: inc/widgets/widgets.php:53 inc/widgets/widgets.php:87
+msgid "Suitable widget: TG: Services, TG: Call To Action Widget, TG: Featured Posts, TG: Featured Widget, TG: Our Clients"
+msgstr ""
+
+#: inc/widgets/widgets.php:53
+msgid "Shows widgets on Business Page Template Top Section."
+msgstr ""
+
+#: inc/widgets/widgets.php:51
+msgid "Business Top Sidebar"
+msgstr "Business viršutinis skydelis"
+
+#: inc/widgets/widgets.php:42
+msgid "Shows widgets in header section just above the main navigation menu."
+msgstr "Rodyti valdiklius antraštės zonoje virš pagrindinio navigacijos meniu."
+
+#: inc/widgets/widgets.php:40
+msgid "Header Sidebar"
+msgstr "Antraštės skydelis"
+
+#: inc/widgets/widgets.php:31
+msgid "Shows widgets at Left side."
+msgstr "Rodyti valdiklius kairėje pusėje."
+
+#: inc/widgets/widgets.php:20
+msgid "Shows widgets at Right side."
+msgstr "Rodyti valdiklius dešinėje pusėje."
+
+#: inc/header-functions.php:335
+msgid "Search Results"
+msgstr "Paieškos rezultatai"
+
+#: inc/header-functions.php:333
+msgid "Page NOT Found"
+msgstr "Puslapis nerastas"
+
+#: inc/header-functions.php:329 sidebar-left.php:29 sidebar.php:32
+msgid "Archives"
+msgstr "Archyvai"
+
+#: inc/header-functions.php:323
+msgid "Links"
+msgstr "Nuorodos"
+
+#: inc/header-functions.php:320
+msgid "Quotes"
+msgstr "Citatos"
+
+#: inc/header-functions.php:317
+msgid "Videos"
+msgstr "Video"
+
+#: inc/header-functions.php:314
+msgid "Images"
+msgstr "Paveikslėliai"
+
+#: inc/header-functions.php:311
+msgid "Asides"
+msgstr "Be pavadinimo"
+
+#: inc/header-functions.php:308
+msgid "Year: %s"
+msgstr "Metai: %s"
+
+#: inc/header-functions.php:305
+msgid "Month: %s"
+msgstr "Mėnuo: %s"
+
+#: inc/header-functions.php:302
+msgid "Day: %s"
+msgstr "Diena: %s"
+
+#: inc/header-functions.php:293
+msgid "Author: %s"
+msgstr "Autorius: %s"
+
+#: inc/functions.php:680 inc/functions.php:1157
+msgid "Google Plus"
+msgstr ""
+
+#: inc/functions.php:1149
+msgid "<span>Follow %s on:</span>"
+msgstr ""
+
+#: inc/functions.php:1115 inc/widgets/widgets.php:1113
+msgid "Comments Off"
+msgstr "Komentarai negalimi"
+
+#: inc/functions.php:1115 inc/widgets/widgets.php:1113
+msgid "% Comments"
+msgstr "Komentarų: %"
+
+#: inc/functions.php:1115 inc/widgets/widgets.php:1113
+msgid "1 Comment"
+msgstr "Komentarų: 1"
+
+#: inc/functions.php:1115 inc/widgets/widgets.php:1113
+msgid "No Comments"
+msgstr "Komentarų: 0"
+
+#: inc/functions.php:1101 inc/related-posts.php:56
+msgid "<span class=\"date\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\">%3$s</a></span>"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
+
+#: inc/functions.php:929
+msgid "Reply"
+msgstr "Atsakyti"
+
+#: inc/functions.php:924
+msgid "Your comment is awaiting moderation."
+msgstr "Jūsų komentaras laukia patvirtinimo."
+
+#: inc/functions.php:918
+msgid "<a class=\"comment-permalink\" href=\"%1$s\">Permalink</a>"
+msgstr "<a class=\"comment-permalink\" href=\"%1$s\">Permalink</a>"
+
+#: inc/functions.php:916
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: inc/functions.php:913
+msgid "Post author"
+msgstr "Įrašo autorius(-ė)"
+
+#: inc/functions.php:898
+msgid "(Edit)"
+msgstr "(Redaguoti)"
+
+#: inc/functions.php:898
+msgid "Pingback:"
+msgstr "Atgalinis pranešimas:"
+
+#: inc/functions.php:828
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Naujesni įrašai <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/functions.php:824
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Senesni įrašai"
+
+#: inc/functions.php:814
+msgid "Post navigation"
+msgstr "Įrašo navigacija"
+
+#: inc/customizer.php:2781
+msgid "Footer copyright part background color. Default is #F8F8F8."
+msgstr "Paraštės copyright dalies pagrindo spalva. Numatytoji #F8F8F8."
+
+#: inc/customizer.php:2775
+msgid "Footer small menu text color. Default is #666666."
+msgstr "Paraštės mažojo meniu teksto spalva. Numatytoji #666666."
+
+#: inc/customizer.php:2769
+msgid "Footer copyright text color. Default is #666666."
+msgstr "Paraštės copyright teksto spalva. Numatytoji #666666."
+
+#: inc/customizer.php:2763
+msgid "Widget background color. Default is #333333."
+msgstr "Valdiklio pagrindo spalva. Numatytoji #333333."
+
+#: inc/customizer.php:2757
+msgid "Widget content color. Default is #999999."
+msgstr "Valdiklio turinio spalva. Numatytoji #999999."
+
+#: inc/customizer.php:2751
+msgid "Widget title color. Default is #D5D5D5."
+msgstr "Valdiklio pavadinimo spalva. Numatytoji #D5D5D5."
+
+#: inc/customizer.php:2746
+msgid "Footer part color options"
+msgstr "Paraštės spalvų pasirinkimai"
+
+#: inc/customizer.php:2739
+msgid "Button background color. Default is #0FBE7C."
+msgstr "Mygtuko pagrindo spalva. Numatytoji #0FBE7C."
+
+#: inc/customizer.php:2733
+msgid "Button text color. Default is #FFFFFF."
+msgstr "Mygtuko teksto spalva. Numatytoji #FFFFFF."
+
+#: inc/customizer.php:2727
+msgid "Background color. Default is #F8F8F8."
+msgstr "Pagrindo spalva. Numatytoji #F8F8F8."
+
+#: inc/customizer.php:2721
+msgid "Title color. Default is #222222."
+msgstr "Pavadinimo spalva. Numatytoji #222222."
+
+#: inc/customizer.php:2716
+msgid "TG:Call to action widget color options"
+msgstr "TG: Kvietimo veikti valdiklio spalvų pasirinkimai"
+
+#: inc/customizer.php:2709
+msgid "Commenting field background color. Like name, date etc. Default is #F8F8F8."
+msgstr "Komentavimo laukelio pagrindo spalva. Vardas, data ir pan. Numatytoji #F8F8F8."
+
+#: inc/customizer.php:2703
+msgid "Single comment background color. Like name, date etc. Default is #F8F8F8."
+msgstr "Vieno komentaro pagrindo spalva. Vardas, data ir pan. Numatytoji #F8F8F8."
+
+#: inc/customizer.php:2697
+msgid "Comment meta color. Like name, date etc. Default is #999999."
+msgstr "Komentarų meta spalva. Vardas, data ir pan. Numatytoji #999999."
+
+#: inc/customizer.php:2691
+msgid "Comment title color. Default is #222222."
+msgstr "Komentarų pavadinimo spalva. Numatytoji #222222."
+
+#: inc/customizer.php:2685
+msgid "Comment part background color. Default is #FFFFFF."
+msgstr "Komentarų dalies pagrindo spalva. Numatytoji #FFFFFF."
+
+#: inc/customizer.php:2680
+msgid "Comment part color options"
+msgstr "Komentarų dalies spalvų pasirinkimai"
+
+#: inc/customizer.php:2673
+msgid "Content part background color. Default is #FFFFFF."
+msgstr "Turinio dalies pagrindo spalva. Numatytoji #FFFFFF."
+
+#: inc/customizer.php:2667
+msgid "Read more link color for TG: Featured Single Page widget and TG: Services widget. Default is #0FBE7C."
+msgstr "(Skaityti daugiau) nuorodos spalva TG: Featured vieno puslapio ir TG: paslaugos valdikliuose. Numatytoji #0FBE7C."
+
+#: inc/customizer.php:2661
+msgid "Read more text background color. Default is #0FBE7C."
+msgstr "(Skaityti daugiau) teksto pagrindo spalva. Numatytoji #0FBE7C."
+
+#: inc/customizer.php:2655
+msgid "Read more text in post meta. Default is #FFFFFF."
+msgstr " Įrašų meta (Skaityti daugiau) tekstas. Numatytoji #FFFFFF."
+
+#: inc/customizer.php:2649
+msgid "Post meta text color. Post meta includes date, author, category etc. information of post. Default is #999999."
+msgstr "Įrašų meta teksto spalva. Įrašų meta apima datą, autorių, kategoriją ir kt. informaciją apie įrašą. Numatytoji #999999."
+
+#: inc/customizer.php:2643
+msgid "Post meta icon color. Post meta includes date, author, category etc. information of post. Default is #999999."
+msgstr "Įrašų meta piktogramos spalva. Įrašų meta apima datą, autorių, kategoriją ir kt. informaciją apie įrašą. Numatytoji #999999."
+
+#: inc/customizer.php:2637
+msgid "Content text color. Default is #666666."
+msgstr "Turinio teksto spalva. Numatytoji #666666."
+
+#: inc/customizer.php:2631
+msgid "Widget title color. Default is #FFFFFF."
+msgstr "Valdiklio pavadinimo spalva. Numatytoji #FFFFFF."
+
+#: inc/customizer.php:2625
+msgid "Title in posts listing or blog/category view. Also for posts titles in TG:Featured Posts widget. Default is #222222."
+msgstr "Pavadinimas įrašų sąrašo arba blog/kategorijos vaizde. Taip pat įrašų pavadinimams TG: Featured įrašai valdiklyje. Numatytoji #222222."
+
+#: inc/customizer.php:2620
+msgid "Content part color options"
+msgstr "Turinio dalies spalvų pasirinkimai"
+
+#: inc/customizer.php:2613
+msgid "Header bar background color. Default is #FFFFFF."
+msgstr "Antraštės skydelio pagrindo spalva. Numatytoji #FFFFFF."
+
+#: inc/customizer.php:2607
+msgid "Breadcrumb text color. Default is #666666."
+msgstr "Trupinėlių teksto spalva. Numatytoji #666666."
+
+#: inc/customizer.php:2601
+msgid "Page title and post title in single view. Default is #222222"
+msgstr "Puslapio pavadinimas ir įrašo pavadinimas vienetiniame vaizde. Numatytoji #222222."
+
+#: inc/customizer.php:2596
+msgid "Header Bar Color Options"
+msgstr "Antraštės juostos spalvų pasirinkimai"
+
+#: inc/customizer.php:2589
+msgid "Slider button background color. Default is #0FBE7C."
+msgstr "Skaidrių mygtuko pagrindo spalva. Numatytoji #0FBE7C."
+
+#: inc/customizer.php:2583
+msgid "Slider button text color. Default is #FFFFFF."
+msgstr "Skaidrių mygtuko teksto spalva. Numatytoji #FFFFFF."
+
+#: inc/customizer.php:2577
+msgid "Slider content. Default is #FFFFFF."
+msgstr "Skaidrių turinys. Numatytoji #FFFFFF."
+
+#: inc/customizer.php:2571
+msgid "Slider title. Default is #FFFFFF."
+msgstr "Skaidrių pavadinimas. Numatytoji #FFFFFF."
+
+#: inc/customizer.php:2566
+msgid "Slider part color options"
+msgstr "Skaidrių dalies spalvų pasirinkimai"
+
+#: inc/customizer.php:2559
+msgid "Header small menu text color. Default is #666666."
+msgstr "Antraštės mažojo meniu teksto spalva. Numatytoji #666666."
+
+#: inc/customizer.php:2553
+msgid "Header top bar info text color. Default is #555555."
+msgstr "Antraštės viršutinio skydelio info teksto spalva. Numatytoji #555555."
+
+#: inc/customizer.php:2547
+msgid "Header top bar background color. Default is #F8F8F8."
+msgstr "Antraštės viršutinio skydelio pagrindo spalva. Numatytoji #F8F8F8."
+
+#: inc/customizer.php:2541
+msgid "Header background color. Default is #FFFFFF."
+msgstr "Antraštės pagrindo spalva. Numatytoji #FFFFFF."
+
+#: inc/customizer.php:2535
+msgid "Primary sub menu text color. Default is #666666."
+msgstr "Pirminio submeniu teksto spalva. Numatytoji #666666."
+
+#: inc/customizer.php:2529
+msgid "Primary menu text color. Default is #444444."
+msgstr "Pirminio meniu teksto spalva. Numatytoji #444444."
+
+#: inc/customizer.php:2524
+msgid "Header Color Options"
+msgstr "Antraštės spalvų pasirinkimai"
+
+#: inc/customizer.php:2502
+msgid "Footer small menu. Default is 12px."
+msgstr "Paraštės mažasis meniu. Numatytasis 12px."
+
+#: inc/customizer.php:2495
+msgid "Footer copyright text font size. Default is 12px."
+msgstr "Paraštės Copyright šrifto teksto dydis. Numatytasis 12px."
+
+#: inc/customizer.php:2488
+msgid "Footer widget content font size. Default is 14px."
+msgstr "Paraštės valdiklio turinio šrifto dydis. Numatytasis 14px."
+
+#: inc/customizer.php:2481
+msgid "Footer widget title font size. Default is 22px."
+msgstr "Paraštės valdiklio pavadinimo šrifto dydis. Numatytasis 22px."
+
+#: inc/customizer.php:2476
+msgid "Footer font size options"
+msgstr "Paraštės šrifto dydžio pasirinkimai"
+
+#: inc/customizer.php:2468
+msgid "Read more link font size. Default is 14px. Read more in post meta, TG: Featured Single Page widget and TG: Services widget."
+msgstr "(Skaityti daugiau) nuorodos šrifto dydis. Numatytasis 14px. (Skaityti daugiau) įrašų meta, TG Featured vieno puslapio valdiklyje ir TG: paslaugos valdyklyje."
+
+#: inc/customizer.php:2461
+msgid "Post meta font size. Default is 14px. Post meta includes date, author, category etc. information of post."
+msgstr "Įrašų meta šrifto dydis. Numatytasis 14px. Įrašų meta apima datą, autorių, kategoriją ir kt. informaciją apie įrašą."
+
+#: inc/customizer.php:2454
+msgid "Content font size, also applies to other text like in search fields, post comment button etc. Default is 16px."
+msgstr "Turinio šrifto dydis, taip pat taikomas kitam tekstui, pvz. paieškos laukeliuose, įrašų komentaruose ir kt. Numatytasis 16px."
+
+#: inc/customizer.php:2449
+msgid "Content font size options"
+msgstr "Turinio šrifto dydžių pasirinkimai"
+
+#: inc/customizer.php:2441
+msgid "Comment Title. Default is 26px."
+msgstr "Komentarų pavadinimas. Numatytasis 26px."
+
+#: inc/customizer.php:2434
+msgid "Button text of TG: Call To Action widget. Default is 22px."
+msgstr ""
+
+#: inc/customizer.php:2427
+msgid "Title of TG: Call To Action widget. Default is 24px."
+msgstr "TG: Kvietimo veikti valdiklio pavadinimas. Standartinė nuostata 24px."
+
+#: inc/customizer.php:2420
+msgid "Main title of TG: Featured Posts widget and TG: Our Clients widget. Default is 30px."
+msgstr "Pagrindinis pavadinimas TG: Featured įrašai ir TG: Mūsų klientai valdikliuose. Numatytasis 30px."
+
+#: inc/customizer.php:2413
+msgid "Widget title font size. Default is 22px."
+msgstr "Valdiklių pavadinimų šrifto dydis. Numatytasis 22px."
+
+#: inc/customizer.php:2406
+msgid "Title in posts listing or blog/category view. Also for posts titles in TG:Featured Posts widget. Default is 26px."
+msgstr "Pavadinimai įrašų sąrašo arba blog/kategorijos vaizde. Taip pat įrašų pavadinimams TG:Featured įrašai valdiklyje. Numatytasis 26px."
+
+#: inc/customizer.php:2401
+msgid "Title and widget related font size options"
+msgstr "Su pavadinimu ir valdikliais susijusių šriftų pasirinkimai"
+
+#: inc/customizer.php:2393
+msgid "Page title and post title in single view. Default is 22px. Appears in header bar just before content."
+msgstr "Puslapio pavadinimas ir puslapio pavadinimas vienetiniame vaizde. Numatytasis yra 22px. Atsiranda antraštės skydelyje iškart prieš turinį."
+
+#: inc/customizer.php:2386
+msgid "Breadcrumb Text. Default is 12px. Breadcrumb appears in header bar right side after installing Breadcrumb NavXT"
+msgstr "Trupinėlių tekstas. Numatytasis 12px. Trupinėliai atsiranda antraštės skydelio dešinėje instaliavus Breadcrumb NavXT"
+
+#: inc/customizer.php:2381
+msgid "Header Bar font size options"
+msgstr "Antraštės skydelio teksto dydžio pasirinkimai"
+
+#: inc/customizer.php:2373
+msgid "Slider button text. Default is 20px."
+msgstr "Skaidrių mygtuko tekstas. Numatytasis 20px."
+
+#: inc/customizer.php:2366
+msgid "Slider content. Default is 16px."
+msgstr "Skaidrių turinys. Numatytasis 16px."
+
+#: inc/customizer.php:2359
+msgid "Slider title. Default is 26px."
+msgstr "Skaidrių pavadinimas. Numatytasis 26px."
+
+#: inc/customizer.php:2354
+msgid "Slider font size Options"
+msgstr "Skaidrių teksto dydžio pasirinkimai"
+
+#: inc/customizer.php:2346
+msgid "Header top bar small info text. Default is 12px."
+msgstr "Antraštės viršutinio skydelio info tekstas. Numatytasis 12px."
+
+#: inc/customizer.php:2339
+msgid "Header small menu. Default is 12px."
+msgstr "Pirminis submeniu. Numatytasis 12px."
+
+#: inc/customizer.php:2332
+msgid "Primary sub menu. Default is 13px."
+msgstr "Primary sub menu. Default is 13px."
+
+#: inc/customizer.php:2325
+msgid "Primary menu. Default is 16px."
+msgstr "Pirminis meniu. Numatytasis 16px."
+
+#: inc/customizer.php:2318
+msgid "Site tagline font size. Default is 16px."
+msgstr "Tinklapio tagline šrifto dydis. Numatytasis 16px."
+
+#: inc/customizer.php:2311
+msgid "Site title font size. Default is 36px."
+msgstr "Tinklapio pavadinimo šrifto dydis. Numatytasis 36px."
+
+#: inc/customizer.php:2306
+msgid "Header font size Options"
+msgstr "Antraštės šrifto dydžio pasirinkimai"
+
+#: inc/customizer.php:2080
+msgid "This layout will be reflected in woocommerce Product page."
+msgstr ""
+
+#: inc/customizer.php:2067
+msgid "Product Page Layout"
+msgstr ""
+
+#: inc/customizer.php:2053
+msgid "This layout will be reflected in woocommerce archive page only."
+msgstr ""
+
+#: inc/customizer.php:2040
+msgid "Archive Page Layout"
+msgstr ""
+
+#: inc/customizer.php:2033 inc/demo-importer/demos/functions-demo-config.php:60
+#: inc/demo-importer/demos/functions-demo-config.php:133
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/customizer.php:2019
+msgid "Border lines. These lines are used in various parts as seperator and as borders. Default is #EAEAEA."
+msgstr "Kraštų linijos. Šios linijos naudojamos įvairiose dalyse kaip atskyrimo arba kraštų linijos. Numatytoji #FFFFFF."
+
+#: inc/customizer.php:2006
+msgid "General Color Options"
+msgstr "Bendri spalvų pasirinkimai"
+
+#: inc/customizer.php:1968
+msgid "Color"
+msgstr "Spalva"
+
+#: inc/customizer.php:1905
+msgid "Content font and for others. Default is \"Lato\"."
+msgstr "Turinio šriftas. Numatytasis yra \"Lato\"."
+
+#: inc/customizer.php:1900
+msgid "All Titles font. Default is \"Lato\"."
+msgstr "Visų pavadinimų šriftas. Numatytasis yra \"Lato\"."
+
+#: inc/customizer.php:1895
+msgid "Menu font. Default is \"Lato\"."
+msgstr "Meniu šriftas. Numatytasis yra \"Lato\"."
+
+#: inc/customizer.php:1890
+msgid "Site tagline font. Default is \"Lato\"."
+msgstr "Tinklapio tagline šriftas. Numatytasis yra \"Lato\"."
+
+#: inc/customizer.php:1885
+msgid "Site title font. Default is \"Lato\"."
+msgstr "Tinklapio pavadinimo šriftas. Numatytasis yra \"Lato\"."
+
+#: inc/customizer.php:1877
+msgid "Google Font Options"
+msgstr "Google šriftų pasirinkimai"
+
+#: inc/customizer.php:1870
+msgid "Typography"
+msgstr "Tipografija"
+
+#: inc/customizer.php:1859
+msgid "Center"
+msgstr ""
+
+#: inc/customizer.php:1858
+msgid "Left/Right"
+msgstr ""
+
+#: inc/customizer.php:1856
+msgid "Display Copyright and Footer Menu either on left/right or on center Position."
+msgstr ""
+
+#: inc/customizer.php:1842
+msgid "Copyright Alignment"
+msgstr ""
+
+#: inc/customizer.php:1826
+msgid "Edit the Copyright information in your footer. You can also use shortcodes [the-year], [site-link], [wp-link], [tg-link] for current year, your site link, WordPress site link and ThemeGrill site link respectively."
+msgstr "Pakoreguokite Copyright informaciją paraštėje. Galite naudoti shortcode [the-year], [site-link], [wp-link], [tg-link] einamiesiems metams, jūsų tinklapio nuorodai, WordPress nuorodai ir ThemeGrill nuorodai."
+
+#: inc/customizer.php:1813
+msgid "Footer Copyright Editor"
+msgstr "Paraštės Copyright redagavimas"
+
+#: inc/customizer.php:1809 inc/functions.php:1002
+msgid "Powered by: "
+msgstr "Powered by: "
+
+#: inc/customizer.php:1809 inc/functions.php:1002
+msgid "Theme by: "
+msgstr "Tema:"
+
+#: inc/customizer.php:1809 inc/functions.php:1002
+msgid "Copyright &copy; "
+msgstr "Copyright &copy; "
+
+#: inc/customizer.php:1803 inc/widgets/widgets.php:405
+#: inc/widgets/widgets.php:1472
+msgid "Four Column"
+msgstr ""
+
+#: inc/customizer.php:1802 inc/widgets/widgets.php:402
+#: inc/widgets/widgets.php:1469
+msgid "Three Column"
+msgstr ""
+
+#: inc/customizer.php:1801 inc/widgets/widgets.php:399
+#: inc/widgets/widgets.php:1466
+msgid "Two Column"
+msgstr ""
+
+#: inc/customizer.php:1800
+msgid "One Column"
+msgstr ""
+
+#: inc/customizer.php:1798
+msgid "Choose the number of column for the footer widgetized areas."
+msgstr ""
+
+#: inc/customizer.php:1785
+msgid "Footer Widgets Column"
+msgstr ""
+
+#: inc/customizer.php:1756
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:1744
+msgid "Check to disable the scroll to top button."
+msgstr ""
+
+#: inc/customizer.php:1731
+msgid "Scroll To Top Button"
+msgstr ""
+
+#: inc/customizer.php:1723
+msgid "Check to enable the featured image in single page."
+msgstr ""
+
+#: inc/customizer.php:1710
+msgid "Featured Image In Single Page"
+msgstr ""
+
+#: inc/customizer.php:1702
+msgid "Check to enable the featured image in single post page."
+msgstr ""
+
+#: inc/customizer.php:1689
+msgid "Featured Image In Single Post Page"
+msgstr ""
+
+#: inc/customizer.php:1681
+msgid "Check to add the social links in the author bio section. Note: it suppots only the social icons provided by All In One SEO Pack or WordPress SEO plugin."
+msgstr ""
+
+#: inc/customizer.php:1651
+msgid "Check to add the all post link of author url in the author box."
+msgstr ""
+
+#: inc/customizer.php:1628
+msgid "Check to enable the author bio section just below the post."
+msgstr ""
+
+#: inc/customizer.php:1615
+msgid "Author Bio"
+msgstr ""
+
+#: inc/customizer.php:1607
+msgid "Disable the tags display just below the post."
+msgstr ""
+
+#: inc/customizer.php:1592
+msgid "Disable the edit button only in the post meta section."
+msgstr ""
+
+#: inc/customizer.php:1577
+msgid "Disable the comments only in the post meta section."
+msgstr ""
+
+#: inc/customizer.php:1562
+msgid "Disable the category only in the post meta section."
+msgstr ""
+
+#: inc/customizer.php:1547
+msgid "Disable the date only in the post meta section."
+msgstr ""
+
+#: inc/customizer.php:1532
+msgid "Disable the author only in the post meta section."
+msgstr ""
+
+#: inc/customizer.php:1517
+msgid "Disable the post meta for the post totally, ie, remove all of the meta data."
+msgstr ""
+
+#: inc/customizer.php:1504
+msgid "Post Meta Display"
+msgstr ""
+
+#: inc/customizer.php:1488
+msgid "Replace the default Read more text with your own words"
+msgstr "Pakeiskite (Skaityti daugiau) tekstą savo norimais žodžiais"
+
+#: inc/customizer.php:1475
+msgid "Excerpt Read More Text"
+msgstr "Santraukos tekstas (Skaityti daugiau)"
+
+#: inc/customizer.php:1467
+msgid "Enter the number of Words you wish to show on excerpt. Default value is 40 words."
+msgstr "Įveskite žodžių, matomų santraukoje, skaičių. Numatytoji vertė 40 žodžių."
+
+#: inc/customizer.php:1455
+msgid "Excerpt Length"
+msgstr "Santrumpos ilgis"
+
+#: inc/customizer.php:1366
+msgid "Upload favicon for your site."
+msgstr "Įkelti favicon Jūsų tinklapiui."
+
+#: inc/customizer.php:1354
+msgid "Upload favicon"
+msgstr "Įkelti favicon"
+
+#: inc/customizer.php:1346
+msgid "Check to activate favicon. Upload fav icon from below option"
+msgstr "Pažymėkite, kad įjungti favicon. Įkelkite favicon iš pasirinkimų žemiau"
+
+#: inc/customizer.php:1333
+msgid "Activate favicon"
+msgstr "Įjungti favicon"
+
+#: inc/customizer.php:1326 inc/customizer.php:2094
+msgid "Additional"
+msgstr "Priedai"
+
+#: inc/customizer.php:1283
+msgid "Write your custom css."
+msgstr "Parašykite savo papildomą CSS."
+
+#: inc/customizer.php:1270
+msgid "Custom CSS"
+msgstr "Pasirinktinis CSS"
+
+#: inc/customizer.php:1246
+msgid "This will reflect in links, buttons and many others. Choose a color to match your site."
+msgstr "Tai matysis nuorodose, mygtukuose ir kitur. Pasirinkite spalvą atitinkančią jūsų tinklapį."
+
+#: inc/customizer.php:1233
+msgid "Primary color option"
+msgstr "Pagrindinė spalva"
+
+#. Template Name of the plugin/theme
+msgid "Blog Full Content"
+msgstr "Pilno turinio Blog"
+
+#. Template Name of the plugin/theme
+msgid "Blog Image Round Alternate Medium"
+msgstr "Vidutinis apvalus pakaitinis Blog vaizdas"
+
+#. Template Name of the plugin/theme
+msgid "Blog Image Round Medium"
+msgstr "Vidutinis apvalus Blog vaizdas"
+
+#. Template Name of the plugin/theme
+msgid "Blog Image Alternate Medium"
+msgstr "Vidutinis pakaitinis Blog vaizdas"
+
+#. Template Name of the plugin/theme
+msgid "Blog Image Medium"
+msgstr "Vidutinis Blog vaizdas"
+
+#. Template Name of the plugin/theme
+msgid "Blog Image Large"
+msgstr "Didelis Blog vaizdas"
+
+#: inc/customizer.php:1217
+msgid "Choose the display type for the archive/category view."
+msgstr "Pasirinmkite atvaizdavimo tipą archyvo/kategotijų vaizdui."
+
+#: inc/customizer.php:1204
+msgid "Blog Posts display type"
+msgstr ""
+
+#: inc/customizer.php:1190
+msgid "Select default layout for single posts. This layout will be reflected in all single posts unless unique layout is set for specific post."
+msgstr "Pasirinkite numatytąjį įrašų išdėstymą. Šis išdėstymas matysis visuose įrašuose, nebent unikalus išdėstymas bus nustatytas konkrečiam įrašui."
+
+#: inc/customizer.php:1177
+msgid "Default layout for single posts only"
+msgstr "Numatytasis išdėstymas tik atskiriems įrašams"
+
+#: inc/customizer.php:1163
+msgid "Select default layout for pages. This layout will be reflected in all pages unless unique layout is set for specific page."
+msgstr "Pasirinkite numatytąjį puslapių išdėstymą. Šis išdėstymas matysis visuose puslapiuose, nebent unikalus išdėstymas bus nustatytas konkrečiam puslapiui."
+
+#: inc/customizer.php:1150
+msgid "Default layout for pages only"
+msgstr "Numatytasis išdėstymas tik puslapiams"
+
+#: inc/customizer.php:1136
+msgid "Select default layout. This layout will be reflected in whole site archives, search etc. The layout for a single post and page can be controlled from below options."
+msgstr "Pasirinkite numatytąjį išdėstymą. Šis išdėstymas matysis viso tinklapio archyvuose, paieškoje ir kt. Atskirų įrašų ir puslapių išdėstymas gali būti keičiamas žemiau esančiose nuostatose."
+
+#: inc/customizer.php:1123
+msgid "Default layout"
+msgstr "Numatytasis išdėstymas"
+
+#: inc/customizer.php:1111
+msgid "Choose the light or dark skin. This will be reflected in whole site."
+msgstr "Pasirinkite šviesų arba tamsų šabloną. Tai matysis visame tinklapyje."
+
+#: inc/customizer.php:1098
+msgid "Color Skin"
+msgstr "Šablono spalva"
+
+#: inc/customizer.php:1026
+msgid "Wide layout with content width of 978px"
+msgstr "Platus išdėstymas su 978px pločio turiniu"
+
+#: inc/customizer.php:1025
+msgid "Wide layout with content width of 1218px"
+msgstr "Platus išdėstymas su 1218px pločio turiniu"
+
+#: inc/customizer.php:1024
+msgid "Boxed layout with content width of 978px"
+msgstr "Įrėmintas išdėstymas su 978px pločio turiniu"
+
+#: inc/customizer.php:1023
+msgid "Boxed layout with content width of 1218px"
+msgstr "Įrėmintas išdėstymas su 1218px pločio turiniu"
+
+#: inc/customizer.php:1021
+msgid "Choose your site layout. The change is reflected in whole site."
+msgstr "Pasirinkite tinklapio išdėstymą. Pakeitimai atsispindės viame tinlapyje."
+
+#: inc/customizer.php:1007
+msgid "Site Layout"
+msgstr "Tinklapio išdėstymas"
+
+#: inc/customizer.php:1001
+msgid "Design"
+msgstr "Dizainas"
+
+#: inc/customizer.php:988
+msgid "Enter link to redirect slider when clicked"
+msgstr "Įveskite nuorodą i kurią perkels skaidrės paspaudimas"
+
+#: inc/customizer.php:974
+msgid "Enter the button text. Default is \"Read more\""
+msgstr "Įveskite mygtuko tekstą. Numatytasis yra \"Skaityti daugiau\""
+
+#: inc/customizer.php:967 inc/customizer.php:1480 inc/customizer.php:2265
+#: inc/functions.php:1124 inc/header-functions.php:181
+#: inc/widgets/widgets.php:325 inc/widgets/widgets.php:505
+#: inc/widgets/widgets.php:1119 inc/widgets/widgets.php:1649
+msgid "Read more"
+msgstr "Skaityti toliau"
+
+#: inc/customizer.php:960
+msgid "Left side"
+msgstr ""
+
+#: inc/customizer.php:959
+msgid "Right side"
+msgstr ""
+
+#: inc/customizer.php:957
+msgid "Slider text position."
+msgstr ""
+
+#: inc/customizer.php:942
+msgid "Enter your slider description."
+msgstr "Įveskite skaidrės apibūdinimą."
+
+#: inc/customizer.php:928
+msgid "Enter title for your slider."
+msgstr "Įveskite skaidrės pavadinimą."
+
+#: inc/customizer.php:914
+msgid "Upload slider image."
+msgstr "Įkelti skaidrių paveikslėlį."
+
+#: inc/customizer.php:901
+msgid "Image Upload #%1$s"
+msgstr "Paveikslėlio įkėlimas #%1$s"
+
+#: inc/customizer.php:843
+msgid "Check to make the slider images link back to respective links."
+msgstr ""
+
+#: inc/customizer.php:828
+msgid "Enter the number of slides you want then click save."
+msgstr "Įrašykite norimą skaidrių skaičių ir paspauskite Išsaugoti."
+
+#: inc/customizer.php:828
+msgid "Number of slides"
+msgstr "Skaidrių skaičius"
+
+#: inc/customizer.php:814
+msgid "Add number in seconds. Default is 1."
+msgstr "Įrašykite sekundes. Numatytoji vertė 1 sekundė."
+
+#: inc/customizer.php:814
+msgid "Slider transition length time"
+msgstr "Skaidrių keitimosi greitis"
+
+#: inc/customizer.php:800
+msgid "Add number in seconds. Default is 4."
+msgstr "Įrašykite sekundes. Numatytoji vertė 4 sekundės."
+
+#: inc/customizer.php:800
+msgid "Slider transition delay time"
+msgstr "Skaidrių keitimosi dažnis"
+
+#: inc/customizer.php:787
+msgid "Shuffle"
+msgstr "Shuffle"
+
+#: inc/customizer.php:786
+msgid "TileBlind"
+msgstr ""
+
+#: inc/customizer.php:785
+msgid "FlipVert"
+msgstr ""
+
+#: inc/customizer.php:784
+msgid "FlipHorz"
+msgstr ""
+
+#: inc/customizer.php:783
+msgid "ScrollHorz"
+msgstr ""
+
+#: inc/customizer.php:782
+msgid "None"
+msgstr ""
+
+#: inc/customizer.php:781
+msgid "FadeOut"
+msgstr ""
+
+#: inc/customizer.php:780
+msgid "Fade"
+msgstr "Fade"
+
+#: inc/customizer.php:776
+msgid "Choose the transition effect that you like. Default is \"fade\"."
+msgstr "Pasirinkite norimą skaidrių keitimosi efektą. Numatytasis yra \"fade\"."
+
+#: inc/customizer.php:776
+msgid "Slider transition effect"
+msgstr "Skaidrių keitimosi efektai"
+
+#: inc/customizer.php:763
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer.php:755
+msgid "Slider on all pages"
+msgstr "Skaidrės visuose puslapiuose"
+
+#: inc/customizer.php:754
+msgid "Slider on Front page only"
+msgstr ""
+
+#: inc/customizer.php:753
+msgid "Slider on Front and blog page"
+msgstr ""
+
+#: inc/customizer.php:751
+msgid "Choose the slider status that you want."
+msgstr "Pasirinkite norimą skaidrių būklę."
+
+#: inc/customizer.php:738
+msgid "Slider Status"
+msgstr "Skaidrių būklė"
+
+#: inc/customizer.php:722
+msgid "Check to activate slider."
+msgstr "Pažymėkite, kad įjungti skaidres."
+
+#: inc/customizer.php:708
+msgid "Activate slider"
+msgstr "Įjunkite skaidres"
+
+#: inc/customizer.php:702
+#: spacious-toolkit/controls/content-widget-slider-1.php:37
+msgid "Slider"
+msgstr "Slankiklis"
+
+#: inc/customizer.php:656
+msgid "Add color for icon."
+msgstr ""
+
+#: inc/customizer.php:612
+msgid "Additional Social Icons"
+msgstr ""
+
+#: inc/customizer.php:607 inc/header-functions.php:53
+msgid "Additional Social Icon Five"
+msgstr ""
+
+#: inc/customizer.php:606 inc/header-functions.php:52
+msgid "Additional Social Icon Four"
+msgstr ""
+
+#: inc/customizer.php:605 inc/header-functions.php:51
+msgid "Additional Social Icon Three"
+msgstr ""
+
+#: inc/customizer.php:604 inc/header-functions.php:50
+msgid "Additional Social Icon Two"
+msgstr ""
+
+#: inc/customizer.php:603 inc/header-functions.php:49
+msgid "Additional Social Icon One"
+msgstr ""
+
+#: inc/customizer.php:594
+msgid "Add font awesome icon name. Example: soundcloud. You can find list <a href=\"http://fortawesome.github.io/Font-Awesome/icons/\">here</a>"
+msgstr ""
+
+#: inc/customizer.php:579 inc/customizer.php:671
+msgid "Check to show in new tab"
+msgstr "Pažymėkitem kad būtų rodoma naujame skirtuke"
+
+#: inc/customizer.php:564 inc/customizer.php:628
+msgid "Add link for %1$s"
+msgstr "Pridėti nuorodą į %1$s"
+
+#: inc/customizer.php:543
+msgid "Mail"
+msgstr ""
+
+#: inc/customizer.php:542
+msgid "RSS"
+msgstr ""
+
+#: inc/customizer.php:541
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/customizer.php:540 inc/functions.php:983
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/customizer.php:539
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/customizer.php:538 inc/functions.php:704
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/customizer.php:537
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: inc/customizer.php:536
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/customizer.php:535
+msgid "Reddit"
+msgstr "Reddit"
+
+#: inc/customizer.php:534
+msgid "Pocket"
+msgstr "Pocket"
+
+#: inc/customizer.php:533
+msgid "Polldaddy"
+msgstr "Polldaddy"
+
+#: inc/customizer.php:532
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer.php:531 inc/functions.php:692
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customizer.php:530
+msgid "GitHub"
+msgstr "GitHub"
+
+#: inc/customizer.php:529 inc/functions.php:686
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/customizer.php:528
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/customizer.php:527
+msgid "Digg"
+msgstr "Digg"
+
+#: inc/customizer.php:526
+msgid "CodePen"
+msgstr "CodePen"
+
+#: inc/customizer.php:525 inc/functions.php:698
+#: spacious-toolkit/controls/content-widget-team-4.php:101
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer.php:524
+msgid "GooglePlus"
+msgstr "GooglePlus"
+
+#: inc/customizer.php:523 inc/functions.php:668 inc/functions.php:1154
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer.php:522 inc/functions.php:674 inc/functions.php:1151
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer.php:508
+msgid "Check to activate social links area. You also need to activate the header top bar section in Header options to show this social links area"
+msgstr "Suaktyvinti socialinių tinklų nuorodų zoną. Jūs taip pat turite suaktyvuoti antraštės viršutinį skydelį Antraštės nustatymuose, kad šios nuorodos būtų rodomos"
+
+#: inc/customizer.php:494
+msgid "Activate social links area"
+msgstr "Įjunkite socialinių tinklų zoną"
+
+#: inc/customizer.php:488
+msgid "Social Links"
+msgstr "Socialinių tinklų nuorodos"
+
+#: inc/customizer.php:407
+msgid "Change the BreadCrumb text as your requirement."
+msgstr ""
+
+#: inc/customizer.php:399
+msgid "You are here:"
+msgstr "Jūs esate čia:"
+
+#: inc/customizer.php:394
+msgid "BreadCrumb Custom Text"
+msgstr ""
+
+#: inc/customizer.php:386
+msgid "Add the url here for the header image to link it to the other pages."
+msgstr ""
+
+#: inc/customizer.php:372
+msgid "Check to make header image link back to home page."
+msgstr ""
+
+#: inc/customizer.php:358
+msgid "Position Below: Display the Header image just below the site title and main menu part."
+msgstr "Patalpinti apačioje: Rodyti antraštės paveikslėlį po tinklapio pavadinimu ir pagrindiniu meniu."
+
+#: inc/customizer.php:357
+msgid "Position Above (Default): Display the Header image just above the site title and main menu part."
+msgstr "Patalpinti viršuje (Default): Rodyti antraštės paveikslėlį virš tinklapio pavadinimo ir pagrindinio meniu."
+
+#: inc/customizer.php:354
+msgid "Choose top header image display position."
+msgstr "Pasirinkite antraštės paveikslėlio poziciją."
+
+#: inc/customizer.php:341
+msgid "Header Image Position"
+msgstr ""
+
+#: inc/customizer.php:325
+msgid "You can add phone numbers, other contact info here as you like. This box also accepts shortcodes."
+msgstr "Galite pridėti telefonų numerius, kitą kontaktinę informaciją. Taip pat galimi shortcodes."
+
+#: inc/customizer.php:312
+msgid "Header Info Text"
+msgstr "Antraštės info tekstas"
+
+#: inc/customizer.php:305
+msgid "Type 2: Social icons & small text area on right, menu area on left"
+msgstr "2-as tipas: Socialinių tinklų simboliai ir teksto zona dešinėje, meniu kairėje"
+
+#: inc/customizer.php:304
+msgid "Type 1 (Default): Social icons & small text area on left, menu area on right"
+msgstr "1-as tipas (numatytasis): Socialinių tinklų simboliai ir teksto zona kairėje, meniu dešinėje"
+
+#: inc/customizer.php:301
+msgid "Choose top bar display type."
+msgstr "Pasirinkite viršutino skydelio atvaizdavimo tipą."
+
+#: inc/customizer.php:288
+msgid "Header Top Bar Display Type"
+msgstr ""
+
+#: inc/customizer.php:280
+msgid "Check to show top header bar. The top header bar includes social icons area, small text area and menu area."
+msgstr "Pažymėkite, kad įjungti viršutinį antraštės skydelį. Viršutinis antraštės skydelis turi socialinių tinklų simbolių zoną, mažą teksto zoną ir meniu zoną."
+
+#: inc/customizer.php:267
+msgid "Activate Header Top Bar"
+msgstr "Aktyvuoti antraštės viršutinį skydelį"
+
+#: inc/customizer.php:235
+msgid "Type 2: Menu on left, header text & logo on right"
+msgstr "č-as tipas: Antraštės tekstas ir logotipas dešinėje, meniu kairėje"
+
+#: inc/customizer.php:234
+msgid "Type 1 (Default): Header text & logo on left, menu on the right"
+msgstr "1-as tipas (numatytasis): Antraštės tekstas ir logotipas kairėje, meniu dešinėje"
+
+#: inc/customizer.php:231
+msgid "Choose the header display type that you want."
+msgstr "Pasirinkite norimą antraštės atvaizdavimo tipą."
+
+#: inc/customizer.php:218
+msgid "Header Display Type"
+msgstr "Antraštės atvaizdavimo tipas"
+
+#: inc/customizer.php:211
+msgid "Disable"
+msgstr "Išjungti"
+
+#: inc/customizer.php:210
+msgid "Show Both"
+msgstr "Rodyti abu"
+
+#: inc/customizer.php:209
+msgid "Header Text Only"
+msgstr "Tik antraštės tekstas"
+
+#: inc/customizer.php:208
+msgid "Header Logo Only"
+msgstr "Tik antraštės logotipas"
+
+#: inc/customizer.php:205
+msgid "Choose the option that you want."
+msgstr "Pasirinkite norimą opciją."
+
+#: inc/customizer.php:192
+msgid "Show"
+msgstr "Rodyti"
+
+#: inc/customizer.php:183
+msgid "Upload logo for your header."
+msgstr "Įkelti logotipą į antraštę."
+
+#: inc/customizer.php:170
+msgid "Header Logo"
+msgstr "Antraštės logotipas"
+
+#: inc/customizer.php:164
+msgid "Header"
+msgstr "Antraštės išvaizda"
+
+#. Theme Name of the plugin/theme
+msgid "Spacious Pro"
+msgstr "Spacious Pro"
+
+#: inc/customizer.php:48
+msgid "View Demo"
+msgstr "Peržiūrėti demonstraciją"
+
+#: inc/customizer.php:44
+msgid "Documentation"
+msgstr "Dokumentacija"
+
+#: inc/customizer.php:40
+msgid "Support Forum"
+msgstr "Pagalbos forumas"
+
+#: inc/admin/meta-boxes.php:48
+msgid "No Sidebar Content Centered"
+msgstr "Be šoninių juostų, turinys centre"
+
+#: inc/admin/meta-boxes.php:43
+msgid "No Sidebar Full Width"
+msgstr "Be šoninių juostų, pilnas plotis"
+
+#: inc/admin/meta-boxes.php:38 inc/widgets/widgets.php:29
+msgid "Left Sidebar"
+msgstr "Valdiklių sritis kairėje"
+
+#: inc/admin/meta-boxes.php:33 inc/widgets/widgets.php:18
+msgid "Right Sidebar"
+msgstr "Valdiklių sritis dešinėje"
+
+#: inc/admin/meta-boxes.php:28
+msgid "Default Layout"
+msgstr "Numatytasis išdėstymas"
+
+#: inc/admin/meta-boxes.php:16 inc/admin/meta-boxes.php:18
+msgid "Select Layout"
+msgstr "Pasirinkite išdėstymą"
+
+#: header.php:183
+msgid "Menu"
+msgstr "Meniu"
+
+#: content-single.php:27
+msgid "Tagged on: "
+msgstr "Žyma:"
+
+#: content-page.php:29 inc/functions.php:1120 inc/widgets/widgets.php:1117
+msgid "Edit"
+msgstr "Redaguoti"
+
+#: content-blog-full-content.php:23 content-page.php:20 content-single.php:35
+msgid "Pages:"
+msgstr "Puslapiai:"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Komentavimo galimybė išjungta."
+
+#: comments.php:40 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Naujesni komentarai &rarr;"
+
+#: comments.php:39 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; Senesni komentarai"
+
+#: comments.php:38 comments.php:55
+msgid "Comment navigation"
+msgstr "Komentarų navigacija"
+
+#: am/classes/class-wc-plugin-update.php:535
+msgid "You changed the subscription for %s, so you will need to enter your new API License Key in the settings page. The License Key should have arrived in your email inbox, if not you can get it by logging into your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: am/classes/class-wc-plugin-update.php:520
+msgid "%s has not been activated. Go to the settings page and enter the license key and license email to activate %s."
+msgstr ""
+
+#: am/classes/class-wc-plugin-update.php:505
+msgid "Download permission for %s has been revoked possibly due to a license key or subscription expiring. You can reactivate or purchase a license key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: am/classes/class-wc-plugin-update.php:490
+msgid "A license key for %s could not be found. Maybe you forgot to enter a license key when setting up %s, or the key was deactivated in your account. You can reactivate or purchase a license key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: am/classes/class-wc-plugin-update.php:475
+msgid "A subscription for %s could not be found. You can purchase a subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: am/classes/class-wc-plugin-update.php:460
+msgid "The subscription for %s has been placed in the trash and will be deleted soon. You can purchase a new subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: am/classes/class-wc-plugin-update.php:445
+msgid "The subscription for %s is still pending. You can check on the status of the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: am/classes/class-wc-plugin-update.php:430
+msgid "The subscription for %s has been suspended. You can reactivate the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: am/classes/class-wc-plugin-update.php:415
+msgid "The subscription for %s has expired. You can reactivate the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: am/classes/class-wc-plugin-update.php:400
+msgid "The subscription for %s has been cancelled. You can renew the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new license key will be emailed to you after your order has been completed."
+msgstr ""
+
+#: am/classes/class-wc-plugin-update.php:385
+msgid "The subscription for %s is on-hold. You can reactivate the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: am/classes/class-wc-plugin-update.php:370
+msgid "The license key for %s has expired. You can reactivate or purchase a license key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: am/admin/class-wc-api-manager-menu.php:365
+msgid "Deactivates an API License Key so it can be used on another blog."
+msgstr ""
+
+#: am/admin/class-wc-api-manager-menu.php:296
+msgid "Theme license deactivated. "
+msgstr ""
+
+#: am/admin/class-wc-api-manager-menu.php:254
+msgid "The license could not be deactivated. Use the License Deactivation tab to manually deactivate the license before activating a new license."
+msgstr ""
+
+#: am/admin/class-wc-api-manager-menu.php:165
+msgid "Connection failed to the License Key API server. Try again later."
+msgstr ""
+
+#: am/admin/class-wc-api-manager-menu.php:159
+msgid "Theme activated. "
+msgstr ""
+
+#: am/admin/class-wc-api-manager-menu.php:88
+msgid "Deactivate API License Key"
+msgstr ""
+
+#: am/admin/class-wc-api-manager-menu.php:87
+msgid "API License Deactivation"
+msgstr ""
+
+#: am/admin/class-wc-api-manager-menu.php:83
+msgid "API License email"
+msgstr ""
+
+#: am/admin/class-wc-api-manager-menu.php:82
+msgid "API License Key"
+msgstr ""
+
+#: am/admin/class-wc-api-manager-menu.php:81
+msgid "API License Activation"
+msgstr ""
+
+#: am/admin/class-wc-api-manager-menu.php:62
+#: am/admin/class-wc-api-manager-menu.php:66
+msgid "Save Changes"
+msgstr ""
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Try the search below."
+msgstr "Panašu, kad šioje vietoje nieko nerasta. Bandykite ieškoti žemiau."
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Deja, toks puslapis nerastas."

@@ -1,0 +1,24 @@
+@import 'variables/colors';
+@import 'global/common';
+.elementor {
+    @import 'navigations/links';
+    @import 'modules/title';
+    @import 'modules/icon-box';
+    @import 'modules/team';
+    @import 'modules/team-5';
+    @import 'modules/icon-box-5';
+    @import 'modules/counter';
+    @import 'modules/cta';
+    @import 'modules/pricing-table';
+    @import 'modules/testimonials';
+    @import 'modules/slider';
+    @import 'modules/slider2';
+    @import 'modules/product-carousel';
+    @import 'modules/block-2';
+    @import 'modules/block-style';
+    @import 'modules/grid-style';
+    @import 'forms/buttons';
+    @import 'responsive/large';
+    @import 'responsive/medium';
+    @import 'responsive/small';
+}

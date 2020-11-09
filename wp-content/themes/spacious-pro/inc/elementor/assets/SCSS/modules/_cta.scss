@@ -1,0 +1,164 @@
+.call-to-action {
+	padding: 30px;
+	border: 1px solid $color-gray-lighten;
+	border-radius: 3px;
+	display: flex;
+	align-items: center;
+
+	.call-to-action-left {
+		flex: 3;
+	}
+
+	.call-to-action-right {
+		flex: 1;
+		text-align: right;
+	}
+
+	.call-to-action__title {
+		margin: 0;
+		color: $color-gray-dark;
+		font-size: 26px;
+	}
+
+	.call-to-action__content {
+		color: $color-gray;
+	}
+
+
+
+	/*----------  variation  ----------*/
+
+	&.cta-style-two {
+        padding: 45px 30px;
+        position: relative;
+        border-top: 3px solid $color-gray-lighten;
+        border-bottom: 3px solid $color-gray-lighten;
+        border-left: none transparent;
+		border-right: none transparent;
+		display: block;
+
+        &::before,
+        &::after {
+            content: '';
+            position: absolute;
+            right: 0;
+            left: 0;
+            width: 85%;
+            height: 1px;
+            margin: 0 auto;
+            background-color: $color-gray-lighten;
+        }
+
+        &::before {
+            top: 20px;
+        }
+
+        &::after {
+            top: auto;
+            bottom: 20px;
+        }
+		.call-to-action__title {
+			color:$color-gray-dark;
+			font-size: 24px;
+		}
+
+		.call-to-action__content {
+			margin: 0 0 20px;
+			color:$color-gray;
+			font-size: 16px;
+		}
+
+		.btn--border {
+			padding: 9px 0;
+			font-size: 14px;
+		}
+
+		.call-to-action--center {
+			text-align:  center;
+		}
+	}
+
+	&.cta-style-three {
+        padding: 45px 30px;
+		border: none transparent;
+		text-align: left;
+		display: block;
+
+		&.spacious-align-left {
+		text-align: left;
+		}
+
+		&.spacious-align-right {
+			text-align: right;
+		}
+
+		&.spacious-align-center {
+			text-align: center;
+		}
+
+		.call-to-action__before-title {
+			display: block;
+		}
+
+		.call-to-action__title {
+			color:$color-gray-dark;
+			font-size: 24px;
+			padding-bottom: 0;
+		}
+
+		.call-to-action__after-title {
+			display: block;
+		}
+
+		.call-to-action__content {
+			margin: 0 0 20px;
+			color:$color-gray;
+			font-size: 16px;
+		}
+
+		.btn--black {
+			background: #1e1e1f;
+			border: 2px solid #1e1e1f;
+			padding: 12px 30px;
+
+			&:hover {
+				background: transparent;
+				border: 2px solid #1e1e1f;
+			}
+		}
+
+		.btn--ghost {
+			background: transparent;
+			border: 2px solid #1e1e1f;
+			padding: 12px 30px;
+
+			&:hover {
+				background: #1e1e1f;
+				border: 2px solid #1e1e1f;
+			}
+		}
+
+		a {
+
+			&.btn--ghost {
+				color: #1e1e1f;
+				font-size: 12px;
+				font-weight: 600;
+				margin-left: 15px;
+
+				&:hover {
+					color: #ffffff;
+				}
+			}
+		}
+
+		.btn--border {
+			padding: 9px 0;
+			font-size: 14px;
+		}
+
+		.call-to-action--center {
+			text-align:  center;
+		}
+	}
+}

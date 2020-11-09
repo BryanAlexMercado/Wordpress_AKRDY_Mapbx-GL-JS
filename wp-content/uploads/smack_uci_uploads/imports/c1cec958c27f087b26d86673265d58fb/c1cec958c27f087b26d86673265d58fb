@@ -1,0 +1,79 @@
+PRODUCTID,PARENTSKU,VARIATIONSKU,VARIATIONID,featured_image,product_attribute_name,product_attribute_value,product_attribute_visible,product_attribute_variation,product_attribute_position,featured,downloadable_files,download_limit,download_expiry,price,sale_price_dates_from,sale_price_dates_to,regular_price,sale_price,purchase_note,default_attributes,custom_attributes,comment_status,tax_status,tax_class,weight,length,width,height,downloadable,virtual,stock,stock_status,low_stock_threshold,stock_qty,sold_individually,manage_stock,backorders,thumbnail_id,_subscription_period,_subscription_period_interval,_subscription_length,_subscription_trial_period,_subscription_trial_length,_subscription_price,_subscription_sign_up_fee,variation_description,variation_shipping_class
+AUTO-DRAFT,,,153,,,,,,,,,-1,-1,,,,,,,,|,closed,taxable,parent,,,,,no,no,,instock,,,no,no,no,,,,,,,,,,
+AUTO-DRAFT,,,154,,,,,,,,,-1,-1,,,,,,,,|,closed,taxable,parent,,,,,no,no,,instock,,,no,no,no,,,,,,,,,,
+AUTO-DRAFT,,,155,,,,,,,,,-1,-1,,,,,,,,|,closed,taxable,parent,,,,,no,no,,instock,,,no,no,no,,,,,,,,,,
+AUTO-DRAFT,,,156,,,,,,,,,-1,-1,,,,,,,,|,closed,taxable,parent,,,,,no,no,,instock,,,no,no,no,,,,,,,,,,
+AUTO-DRAFT,,,157,,,,,,,,,-1,-1,,,,,,,,|,closed,taxable,parent,,,,,no,no,,instock,,,no,no,no,,,,,,,,,,
+AUTO-DRAFT,,,158,,,,,,,,,-1,-1,,,,,,,,|,closed,taxable,parent,,,,,no,no,,instock,,,no,no,no,,,,,,,,,,
+AUTO-DRAFT,,,162,,,,,,,,,-1,-1,,,,,,,,|,closed,taxable,parent,,,,,no,no,,instock,,,no,no,no,,,,,,,,,,
+AUTO-DRAFT,,,163,,,,,,,,,-1,-1,,,,,,,,|,closed,taxable,parent,,,,,no,no,,instock,,,no,no,no,,,,,,,,,,
+AUTO-DRAFT,,,164,,,,,,,,,-1,-1,,,,,,,,|,closed,taxable,parent,,,,,no,no,,instock,,,no,no,no,,,,,,,,,,
+AUTO-DRAFT,,,165,,,,,,,,,-1,-1,,,,,,,,|,closed,taxable,parent,,,,,no,no,,instock,,,no,no,no,,,,,,,,,,
+AUTO-DRAFT,,,166,,,,,,,,,-1,-1,,,,,,,,|,closed,taxable,parent,,,,,no,no,,instock,,,no,no,no,,,,,,,,,,
+AUTO-DRAFT,,,167,,,,,,,,,-1,-1,,,,,,,,|,closed,taxable,parent,,,,,no,no,,instock,,,no,no,no,,,,,,,,,,
+"Columbia River Tackle - MatSu Spinners Size 5 Red, Blue, Black, Pink, Yellow, D-Fly - AKRDY",,MatSu Spinners Red,170,,,,,,,,,-1,-1,4.25,,,5.25,4.25,,,|,closed,taxable,parent,0.06,5.75,1,0.75,no,no,9,instock,,,no,yes,no,,,,,,,,,Columbia River Tackle MatSu Spinner Size 5 Color Red,Lures Hooks
+"Columbia River Tackle - MatSu Spinners Size 5 Red, Blue, Black, Pink, Yellow, D-Fly - AKRDY",,MatSu Spinners Pink,171,,,,,,,,,-1,-1,4.25,,,5.25,4.25,,,|,closed,taxable,parent,0.06,5.75,1,0.75,no,no,9,instock,,,no,yes,no,,,,,,,,,Columbia River Tackle MatSu Spinner Size 5 Color Pink,Lures Hooks
+"Columbia River Tackle - MatSu Spinners Size 5 Red, Blue, Black, Pink, Yellow, D-Fly - AKRDY",,MatSu Spinners Black,172,,,,,,,,,-1,-1,4.25,,,5.25,4.25,,,|,closed,taxable,parent,0.06,5.75,1,0.75,no,no,9,instock,,,no,yes,no,,,,,,,,,Columbia River Tackle MatSu Spinner Size 5 Color Black,Lures Hooks
+"Columbia River Tackle - MatSu Spinners Size 5 Red, Blue, Black, Pink, Yellow, D-Fly - AKRDY",,MatSu Spinners Blue,173,,,,,,,,,-1,-1,4.25,,,5.25,4.25,,,|,closed,taxable,parent,0.06,5.75,1,0.75,no,no,9,instock,,,no,yes,no,,,,,,,,,Columbia River Tackle MatSu Spinner Size 5 Color Blue,Lures Hooks
+"Columbia River Tackle - MatSu Spinners Size 5 Red, Blue, Black, Pink, Yellow, D-Fly - AKRDY",,MatSu Spinners Yellow,174,,,,,,,,,-1,-1,4.25,,,5.25,4.25,,,|,closed,taxable,parent,0.06,5.75,1,0.75,no,no,9,instock,,,no,yes,no,,,,,,,,,Columbia River Tackle MatSu Spinner Size 5 Color Yellow,Lures Hooks
+"Columbia River Tackle - MatSu Spinners Size 5 Red, Blue, Black, Pink, Yellow, D-Fly - AKRDY",,MatSu Spinners Dfly,175,,,,,,,,,-1,-1,4.25,,,5.25,4.25,,,|,closed,taxable,parent,0.06,5.75,1,0.75,no,no,9,instock,,,no,yes,no,,,,,,,,,"Columbia River Tackle MatSu Spinner Size 5 Color D-Fly. This is a Turquoise body, red beads, and orange hoochie. ",Lures Hooks
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004209,177,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,1,instock,,,no,yes,no,,,,,,,,,"Color: Red 
+Size: 18 Months",
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004193,182,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,1,instock,,,no,yes,no,,,,,,,,,"Color: Red
+Size: 12 Months",
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004216,183,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,1,instock,,,no,yes,no,,,,,,,,,"Color: Red
+Size: 2T",
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004223,184,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,0,outofstock,,,no,yes,no,,,,,,,,,"Color: Red
+Size: 3T",
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004230,185,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,0,outofstock,,,no,yes,no,,,,,,,,,"Color: Red
+Size: 4T",
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004247,186,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,0,outofstock,,,no,yes,no,,,,,,,,,"Color: Red
+Size: 5T",
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004063,187,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,2,instock,,,no,yes,no,,,,,,,,,"Color: Pink
+Size: 12 Months",
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004070,188,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,2,instock,,,no,yes,no,,,,,,,,,"Color: Pink
+Size: 18 Months",
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004087,189,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,0,outofstock,,,no,yes,no,,,,,,,,,"Color: Pink
+Size: 2T",
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004094,190,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,2,instock,,,no,yes,no,,,,,,,,,"Color: Pink
+Size: 3T",
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004100,191,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,0,outofstock,,,no,yes,no,,,,,,,,,"Color: Pink
+Size: 4T",
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004124,192,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,0,outofstock,,,no,yes,no,,,,,,,,,"Color: Pink
+Size: 5T",
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004018,193,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,2,instock,,,no,yes,no,,,,,,,,,"Color: Yellow 
+Size: 12 Months",
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004025,194,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,2,instock,,,no,yes,no,,,,,,,,,"Color: Yellow 
+Size: 18 Months",
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004032,195,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,0,outofstock,,,no,yes,no,,,,,,,,,"Color: Yellow 
+Size: 2T",
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004049,196,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,2,instock,,,no,yes,no,,,,,,,,,"Color: Yellow 
+Size: 3T",
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004056,197,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,0,outofstock,,,no,yes,no,,,,,,,,,"Color: Yellow 
+Size: 4T",
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004117,198,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,0,outofstock,,,no,yes,no,,,,,,,,,"Color: Yellow 
+Size: 5T",
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004131,199,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,2,instock,,,no,yes,no,,,,,,,,,"Color: Blue
+Size: 12 Months",
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004148,200,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,0,outofstock,,,no,yes,no,,,,,,,,,"Color: Blue
+Size: 18 Months",
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004155,201,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,0,outofstock,,,no,yes,no,,,,,,,,,"Color: Blue
+Size: 2T",
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004162,202,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,2,instock,,,no,yes,no,,,,,,,,,"Color: Blue
+Size: 3T",
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004179,203,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,0,outofstock,,,no,yes,no,,,,,,,,,"Color: Blue
+Size: 4T",
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004186,204,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,0,outofstock,,,no,yes,no,,,,,,,,,"Color: Blue
+Size: 5T",
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004254,205,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,2,instock,,,no,yes,no,,,,,,,,,"Color: Camo
+Size: 12 Months",
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004261,206,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,2,instock,,,no,yes,no,,,,,,,,,"Color: Camo
+Size: 18 Months",
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004278,207,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,2,instock,,,no,yes,no,,,,,,,,,"Color: Camo
+Size: 2T",
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004285,208,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,0,outofstock,,,no,yes,no,,,,,,,,,"Color: Camo
+Size: 3T",
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004292,209,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,0,outofstock,,,no,yes,no,,,,,,,,,"Color: Camo
+Size: 4T",
+"Tuffo - Muddy Buddy Rainsuits Red, Yellow, Blue, Pink, Camo - AKRDY",,698631004308,210,,,,,,,,,-1,-1,37.5,,,39.95,37.5,,,|,closed,taxable,parent,0.55,10,10,1,no,no,0,outofstock,,,no,yes,no,,,,,,,,,"Color: Camo
+Size: 5T",

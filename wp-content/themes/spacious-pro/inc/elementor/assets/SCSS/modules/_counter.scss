@@ -1,0 +1,105 @@
+.counter {
+	text-align: center;
+	
+	.counter__icon {
+		color: $color-brand-primary;
+		font-size: 40px;
+	}
+	
+	.counter__number {
+		position: relative;
+		margin: 20px 0 25px;
+		color: $color-gray-darker;
+		font-weight: 300;
+		font-size: 66px;
+		line-height: 66px;
+		padding-bottom: 10px;
+		
+		&::before {
+			content: '';
+			position: absolute;
+			width: 40px;
+			height: 2px;
+			right: 0;
+			bottom: -10px;
+			left: 0;
+			margin: 0 auto;
+			background: $color-brand-primary;
+		}
+	}
+	
+	.counter__title {
+		color: $color-gray-light;
+		display: block;
+	}
+	
+	
+	
+	/*----------  Variation  ----------*/
+	&.counter-style-two {
+		text-align: center;
+		.counter__icon {
+			margin-bottom: 20px;
+		}
+		
+		.counter__number {
+			line-height: 30px;
+			padding-bottom: 25px;
+			color: $color-gray-dark;
+			font-size: 30px;
+			font-weight: 600;
+			
+			&::before {
+				bottom: 0;
+				height: 1px;
+				margin: 0 auto;
+				background-color: $color-gray-lighten;
+			}
+		}
+		.counter__title {
+			font-size: 20px;
+		}
+	}
+	
+	&.counter-style-three  {
+		padding: 0 20px;
+		text-align: center;
+		
+		.counter__icon {
+			width: 85px;
+			height: 85px;
+			margin: 0 auto;
+			border: 1px solid $color-gray-darken;
+			line-height: 85px;
+			text-align: center;
+			transform: rotate(45deg);
+			
+			.fa {
+				
+				color: $color-gray-darken;
+				font-size: 30px;
+				transform: rotate(-45deg);
+			}
+		}
+		
+		.counter__number {
+			display:block;
+			margin: 30px 0 15px;
+			color: $color-gray-darken;
+			font-size: 48px;
+			font-weight: 600;
+			padding-bottom: 0;
+			&::before {
+				display: none;
+			}
+		}
+		
+		.counter__title {
+			color: $color-gray-dark;
+			font-size: 20px;
+			font-weight: 700;
+			text-transform: uppercase;
+		}
+	}
+}
+

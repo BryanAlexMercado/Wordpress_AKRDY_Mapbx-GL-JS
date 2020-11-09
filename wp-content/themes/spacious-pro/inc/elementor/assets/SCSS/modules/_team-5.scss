@@ -1,0 +1,52 @@
+.team-five-carousel {
+	&.spacious-align-left {
+		text-align: left;
+	}
+
+	&.spacious-align-right {
+		text-align: right;
+	}
+
+	&.spacious-align-center {
+		text-align: center;
+	}
+
+	.team-slide {
+		background: #ffffff;
+		padding: 40px;
+	}
+
+	.swiper-button-next,
+	.swiper-button-prev {
+		background-image: none;
+		background-color: #0fbe7c;
+		padding: 10px 20px;
+		box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+		border-radius: 3px;
+		height: 40px;
+
+		&::before {
+			font-family: FontAwesome;
+			font-size: 25px;
+			color: #ffffff;
+		}
+	}
+
+	.swiper-button-next {
+		right: 0;
+
+		&::before {
+			content: '\f105';
+			margin-left: -2px;
+		}
+	}
+
+	.swiper-button-prev {
+		left: 0;
+
+		&::before {
+			content: '\f104';
+			margin-left: -6px;
+		}
+	}
+}

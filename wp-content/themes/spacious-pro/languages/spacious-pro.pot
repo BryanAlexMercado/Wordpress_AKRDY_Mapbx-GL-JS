@@ -1,0 +1,3824 @@
+# <!=Copyright (C) 2020 ThemeGrill
+# This file is distributed under the GNU General Public License, version 3 (GPLv3).=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Spacious Pro 2.4.4\n"
+"Report-Msgid-Bugs-To: themegrill@gmail.com\n"
+"POT-Creation-Date: 2020-10-02 07:31:45+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: spacious-toolkit/controls/content-widget-block-2.php:187
+#: spacious-toolkit/controls/content-widget-product-carousel-1.php:157
+#: spacious-toolkit/controls/content-widget-slider-2.php:182
+msgid "1"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-block-2.php:188
+#: spacious-toolkit/controls/content-widget-product-carousel-1.php:158
+#: spacious-toolkit/controls/content-widget-slider-2.php:183
+#: spacious-toolkit/controls/content-widget-team-5.php:153
+msgid "2"
+msgstr ""
+
+#: inc/customizer.php:4115
+#: spacious-toolkit/controls/content-widget-block-2.php:189
+#: spacious-toolkit/controls/content-widget-product-carousel-1.php:159
+#: spacious-toolkit/controls/content-widget-slider-2.php:184
+#: spacious-toolkit/controls/content-widget-team-5.php:154
+msgid "3"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-block-2.php:190
+#: spacious-toolkit/controls/content-widget-product-carousel-1.php:160
+#: spacious-toolkit/controls/content-widget-slider-2.php:185
+#: spacious-toolkit/controls/content-widget-team-5.php:155
+msgid "4"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-product-carousel-1.php:161
+#: spacious-toolkit/controls/content-widget-slider-2.php:186
+msgid "5"
+msgstr ""
+
+#: inc/customizer.php:4116
+#: spacious-toolkit/controls/content-widget-product-carousel-1.php:162
+#: spacious-toolkit/controls/content-widget-slider-2.php:187
+msgid "6"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:66
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:66
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:66
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:66
+msgid "500"
+msgstr ""
+
+#: 404.php:28
+msgid "It looks like nothing was found at this location. Try the search below."
+msgstr ""
+
+#: comments.php:38 comments.php:55
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:39 comments.php:56
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:40 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: content-blog-full-content.php:23 content-page.php:29 content-single.php:45
+msgid "Pages:"
+msgstr ""
+
+#: content-blog-image-grid.php:62 content-blog-image-masonry.php:62
+#: inc/functions.php:1742 inc/related-posts.php:65
+msgid ""
+"<span class=\"date\"><a href=\"%1$s\" title=\"%2$s\" "
+"rel=\"bookmark\">%3$s</a></span>"
+msgstr ""
+
+#: content-page.php:38 inc/functions.php:1762
+#: inc/widgets/class-spacious-featured-posts-widget.php:259
+msgid "Edit"
+msgstr ""
+
+#: content-single.php:37
+msgid "Tagged on: "
+msgstr ""
+
+#: functions.php:100
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:101 inc/customizer.php:1479
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:102 inc/customizer.php:5895 inc/customizer.php:5918
+msgid "Footer Menu"
+msgstr ""
+
+#: header.php:50
+msgid "Skip to content"
+msgstr ""
+
+#: inc/admin/admin-notice.php:39
+msgid "Update Now"
+msgstr ""
+
+#: inc/admin/admin-notice.php:43
+#. Translators: 1: Plugin name
+msgid ""
+"Action Required: Please update \"%1$s\" plugin to latest version to make "
+"sure your site is all secure. We released a security patch in the latest "
+"version of this plugin."
+msgstr ""
+
+#: inc/admin/admin-notice.php:44 inc/admin/admin-notice.php:56
+#: inc/demo-importer/includes/views/html-admin-page-importer.php:32
+msgid "ThemeGrill Demo Importer"
+msgstr ""
+
+#: inc/admin/admin-notice.php:55
+#. Translators: 1: Plugin name
+msgid ""
+"Also, if the purpose of importing the demo via \"%1$s\" plugin is "
+"fulfilled, you can simply delete this plugin now."
+msgstr ""
+
+#: inc/admin/meta-boxes.php:16 inc/admin/meta-boxes.php:18
+#: inc/widgets/class-spacious-product-widget.php:109
+#: inc/widgets/class-spacious-team-widget.php:203
+msgid "Select Layout"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:28
+msgid "Default Layout"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:33 inc/widgets/widgets.php:18
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:38 inc/widgets/widgets.php:29
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:43
+msgid "No Sidebar Full Width"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:48
+msgid "No Sidebar Content Centered"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:53
+msgid "No Sidebar Content Stretched"
+msgstr ""
+
+#: inc/customizer/class-spacious-additional-social-icons-control.php:9
+msgid ""
+"Add font awesome icon name. Example: soundcloud. You can find list <a "
+"href=\"http://fortawesome.github.io/Font-Awesome/icons/\">here</a>"
+msgstr ""
+
+#: inc/customizer/class-spacious-important-links.php:12
+msgid "Support Forum"
+msgstr ""
+
+#: inc/customizer/class-spacious-important-links.php:16
+msgid "Documentation"
+msgstr ""
+
+#: inc/customizer/class-spacious-important-links.php:20
+msgid "View Demo"
+msgstr ""
+
+#: inc/customizer/class-spacious-typography-control.php:28
+msgid "Standard Fonts"
+msgstr ""
+
+#: inc/customizer/class-spacious-typography-control.php:44
+msgid "Google Fonts"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Spacious Pro"
+msgstr ""
+
+#: inc/customizer.php:89
+msgid "Global"
+msgstr ""
+
+#: inc/customizer.php:99 inc/customizer.php:742 inc/customizer.php:1125
+#: inc/customizer.php:1444 inc/customizer.php:1646 inc/customizer.php:2933
+#: inc/customizer.php:3446 inc/customizer.php:4310 inc/customizer.php:4599
+#: inc/customizer.php:4696 inc/customizer.php:5615 inc/customizer.php:5938
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer.php:120
+msgid "Primary Color"
+msgstr ""
+
+#: inc/customizer.php:146
+msgid "Base Color"
+msgstr ""
+
+#: inc/customizer.php:170
+msgid "Color Skin"
+msgstr ""
+
+#: inc/customizer.php:187 inc/customizer.php:766 inc/customizer.php:1227
+#: inc/customizer.php:1713 inc/customizer.php:3085 inc/customizer.php:3548
+#: inc/customizer.php:4435 inc/customizer.php:4645 inc/customizer.php:4846
+#: inc/customizer.php:5197 inc/customizer.php:5717 inc/customizer.php:6036
+#: inc/customizer.php:6436
+#: spacious-toolkit/controls/content-widget-block-2.php:226
+#: spacious-toolkit/controls/content-widget-block-2.php:263
+#: spacious-toolkit/controls/content-widget-block-2.php:300
+#: spacious-toolkit/controls/content-widget-block-2.php:337
+#: spacious-toolkit/controls/content-widget-block-2.php:374
+#: spacious-toolkit/controls/content-widget-counter-1.php:168
+#: spacious-toolkit/controls/content-widget-counter-1.php:234
+#: spacious-toolkit/controls/content-widget-cta-3.php:210
+#: spacious-toolkit/controls/content-widget-cta-3.php:291
+#: spacious-toolkit/controls/content-widget-cta-3.php:372
+#: spacious-toolkit/controls/content-widget-cta-3.php:434
+#: spacious-toolkit/controls/content-widget-cta-3.php:503
+#: spacious-toolkit/controls/content-widget-cta-3.php:668
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:384
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:476
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:568
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:648
+#: spacious-toolkit/controls/content-widget-slider-1.php:247
+#: spacious-toolkit/controls/content-widget-slider-1.php:308
+#: spacious-toolkit/controls/content-widget-slider-1.php:365
+#: spacious-toolkit/controls/content-widget-slider-1.php:507
+#: spacious-toolkit/controls/content-widget-slider-2.php:271
+#: spacious-toolkit/controls/content-widget-slider-2.php:308
+#: spacious-toolkit/controls/content-widget-slider-2.php:342
+#: spacious-toolkit/controls/content-widget-team-1.php:236
+#: spacious-toolkit/controls/content-widget-team-1.php:298
+#: spacious-toolkit/controls/content-widget-team-1.php:360
+#: spacious-toolkit/controls/content-widget-team-5.php:246
+#: spacious-toolkit/controls/content-widget-team-5.php:283
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:116
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:153
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:190
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:227
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer.php:207
+msgid "Body"
+msgstr ""
+
+#: inc/customizer.php:231
+msgid "Headings"
+msgstr ""
+
+#: inc/customizer.php:244
+#: spacious-toolkit/controls/content-widget-cta-3.php:539
+#: spacious-toolkit/controls/content-widget-cta-3.php:602
+#: spacious-toolkit/controls/content-widget-cta-3.php:704
+#: spacious-toolkit/controls/content-widget-cta-3.php:767
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:148
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:270
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:394
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:486
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:578
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:684
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:747
+#: spacious-toolkit/controls/content-widget-slider-1.php:402
+#: spacious-toolkit/controls/content-widget-slider-1.php:454
+#: spacious-toolkit/controls/content-widget-slider-1.php:544
+#: spacious-toolkit/controls/content-widget-slider-1.php:596
+#: spacious-toolkit/controls/content-widget-slider-2.php:378
+#: spacious-toolkit/controls/content-widget-slider-2.php:441
+#: spacious-toolkit/controls/content-widget-team-1.php:174
+msgid "Background"
+msgstr ""
+
+#: inc/customizer.php:260
+msgid "Outside Container"
+msgstr ""
+
+#: inc/customizer.php:305
+msgid "Add the background link url."
+msgstr ""
+
+#: inc/customizer.php:325
+msgid "Content Area"
+msgstr ""
+
+#: inc/customizer.php:353
+msgid "Content part background color. Default is #FFFFFF."
+msgstr ""
+
+#: inc/customizer.php:366
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer.php:383
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer.php:406
+msgid "Choose your site layout. The change is reflected in whole site."
+msgstr ""
+
+#: inc/customizer.php:408
+msgid "Boxed layout with content width of 1218px"
+msgstr ""
+
+#: inc/customizer.php:409
+msgid "Boxed layout with content width of 978px"
+msgstr ""
+
+#: inc/customizer.php:410
+msgid "Wide layout with content width of 1218px"
+msgstr ""
+
+#: inc/customizer.php:411
+msgid "Wide layout with content width of 978px"
+msgstr ""
+
+#: inc/customizer.php:431
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/customizer.php:455
+msgid "Default layout"
+msgstr ""
+
+#: inc/customizer.php:486
+msgid "Default layout for pages only"
+msgstr ""
+
+#: inc/customizer.php:517
+msgid "Default layout for single posts only"
+msgstr ""
+
+#: inc/customizer.php:538
+msgid "Header"
+msgstr ""
+
+#: inc/customizer.php:557
+msgid "Site Logo"
+msgstr ""
+
+#: inc/customizer.php:581
+msgid "Different Logo for Retina Devices?"
+msgstr ""
+
+#: inc/customizer.php:602
+msgid "Retina Logo"
+msgstr ""
+
+#: inc/customizer.php:624
+msgid "Site icon"
+msgstr ""
+
+#: inc/customizer.php:647
+msgid "Site Title"
+msgstr ""
+
+#: inc/customizer.php:670
+msgid "Site Tagline"
+msgstr ""
+
+#: inc/customizer.php:693
+msgid "Visibility"
+msgstr ""
+
+#: inc/customizer.php:718
+msgid "Choose the option that you want."
+msgstr ""
+
+#: inc/customizer.php:721
+msgid "Header Logo Only"
+msgstr ""
+
+#: inc/customizer.php:722
+msgid "Header Text Only"
+msgstr ""
+
+#: inc/customizer.php:723
+msgid "Show Both"
+msgstr ""
+
+#: inc/customizer.php:724
+#: spacious-toolkit/controls/content-widget-block-2.php:144
+#: spacious-toolkit/controls/content-widget-product-carousel-1.php:114
+#: spacious-toolkit/controls/content-widget-slider-1.php:165
+#: spacious-toolkit/controls/content-widget-slider-1.php:207
+#: spacious-toolkit/controls/content-widget-slider-2.php:139
+#: spacious-toolkit/controls/content-widget-slider-2.php:198
+#: spacious-toolkit/controls/content-widget-team-5.php:111
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer.php:791
+msgid "Site title font. Default is \"Lato\"."
+msgstr ""
+
+#: inc/customizer.php:814
+msgid "Site title font size. Default is 36px."
+msgstr ""
+
+#: inc/customizer.php:838
+msgid "Site tagline font. Default is \"Lato\"."
+msgstr ""
+
+#: inc/customizer.php:860
+msgid "Site tagline font size. Default is 16px."
+msgstr ""
+
+#: inc/customizer.php:885
+msgid "Header Image Position"
+msgstr ""
+
+#: inc/customizer.php:908
+msgid "Choose top header image display position."
+msgstr ""
+
+#: inc/customizer.php:912
+msgid ""
+"Position Above (Default): Display the Header image just above the site "
+"title and main menu part."
+msgstr ""
+
+#: inc/customizer.php:913
+msgid ""
+"Position Below: Display the Header image just below the site title and main "
+"menu part."
+msgstr ""
+
+#: inc/customizer.php:934
+msgid "Check to make header image link back to home page."
+msgstr ""
+
+#: inc/customizer.php:955
+msgid "Add the url here for the header image to link it to the other pages."
+msgstr ""
+
+#: inc/customizer.php:966
+msgid "Top Bar"
+msgstr ""
+
+#: inc/customizer.php:984
+msgid "Activate Header Top Bar"
+msgstr ""
+
+#: inc/customizer.php:1005
+msgid ""
+"Check to show top header bar. The top header bar includes social icons "
+"area, small text area and menu area."
+msgstr ""
+
+#: inc/customizer.php:1024
+msgid "Header Info Text"
+msgstr ""
+
+#: inc/customizer.php:1048
+msgid ""
+"You can add phone numbers, other contact info here as you like. This box "
+"also accepts shortcodes."
+msgstr ""
+
+#: inc/customizer.php:1068
+msgid "Header Top Bar Display Type"
+msgstr ""
+
+#: inc/customizer.php:1090
+msgid "Choose top bar display type."
+msgstr ""
+
+#: inc/customizer.php:1094
+msgid "Type 1 (Default): Social icons & small text area on left, menu area on right"
+msgstr ""
+
+#: inc/customizer.php:1095
+msgid "Type 2: Social icons & small text area on right, menu area on left"
+msgstr ""
+
+#: inc/customizer.php:1153
+msgid "Header top bar background color. Default is #F8F8F8."
+msgstr ""
+
+#: inc/customizer.php:1180
+msgid "Header top bar info text color. Default is #555555."
+msgstr ""
+
+#: inc/customizer.php:1207
+msgid "Header small menu text color. Default is #666666."
+msgstr ""
+
+#: inc/customizer.php:1251
+msgid "Header top bar small info text. Default is 12px."
+msgstr ""
+
+#: inc/customizer.php:1274
+msgid "Header small menu. Default is 12px."
+msgstr ""
+
+#: inc/customizer.php:1286
+msgid "Primary Header"
+msgstr ""
+
+#: inc/customizer.php:1304 inc/customizer.php:1324
+msgid "Header Display Type"
+msgstr ""
+
+#: inc/customizer.php:1347
+msgid "Choose the header display type that you want."
+msgstr ""
+
+#: inc/customizer.php:1373
+msgid "Header Border"
+msgstr ""
+
+#: inc/customizer.php:1396 inc/customizer.php:2041 inc/customizer.php:2313
+#: inc/customizer.php:5346 inc/customizer.php:6823
+msgid "Border Color"
+msgstr ""
+
+#: inc/customizer.php:1418 inc/customizer.php:2012 inc/customizer.php:2284
+#: inc/customizer.php:5368
+msgid "Border Width"
+msgstr ""
+
+#: inc/customizer.php:1420 inc/customizer.php:2014 inc/customizer.php:2286
+#: inc/customizer.php:5370
+msgid "1px"
+msgstr ""
+
+#: inc/customizer.php:1421 inc/customizer.php:2015 inc/customizer.php:2287
+#: inc/customizer.php:5371
+msgid "2px"
+msgstr ""
+
+#: inc/customizer.php:1422 inc/customizer.php:2016 inc/customizer.php:2288
+#: inc/customizer.php:5372
+msgid "3px"
+msgstr ""
+
+#: inc/customizer.php:1423 inc/customizer.php:2017 inc/customizer.php:2289
+#: inc/customizer.php:5373
+msgid "4px"
+msgstr ""
+
+#: inc/customizer.php:1424 inc/customizer.php:2018 inc/customizer.php:2290
+#: inc/customizer.php:5374
+msgid "5px"
+msgstr ""
+
+#: inc/customizer.php:1467
+msgid "Header background color. Default is #FFFFFF."
+msgstr ""
+
+#: inc/customizer.php:1497
+msgid "Search Icon"
+msgstr ""
+
+#: inc/customizer.php:1518
+msgid "Show search icon in header."
+msgstr ""
+
+#: inc/customizer.php:1540
+msgid "Select the search layout"
+msgstr ""
+
+#: inc/customizer.php:1565
+msgid "Menu Display"
+msgstr ""
+
+#: inc/customizer.php:1587
+msgid "Display menu in one line"
+msgstr ""
+
+#: inc/customizer.php:1606
+msgid "Responsive Menu Style"
+msgstr ""
+
+#: inc/customizer.php:1627
+msgid "Switch to new responsive menu."
+msgstr ""
+
+#: inc/customizer.php:1669
+msgid "Primary menu text color. Default is #444444."
+msgstr ""
+
+#: inc/customizer.php:1693
+msgid "Primary sub menu text color. Default is #666666."
+msgstr ""
+
+#: inc/customizer.php:1737
+msgid "Menu font. Default is \"Lato\"."
+msgstr ""
+
+#: inc/customizer.php:1760
+msgid "Primary menu. Default is 16px."
+msgstr ""
+
+#: inc/customizer.php:1783
+msgid "Primary sub menu. Default is 13px."
+msgstr ""
+
+#: inc/customizer.php:1795
+msgid "Header Button"
+msgstr ""
+
+#: inc/customizer.php:1813
+msgid "Header Button One"
+msgstr ""
+
+#: inc/customizer.php:1834 inc/customizer.php:2106
+#: spacious-toolkit/controls/content-widget-cta-2.php:65
+#: spacious-toolkit/controls/content-widget-cta-3.php:88
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:91
+#: spacious-toolkit/controls/content-widget-slider-1.php:111
+#: spacious-toolkit/controls/content-widget-slider-2.php:102
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer.php:1854 inc/customizer.php:2126
+#: spacious-toolkit/controls/content-widget-cta-2.php:75
+#: spacious-toolkit/controls/content-widget-cta-3.php:98
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:101
+msgid "Button Link"
+msgstr ""
+
+#: inc/customizer.php:1875 inc/customizer.php:2147 inc/customizer.php:6267
+#: inc/customizer.php:6407
+#. translators: %s: Social Sites
+msgid "Check to show in new tab"
+msgstr ""
+
+#: inc/customizer.php:1898 inc/customizer.php:2170 inc/customizer.php:6725
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer.php:1922 inc/customizer.php:2194 inc/customizer.php:6749
+msgid "Text Hover Color"
+msgstr ""
+
+#: inc/customizer.php:1946 inc/customizer.php:2218 inc/customizer.php:3237
+#: inc/customizer.php:6773
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer.php:1970 inc/customizer.php:2242 inc/customizer.php:6798
+msgid "Background Hover Color"
+msgstr ""
+
+#: inc/customizer.php:1991 inc/customizer.php:2263
+#: spacious-toolkit/controls/content-widget-cta-3.php:564
+#: spacious-toolkit/controls/content-widget-cta-3.php:729
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:288
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:709
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:772
+#: spacious-toolkit/controls/content-widget-slider-2.php:403
+#: spacious-toolkit/controls/content-widget-slider-2.php:466
+#: spacious-toolkit/controls/content-widget-team-5.php:206
+msgid "Border Radius"
+msgstr ""
+
+#: inc/customizer.php:2065 inc/customizer.php:2337 inc/customizer.php:6848
+msgid "Border Hover Color"
+msgstr ""
+
+#: inc/customizer.php:2085
+msgid "Header Button Two"
+msgstr ""
+
+#: inc/customizer.php:2349
+msgid "Sticky Menu"
+msgstr ""
+
+#: inc/customizer.php:2368
+msgid " Check to enable the sticky behavior of the primary menu."
+msgstr ""
+
+#: inc/customizer.php:2379
+msgid "Togglable Header Sidebar"
+msgstr ""
+
+#: inc/customizer.php:2398
+msgid "Enable Togglable Header Sidebar"
+msgstr ""
+
+#: inc/customizer.php:2419
+msgid "Choose the number of column for the header widgetized areas."
+msgstr ""
+
+#: inc/customizer.php:2445
+#: spacious-toolkit/controls/content-widget-slider-1.php:41
+#: spacious-toolkit/controls/content-widget-slider-2.php:42
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer.php:2462
+msgid "Activate slider"
+msgstr ""
+
+#: inc/customizer.php:2484
+msgid "Check to activate slider."
+msgstr ""
+
+#: inc/customizer.php:2514
+msgid "Slider Status"
+msgstr ""
+
+#: inc/customizer.php:2535
+msgid "Choose the slider status that you want."
+msgstr ""
+
+#: inc/customizer.php:2537
+msgid "Slider on Front and blog page"
+msgstr ""
+
+#: inc/customizer.php:2538
+msgid "Slider on Front page only"
+msgstr ""
+
+#: inc/customizer.php:2539
+msgid "Slider on all pages"
+msgstr ""
+
+#: inc/customizer.php:2559
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer.php:2580
+msgid "Slider transition effect"
+msgstr ""
+
+#: inc/customizer.php:2580
+msgid "Choose the transition effect that you like. Default is \"fade\"."
+msgstr ""
+
+#: inc/customizer.php:2584
+msgid "Fade"
+msgstr ""
+
+#: inc/customizer.php:2585
+msgid "FadeOut"
+msgstr ""
+
+#: inc/customizer.php:2586
+msgid "None"
+msgstr ""
+
+#: inc/customizer.php:2587
+msgid "ScrollHorz"
+msgstr ""
+
+#: inc/customizer.php:2588
+msgid "FlipHorz"
+msgstr ""
+
+#: inc/customizer.php:2589
+msgid "FlipVert"
+msgstr ""
+
+#: inc/customizer.php:2590
+msgid "TileBlind"
+msgstr ""
+
+#: inc/customizer.php:2591
+msgid "Shuffle"
+msgstr ""
+
+#: inc/customizer.php:2610
+msgid "Slider transition delay time"
+msgstr ""
+
+#: inc/customizer.php:2610
+msgid "Add number in seconds. Default is 4."
+msgstr ""
+
+#: inc/customizer.php:2630
+msgid "Slider transition length time"
+msgstr ""
+
+#: inc/customizer.php:2630
+msgid "Add number in seconds. Default is 1."
+msgstr ""
+
+#: inc/customizer.php:2650
+msgid "Number of slides"
+msgstr ""
+
+#: inc/customizer.php:2650
+msgid "Enter the number of slides you want then click save."
+msgstr ""
+
+#: inc/customizer.php:2671
+msgid "Check to make the slider images link back to respective links."
+msgstr ""
+
+#: inc/customizer.php:2692
+msgid "Check to enable next/prev option."
+msgstr ""
+
+#: inc/customizer.php:2713
+msgid "Check to enable pause on hover."
+msgstr ""
+
+#: inc/customizer.php:2734
+msgid "Check to enable progressbar."
+msgstr ""
+
+#: inc/customizer.php:2755
+msgid "Check to display slides in random order."
+msgstr ""
+
+#: inc/customizer.php:2781
+msgid "Slider Content #%1$s"
+msgstr ""
+
+#: inc/customizer.php:2804
+msgid "Upload slider image."
+msgstr ""
+
+#: inc/customizer.php:2825
+msgid "Enter title for your slider."
+msgstr ""
+
+#: inc/customizer.php:2847
+msgid "Enter your slider description."
+msgstr ""
+
+#: inc/customizer.php:2869
+msgid "Slider text position."
+msgstr ""
+
+#: inc/customizer.php:2871
+msgid "Right side"
+msgstr ""
+
+#: inc/customizer.php:2872
+msgid "Left side"
+msgstr ""
+
+#: inc/customizer.php:2873 inc/customizer.php:5876
+#: spacious-toolkit/controls/content-widget-cta-3.php:146
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:129
+#: spacious-toolkit/controls/content-widget-slider-2.php:229
+#: spacious-toolkit/controls/content-widget-team-1.php:158
+#: spacious-toolkit/controls/content-widget-team-5.php:181
+msgid "Center"
+msgstr ""
+
+#: inc/customizer.php:2883 inc/customizer.php:3746 inc/customizer.php:7071
+#: inc/functions.php:1767 inc/header-functions.php:181
+#: inc/widgets/class-spacious-featured-posts-widget.php:261
+#: inc/widgets/class-spacious-featured-single-page-widget.php:150
+#: inc/widgets/class-spacious-service-widget.php:177
+#: inc/widgets/class-spacious-team-widget.php:453
+#: spacious-toolkit/content-widget-block-2.php:100
+msgid "Read more"
+msgstr ""
+
+#: inc/customizer.php:2893
+msgid "Enter the button text. Default is \"Read more\""
+msgstr ""
+
+#: inc/customizer.php:2913
+msgid "Enter link to redirect slider when clicked"
+msgstr ""
+
+#: inc/customizer.php:2960
+msgid "Slider title. Default is #FFFFFF."
+msgstr ""
+
+#: inc/customizer.php:2986
+msgid "Slider content. Default is #FFFFFF."
+msgstr ""
+
+#: inc/customizer.php:3012
+msgid "Slider button text color. Default is #FFFFFF."
+msgstr ""
+
+#: inc/customizer.php:3038
+msgid "Slider button background color. Default is #0FBE7C."
+msgstr ""
+
+#: inc/customizer.php:3064
+msgid "Slider content background color."
+msgstr ""
+
+#: inc/customizer.php:3108
+msgid "Slider title. Default is 26px."
+msgstr ""
+
+#: inc/customizer.php:3130
+msgid "Slider content. Default is 16px."
+msgstr ""
+
+#: inc/customizer.php:3152
+msgid "Slider button text. Default is 20px."
+msgstr ""
+
+#: inc/customizer.php:3166
+#: spacious-toolkit/controls/content-widget-cta-2.php:55
+#: spacious-toolkit/controls/content-widget-cta-3.php:78
+#: spacious-toolkit/controls/content-widget-cta-3.php:408
+#: spacious-toolkit/controls/content-widget-icon-box-1.php:74
+#: spacious-toolkit/controls/content-widget-icon-box-2.php:74
+#: spacious-toolkit/controls/content-widget-icon-box-3.php:74
+#: spacious-toolkit/controls/content-widget-icon-box-4.php:74
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:81
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:83
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:522
+msgid "Content"
+msgstr ""
+
+#: inc/customizer.php:3173
+msgid "Page Header"
+msgstr ""
+
+#: inc/customizer.php:3191
+msgid "Header Title"
+msgstr ""
+
+#: inc/customizer.php:3215
+msgid "Hide page/post header title"
+msgstr ""
+
+#: inc/customizer.php:3260 inc/customizer.php:5394 inc/customizer.php:5417
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer.php:3283 inc/customizer.php:5440
+msgid "Background Image Position"
+msgstr ""
+
+#: inc/customizer.php:3287 inc/customizer.php:5444
+msgid "Top Left"
+msgstr ""
+
+#: inc/customizer.php:3288 inc/customizer.php:5445
+msgid "Top Center"
+msgstr ""
+
+#: inc/customizer.php:3289 inc/customizer.php:5446
+msgid "Top Right"
+msgstr ""
+
+#: inc/customizer.php:3290 inc/customizer.php:5447
+msgid "Center Left"
+msgstr ""
+
+#: inc/customizer.php:3291 inc/customizer.php:5448
+msgid "Center Center"
+msgstr ""
+
+#: inc/customizer.php:3292 inc/customizer.php:5449
+msgid "Center Right"
+msgstr ""
+
+#: inc/customizer.php:3293 inc/customizer.php:5450
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/customizer.php:3294 inc/customizer.php:5451
+msgid "Bottom Center"
+msgstr ""
+
+#: inc/customizer.php:3295 inc/customizer.php:5452
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/customizer.php:3316 inc/customizer.php:5473
+msgid "Background Image Size"
+msgstr ""
+
+#: inc/customizer.php:3320 inc/customizer.php:5477
+msgid "Cover"
+msgstr ""
+
+#: inc/customizer.php:3321 inc/customizer.php:5478
+msgid "Contain"
+msgstr ""
+
+#: inc/customizer.php:3322 inc/customizer.php:5479
+msgid "Auto"
+msgstr ""
+
+#: inc/customizer.php:3343 inc/customizer.php:5500
+msgid "Background Image Attachment"
+msgstr ""
+
+#: inc/customizer.php:3347 inc/customizer.php:5504
+msgid "Scroll"
+msgstr ""
+
+#: inc/customizer.php:3348 inc/customizer.php:5505
+msgid "Fixed"
+msgstr ""
+
+#: inc/customizer.php:3369 inc/customizer.php:5526
+msgid "Background Image Repeat"
+msgstr ""
+
+#: inc/customizer.php:3373 inc/customizer.php:5530
+msgid "No Repeat"
+msgstr ""
+
+#: inc/customizer.php:3374 inc/customizer.php:5531
+msgid "Repeat"
+msgstr ""
+
+#: inc/customizer.php:3375 inc/customizer.php:5532
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/customizer.php:3376 inc/customizer.php:5533
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/customizer.php:3394
+msgid "Breadcrumb Custom Text"
+msgstr ""
+
+#: inc/customizer.php:3405
+msgid "You are here:"
+msgstr ""
+
+#: inc/customizer.php:3416
+msgid "Change the BreadCrumb text as your requirement."
+msgstr ""
+
+#: inc/customizer.php:3473
+msgid "Header bar background color. Default is #FFFFFF."
+msgstr ""
+
+#: inc/customizer.php:3500
+msgid "Page title and post title in single view. Default is #222222"
+msgstr ""
+
+#: inc/customizer.php:3527
+msgid "Breadcrumb text color. Default is #666666."
+msgstr ""
+
+#: inc/customizer.php:3570
+msgid ""
+"Page title and post title in single view. Default is 22px. Appears in "
+"header bar just before content."
+msgstr ""
+
+#: inc/customizer.php:3592
+msgid ""
+"Breadcrumb Text. Default is 12px. Breadcrumb appears in header bar right "
+"side after installing Breadcrumb NavXT"
+msgstr ""
+
+#: inc/customizer.php:3602
+msgid "Blog/Archive"
+msgstr ""
+
+#: inc/customizer.php:3620
+msgid "Blog Posts display type"
+msgstr ""
+
+#: inc/customizer.php:3642
+msgid "Choose the display type for the archive/category view."
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog Image Large"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog Image Medium"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog Image Alternate Medium"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog Image Round Medium"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog Image Round Alternate Medium"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog Full Content"
+msgstr ""
+
+#: inc/customizer.php:3650
+msgid "Masonry"
+msgstr ""
+
+#: inc/customizer.php:3651
+msgid "Grid"
+msgstr ""
+
+#: inc/customizer.php:3672
+msgid "Column"
+msgstr ""
+
+#: inc/customizer.php:3674
+#: inc/widgets/class-spacious-pricing-table-widget.php:63
+#: inc/widgets/class-spacious-product-widget.php:162
+msgid "Two"
+msgstr ""
+
+#: inc/customizer.php:3675
+#: inc/widgets/class-spacious-pricing-table-widget.php:64
+#: inc/widgets/class-spacious-product-widget.php:164
+msgid "Three"
+msgstr ""
+
+#: inc/customizer.php:3695
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer.php:3716
+msgid ""
+"Enter the number of Words you wish to show on excerpt. Default value is 40 "
+"words."
+msgstr ""
+
+#: inc/customizer.php:3735
+msgid "Excerpt Read More Text"
+msgstr ""
+
+#: inc/customizer.php:3757
+msgid "Replace the default Read more text with your own words"
+msgstr ""
+
+#: inc/customizer.php:3787
+msgid "Content Read More Tag"
+msgstr ""
+
+#: inc/customizer.php:3808
+msgid "Check to display content read more tag from beginning."
+msgstr ""
+
+#: inc/customizer.php:3827
+msgid "Category Options"
+msgstr ""
+
+#: inc/customizer.php:3849
+msgid "Activate term description"
+msgstr ""
+
+#: inc/customizer.php:3870
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer.php:3888
+msgid "Author Bio"
+msgstr ""
+
+#: inc/customizer.php:3910
+msgid "Check to enable the author bio section just below the post."
+msgstr ""
+
+#: inc/customizer.php:3942
+msgid "Check to add the all post link of author url in the author box."
+msgstr ""
+
+#: inc/customizer.php:3963
+msgid "Check to show the Social Profiles in the Author Bio."
+msgstr ""
+
+#: inc/customizer.php:3984
+msgid ""
+"Check to add the social links in the author bio section. Note: it suppots "
+"only the social icons provided by All In One SEO Pack or WordPress SEO "
+"plugin."
+msgstr ""
+
+#: inc/customizer.php:4003
+msgid "Featured Image In Single Post Page"
+msgstr ""
+
+#: inc/customizer.php:4025
+msgid "Check to enable the featured image in single post page."
+msgstr ""
+
+#: inc/customizer.php:4044
+msgid "Related Posts"
+msgstr ""
+
+#: inc/customizer.php:4066
+msgid "Check to activate the related posts"
+msgstr ""
+
+#: inc/customizer.php:4086
+msgid "Related Posts Must Be Shown As:"
+msgstr ""
+
+#: inc/customizer.php:4090
+msgid "Related Posts By Categories"
+msgstr ""
+
+#: inc/customizer.php:4091
+msgid "Related Posts By Tags"
+msgstr ""
+
+#: inc/customizer.php:4113
+msgid "Number of post to display"
+msgstr ""
+
+#: inc/customizer.php:4125
+#: spacious-toolkit/controls/content-widget-block-2.php:274
+msgid "Post Meta"
+msgstr ""
+
+#: inc/customizer.php:4143
+msgid "Post Meta Display"
+msgstr ""
+
+#: inc/customizer.php:4165
+msgid "Disable the post meta for the post totally, ie, remove all of the meta data."
+msgstr ""
+
+#: inc/customizer.php:4186
+msgid "Disable the author only in the post meta section."
+msgstr ""
+
+#: inc/customizer.php:4207
+msgid "Disable the date only in the post meta section."
+msgstr ""
+
+#: inc/customizer.php:4228
+msgid "Disable the category only in the post meta section."
+msgstr ""
+
+#: inc/customizer.php:4249
+msgid "Disable the comments only in the post meta section."
+msgstr ""
+
+#: inc/customizer.php:4270
+msgid "Disable the edit button only in the post meta section."
+msgstr ""
+
+#: inc/customizer.php:4291
+msgid "Disable the tags display just below the post."
+msgstr ""
+
+#: inc/customizer.php:4336
+msgid ""
+"Post meta icon color. Post meta includes date, author, category etc. "
+"information of post. Default is #999999."
+msgstr ""
+
+#: inc/customizer.php:4362
+msgid ""
+"Post meta text color. Post meta includes date, author, category etc. "
+"information of post. Default is #999999."
+msgstr ""
+
+#: inc/customizer.php:4388
+msgid "Read more text in post meta. Default is #FFFFFF."
+msgstr ""
+
+#: inc/customizer.php:4414
+msgid "Read more text background color. Default is #0FBE7C."
+msgstr ""
+
+#: inc/customizer.php:4457
+msgid ""
+"Post meta font size. Default is 14px. Post meta includes date, author, "
+"category etc. information of post."
+msgstr ""
+
+#: inc/customizer.php:4479
+msgid ""
+"Read more link font size. Default is 14px. Read more in post meta, TG: "
+"Featured Single Page widget and TG: Services widget."
+msgstr ""
+
+#: inc/customizer.php:4490
+#: inc/widgets/class-spacious-featured-single-page-widget.php:43
+#: inc/widgets/class-spacious-recent-work-widget.php:48
+#: inc/widgets/class-spacious-service-widget.php:43
+msgid "Page"
+msgstr ""
+
+#: inc/customizer.php:4508
+msgid "Featured Image in Single Page"
+msgstr ""
+
+#: inc/customizer.php:4530
+msgid "Check to enable the featured image in single page."
+msgstr ""
+
+#: inc/customizer.php:4540 inc/customizer.php:6462
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer.php:4558
+msgid "Sticky Content And Sidebar"
+msgstr ""
+
+#: inc/customizer.php:4580
+msgid "Check to activate the sticky options for content and sidebar areas."
+msgstr ""
+
+#: inc/customizer.php:4625
+msgid "Widget title color. Default is #FFFFFF."
+msgstr ""
+
+#: inc/customizer.php:4667
+msgid "Widget title font size. Default is 22px."
+msgstr ""
+
+#: inc/customizer.php:4678
+msgid "Comments"
+msgstr ""
+
+#: inc/customizer.php:4722
+msgid "Comment part background color. Default is #FFFFFF."
+msgstr ""
+
+#: inc/customizer.php:4748
+msgid "Comment title color. Default is #222222."
+msgstr ""
+
+#: inc/customizer.php:4774
+msgid "Comment meta color. Like name, date etc. Default is #999999."
+msgstr ""
+
+#: inc/customizer.php:4800
+msgid "Single comment background color. Like name, date etc. Default is #F8F8F8."
+msgstr ""
+
+#: inc/customizer.php:4826
+msgid "Commenting field background color. Like name, date etc. Default is #F8F8F8."
+msgstr ""
+
+#: inc/customizer.php:4869
+msgid "Comment Title. Default is 26px."
+msgstr ""
+
+#: inc/customizer.php:4892
+msgid ""
+"Content font size, also applies to other text like in search fields, post "
+"comment button etc. Default is 16px."
+msgstr ""
+
+#: inc/customizer.php:4903
+msgid "404 Page"
+msgstr ""
+
+#: inc/customizer.php:4921
+msgid "404 Page Text"
+msgstr ""
+
+#: inc/customizer.php:4943
+msgid "Add the text you want to display in 404 Page."
+msgstr ""
+
+#: inc/customizer.php:4965
+msgid "Widgets"
+msgstr ""
+
+#: inc/customizer.php:4983
+msgid "TG:Call to action widget color options"
+msgstr ""
+
+#: inc/customizer.php:5009
+msgid "Background color. Default is #F8F8F8."
+msgstr ""
+
+#: inc/customizer.php:5034
+msgid "Title color. Default is #222222."
+msgstr ""
+
+#: inc/customizer.php:5059
+msgid "Button text color. Default is #FFFFFF."
+msgstr ""
+
+#: inc/customizer.php:5084
+msgid "Button background color. Default is #0FBE7C."
+msgstr ""
+
+#: inc/customizer.php:5104
+#: spacious-toolkit/controls/content-widget-block-2.php:208
+#: spacious-toolkit/controls/content-widget-block-2.php:245
+#: spacious-toolkit/controls/content-widget-block-2.php:282
+#: spacious-toolkit/controls/content-widget-block-2.php:319
+#: spacious-toolkit/controls/content-widget-block-2.php:356
+#: spacious-toolkit/controls/content-widget-counter-1.php:122
+#: spacious-toolkit/controls/content-widget-counter-1.php:150
+#: spacious-toolkit/controls/content-widget-counter-1.php:188
+#: spacious-toolkit/controls/content-widget-counter-1.php:216
+#: spacious-toolkit/controls/content-widget-cta-3.php:192
+#: spacious-toolkit/controls/content-widget-cta-3.php:273
+#: spacious-toolkit/controls/content-widget-cta-3.php:354
+#: spacious-toolkit/controls/content-widget-cta-3.php:416
+#: spacious-toolkit/controls/content-widget-cta-3.php:523
+#: spacious-toolkit/controls/content-widget-cta-3.php:586
+#: spacious-toolkit/controls/content-widget-cta-3.php:688
+#: spacious-toolkit/controls/content-widget-cta-3.php:751
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:210
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:366
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:458
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:550
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:668
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:731
+#: spacious-toolkit/controls/content-widget-slider-1.php:229
+#: spacious-toolkit/controls/content-widget-slider-1.php:290
+#: spacious-toolkit/controls/content-widget-slider-1.php:385
+#: spacious-toolkit/controls/content-widget-slider-1.php:437
+#: spacious-toolkit/controls/content-widget-slider-1.php:527
+#: spacious-toolkit/controls/content-widget-slider-1.php:579
+#: spacious-toolkit/controls/content-widget-slider-2.php:254
+#: spacious-toolkit/controls/content-widget-slider-2.php:291
+#: spacious-toolkit/controls/content-widget-slider-2.php:362
+#: spacious-toolkit/controls/content-widget-slider-2.php:425
+#: spacious-toolkit/controls/content-widget-team-1.php:218
+#: spacious-toolkit/controls/content-widget-team-1.php:280
+#: spacious-toolkit/controls/content-widget-team-1.php:342
+#: spacious-toolkit/controls/content-widget-team-5.php:228
+#: spacious-toolkit/controls/content-widget-team-5.php:265
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:98
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:135
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:172
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:209
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:251
+msgid "Color"
+msgstr ""
+
+#: inc/customizer.php:5129
+msgid ""
+"Title in posts listing or blog/category view. Also for posts titles in "
+"TG:Featured Posts widget. Default is #222222."
+msgstr ""
+
+#: inc/customizer.php:5154
+msgid ""
+"Read more link color for TG: Featured Single Page widget and TG: Services "
+"widget. Default is #0FBE7C."
+msgstr ""
+
+#: inc/customizer.php:5177
+msgid ""
+"Border lines. These lines are used in various parts as seperator and as "
+"borders. Default is #EAEAEA."
+msgstr ""
+
+#: inc/customizer.php:5219
+msgid "Title of TG: Call To Action widget. Default is 24px."
+msgstr ""
+
+#: inc/customizer.php:5240
+msgid "Button text of TG: Call To Action widget. Default is 22px."
+msgstr ""
+
+#: inc/customizer.php:5261
+msgid ""
+"Title in posts listing or blog/category view. Also for posts titles in "
+"TG:Featured Posts widget. Default is 26px."
+msgstr ""
+
+#: inc/customizer.php:5282
+msgid ""
+"Main title of TG: Featured Posts widget and TG: Our Clients widget. Default "
+"is 30px."
+msgstr ""
+
+#: inc/customizer.php:5296
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:5305
+msgid "General"
+msgstr ""
+
+#: inc/customizer.php:5323
+msgid "Footer Border Option"
+msgstr ""
+
+#: inc/customizer.php:5543
+msgid "Footer Widgets Area"
+msgstr ""
+
+#: inc/customizer.php:5561
+msgid "Footer Widgets Column"
+msgstr ""
+
+#: inc/customizer.php:5583
+msgid "Choose the number of column for the footer widgetized areas."
+msgstr ""
+
+#: inc/customizer.php:5642
+msgid "Widget title color. Default is #D5D5D5."
+msgstr ""
+
+#: inc/customizer.php:5669
+msgid "Widget content color. Default is #999999."
+msgstr ""
+
+#: inc/customizer.php:5696
+msgid "Widget background color. Default is #333333."
+msgstr ""
+
+#: inc/customizer.php:5740
+msgid "Footer widget title font size. Default is 22px."
+msgstr ""
+
+#: inc/customizer.php:5763
+msgid "Footer widget content font size. Default is 14px."
+msgstr ""
+
+#: inc/customizer.php:5775
+msgid "Footer Bottom Bar"
+msgstr ""
+
+#: inc/customizer.php:5793
+msgid "Footer Copyright Editor"
+msgstr ""
+
+#: inc/customizer.php:5801 inc/functions.php:1642
+msgid "Copyright &copy; "
+msgstr ""
+
+#: inc/customizer.php:5801 inc/functions.php:1642
+msgid "Theme by: "
+msgstr ""
+
+#: inc/customizer.php:5801 inc/functions.php:1642
+msgid "Powered by: "
+msgstr ""
+
+#: inc/customizer.php:5819
+msgid ""
+"Edit the Copyright information in your footer. You can also use shortcodes "
+"[the-year], [site-link], [wp-link], [tg-link] for current year, your site "
+"link, WordPress site link and ThemeGrill site link respectively."
+msgstr ""
+
+#: inc/customizer.php:5850
+msgid "Copyright Alignment"
+msgstr ""
+
+#: inc/customizer.php:5872
+msgid ""
+"Display Copyright and Footer Menu either on left/right or on center "
+"Position."
+msgstr ""
+
+#: inc/customizer.php:5874
+msgid "Left/Right"
+msgstr ""
+
+#: inc/customizer.php:5875
+msgid "Right/Left"
+msgstr ""
+
+#: inc/customizer.php:5916
+msgid "Display Footer Menu or Social Menu."
+msgstr ""
+
+#: inc/customizer.php:5919
+msgid "Social Menu"
+msgstr ""
+
+#: inc/customizer.php:5964
+msgid "Footer copyright text color. Default is #666666."
+msgstr ""
+
+#: inc/customizer.php:5990
+msgid "Footer small menu text color. Default is #666666."
+msgstr ""
+
+#: inc/customizer.php:6016
+msgid "Footer copyright part background color. Default is #F8F8F8."
+msgstr ""
+
+#: inc/customizer.php:6059
+msgid "Footer copyright text font size. Default is 12px."
+msgstr ""
+
+#: inc/customizer.php:6082
+msgid "Footer small menu. Default is 12px."
+msgstr ""
+
+#: inc/customizer.php:6094
+msgid "Scroll To Top Button"
+msgstr ""
+
+#: inc/customizer.php:6113
+msgid "Check to disable the scroll to top button."
+msgstr ""
+
+#: inc/customizer.php:6127
+#: spacious-toolkit/controls/content-widget-team-1.php:396
+msgid "Social Links"
+msgstr ""
+
+#: inc/customizer.php:6144
+msgid "Activate social links area"
+msgstr ""
+
+#: inc/customizer.php:6166
+msgid ""
+"Check to activate social links area. You also need to activate the header "
+"top bar section in Header options to show this social links area"
+msgstr ""
+
+#: inc/customizer.php:6196
+msgid "Social Icon"
+msgstr ""
+
+#: inc/customizer.php:6204 inc/functions.php:1285 inc/functions.php:1794
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer.php:6205 inc/functions.php:1277 inc/functions.php:1797
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer.php:6206
+msgid "GooglePlus"
+msgstr ""
+
+#: inc/customizer.php:6207 inc/functions.php:1317
+#: spacious-toolkit/controls/content-widget-team-4.php:101
+msgid "Instagram"
+msgstr ""
+
+#: inc/customizer.php:6208
+msgid "CodePen"
+msgstr ""
+
+#: inc/customizer.php:6209
+msgid "Digg"
+msgstr ""
+
+#: inc/customizer.php:6210
+msgid "Dribbble"
+msgstr ""
+
+#: inc/customizer.php:6211 inc/functions.php:1301
+msgid "Flickr"
+msgstr ""
+
+#: inc/customizer.php:6212
+msgid "GitHub"
+msgstr ""
+
+#: inc/customizer.php:6213 inc/functions.php:1309
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/customizer.php:6214
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer.php:6215
+msgid "Polldaddy"
+msgstr ""
+
+#: inc/customizer.php:6216
+msgid "Pocket"
+msgstr ""
+
+#: inc/customizer.php:6217
+msgid "Reddit"
+msgstr ""
+
+#: inc/customizer.php:6218
+msgid "Skype"
+msgstr ""
+
+#: inc/customizer.php:6219
+msgid "StumbleUpon"
+msgstr ""
+
+#: inc/customizer.php:6220 inc/functions.php:1325
+msgid "Tumblr"
+msgstr ""
+
+#: inc/customizer.php:6221
+msgid "Vimeo"
+msgstr ""
+
+#: inc/customizer.php:6222 inc/functions.php:1623
+msgid "WordPress"
+msgstr ""
+
+#: inc/customizer.php:6223
+msgid "YouTube"
+msgstr ""
+
+#: inc/customizer.php:6224
+msgid "RSS"
+msgstr ""
+
+#: inc/customizer.php:6225
+msgid "Mail"
+msgstr ""
+
+#: inc/customizer.php:6298 inc/header-functions.php:49
+msgid "Additional Social Icon One"
+msgstr ""
+
+#: inc/customizer.php:6299 inc/header-functions.php:50
+msgid "Additional Social Icon Two"
+msgstr ""
+
+#: inc/customizer.php:6300 inc/header-functions.php:51
+msgid "Additional Social Icon Three"
+msgstr ""
+
+#: inc/customizer.php:6301 inc/header-functions.php:52
+msgid "Additional Social Icon Four"
+msgstr ""
+
+#: inc/customizer.php:6302 inc/header-functions.php:53
+msgid "Additional Social Icon Five"
+msgstr ""
+
+#: inc/customizer.php:6340
+#. translators: %s: Additional Social Site
+msgid "Add link for %1$s"
+msgstr ""
+
+#: inc/customizer.php:6385
+msgid "Add color for icon."
+msgstr ""
+
+#: inc/customizer.php:6425
+msgid "Additional"
+msgstr ""
+
+#: inc/customizer.php:6446
+msgid "Google Font Options"
+msgstr ""
+
+#: inc/customizer.php:6480
+msgid "Archive Page Layout"
+msgstr ""
+
+#: inc/customizer.php:6503
+msgid "This layout will be reflected in woocommerce archive page only."
+msgstr ""
+
+#: inc/customizer.php:6529
+msgid "Product Page Layout"
+msgstr ""
+
+#: inc/customizer.php:6552
+msgid "This layout will be reflected in woocommerce Product page."
+msgstr ""
+
+#: inc/customizer.php:6570
+msgid "Design"
+msgstr ""
+
+#: inc/customizer.php:6588
+msgid "Cart Icon"
+msgstr ""
+
+#: inc/customizer.php:6610
+msgid "Check to show WooCommerce cart icon on menu bar"
+msgstr ""
+
+#: inc/customizer.php:6629
+msgid "Sale Design"
+msgstr ""
+
+#: inc/customizer.php:6650
+msgid "Choose the WooCommerce sale batch design."
+msgstr ""
+
+#: inc/customizer.php:6654 inc/customizer.php:6701 inc/customizer.php:7138
+#: inc/widgets/class-spacious-product-widget.php:115
+#: inc/widgets/class-spacious-team-widget.php:209
+msgid "Default"
+msgstr ""
+
+#: inc/customizer.php:6655 inc/customizer.php:6702
+msgid "Style 1"
+msgstr ""
+
+#: inc/customizer.php:6656 inc/customizer.php:6703
+msgid "Style 2"
+msgstr ""
+
+#: inc/customizer.php:6657
+msgid "Style 3"
+msgstr ""
+
+#: inc/customizer.php:6675
+msgid "Add To Cart Design"
+msgstr ""
+
+#: inc/customizer.php:6697
+msgid "Choose the WooCommerce Add to Cart button design."
+msgstr ""
+
+#: inc/customizer.php:7136
+msgid "Clear"
+msgstr ""
+
+#: inc/customizer.php:7137
+msgid "Clear color"
+msgstr ""
+
+#: inc/customizer.php:7139
+msgid "Select default color"
+msgstr ""
+
+#: inc/customizer.php:7140
+msgid "Select Color"
+msgstr ""
+
+#: inc/customizer.php:7141
+msgid "Color value"
+msgstr ""
+
+#: inc/demo-importer/class-demo-importer.php:64
+#: inc/demo-importer/includes/views/html-admin-page-importer.php:27
+msgid "Demo Importer"
+msgstr ""
+
+#: inc/demo-importer/includes/views/html-admin-page-importer.php:15
+msgid "Install ThemeGrill Demo importer"
+msgstr ""
+
+#: inc/demo-importer/includes/views/html-admin-page-importer.php:19
+msgid "Activate ThemeGrill Demo importer"
+msgstr ""
+
+#: inc/demo-importer/includes/views/html-admin-page-importer.php:30
+msgid "Ready to start importing available demos with just a single click?"
+msgstr ""
+
+#: inc/demo-importer/includes/views/html-admin-page-importer.php:34
+msgid "Learn more about demo importer!"
+msgstr ""
+
+#: inc/freemius-migration.php:155 inc/freemius-migration.php:156
+msgid "License Manager"
+msgstr ""
+
+#: inc/functions.php:1274
+msgid "User Social Links"
+msgstr ""
+
+#: inc/functions.php:1293 inc/functions.php:1800
+msgid "Google Plus"
+msgstr ""
+
+#: inc/functions.php:1333
+msgid "Youtube"
+msgstr ""
+
+#: inc/functions.php:1445
+msgid "Post navigation"
+msgstr ""
+
+#: inc/functions.php:1456
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/functions.php:1461
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/functions.php:1531
+msgid "Pingback:"
+msgstr ""
+
+#: inc/functions.php:1531
+msgid "(Edit)"
+msgstr ""
+
+#: inc/functions.php:1546
+msgid "Post author"
+msgstr ""
+
+#: inc/functions.php:1549
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/functions.php:1551
+msgid "<a class=\"comment-permalink\" href=\"%1$s\">Permalink</a>"
+msgstr ""
+
+#: inc/functions.php:1557
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/functions.php:1564
+msgid "Reply"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeGrill"
+msgstr ""
+
+#: inc/functions.php:1757
+#: inc/widgets/class-spacious-featured-posts-widget.php:255
+msgid "No Comments"
+msgstr ""
+
+#: inc/functions.php:1757
+#: inc/widgets/class-spacious-featured-posts-widget.php:255
+msgid "1 Comment"
+msgstr ""
+
+#: inc/functions.php:1757
+#: inc/widgets/class-spacious-featured-posts-widget.php:255
+msgid "% Comments"
+msgstr ""
+
+#: inc/functions.php:1757
+#: inc/widgets/class-spacious-featured-posts-widget.php:255
+msgid "Comments Off"
+msgstr ""
+
+#: inc/functions.php:1792
+msgid "<span>Follow %s on:</span>"
+msgstr ""
+
+#: inc/functions.php:1968
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/header-functions.php:304
+msgid "Author: %s"
+msgstr ""
+
+#: inc/header-functions.php:313
+msgid "Day: %s"
+msgstr ""
+
+#: inc/header-functions.php:316
+msgid "Month: %s"
+msgstr ""
+
+#: inc/header-functions.php:319
+msgid "Year: %s"
+msgstr ""
+
+#: inc/header-functions.php:322
+msgid "Asides"
+msgstr ""
+
+#: inc/header-functions.php:325
+msgid "Images"
+msgstr ""
+
+#: inc/header-functions.php:328
+msgid "Videos"
+msgstr ""
+
+#: inc/header-functions.php:331
+msgid "Quotes"
+msgstr ""
+
+#: inc/header-functions.php:334
+msgid "Links"
+msgstr ""
+
+#: inc/header-functions.php:340 sidebar-left.php:29 sidebar.php:32
+msgid "Archives"
+msgstr ""
+
+#: inc/header-functions.php:344
+msgid "Page NOT Found"
+msgstr ""
+
+#: inc/header-functions.php:346
+msgid "Search Results"
+msgstr ""
+
+#: inc/header-functions.php:379 inc/header-functions.php:386
+msgid "You are here: "
+msgstr ""
+
+#: inc/header-functions.php:446
+msgid "Total"
+msgstr ""
+
+#: inc/header-functions.php:513
+msgid "Menu"
+msgstr ""
+
+#: inc/related-posts.php:6
+msgid "You May Also Like"
+msgstr ""
+
+#: inc/spacious-toolkit.php:248
+msgid "Spacious WooCommerce"
+msgstr ""
+
+#: inc/widgets/class-spacious-accordian-widget.php:17
+msgid "Show a Accordian."
+msgstr ""
+
+#: inc/widgets/class-spacious-accordian-widget.php:21
+msgid "TG: Accordian"
+msgstr ""
+
+#: inc/widgets/class-spacious-accordian-widget.php:175
+#: inc/widgets/class-spacious-featured-posts-widget.php:41
+#: inc/widgets/class-spacious-featured-single-page-widget.php:37
+#: inc/widgets/class-spacious-fun-facts-widget.php:55
+#: inc/widgets/class-spacious-our-clients-widget.php:71
+#: inc/widgets/class-spacious-pricing-table-widget.php:44
+#: inc/widgets/class-spacious-product-widget.php:53
+#: inc/widgets/class-spacious-recent-work-widget.php:37
+#: inc/widgets/class-spacious-team-widget.php:56
+#: inc/widgets/class-spacious-testimonial-widget.php:193
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/class-spacious-accordian-widget.php:183
+#: inc/widgets/class-spacious-fun-facts-widget.php:61
+#: inc/widgets/class-spacious-pricing-table-widget.php:48
+#: inc/widgets/class-spacious-product-widget.php:58
+msgid "Description:"
+msgstr ""
+
+#: inc/widgets/class-spacious-accordian-widget.php:191
+msgid "Number of accordian to show:"
+msgstr ""
+
+#: inc/widgets/class-spacious-accordian-widget.php:204
+msgid "Accordian heading:"
+msgstr ""
+
+#: inc/widgets/class-spacious-accordian-widget.php:208
+msgid "Accordian content:"
+msgstr ""
+
+#: inc/widgets/class-spacious-call-to-action-widget.php:10
+msgid "Use this widget to show the call to action section."
+msgstr ""
+
+#: inc/widgets/class-spacious-call-to-action-widget.php:14
+msgid "TG: Call To Action Widget"
+msgstr ""
+
+#: inc/widgets/class-spacious-call-to-action-widget.php:40
+msgid "Call to Action Main Text"
+msgstr ""
+
+#: inc/widgets/class-spacious-call-to-action-widget.php:45
+msgid "Call to Action Additional Text"
+msgstr ""
+
+#: inc/widgets/class-spacious-call-to-action-widget.php:50
+msgid "Button Text:"
+msgstr ""
+
+#: inc/widgets/class-spacious-call-to-action-widget.php:55
+msgid "Button Redirect Link:"
+msgstr ""
+
+#: inc/widgets/class-spacious-call-to-action-widget.php:61
+msgid "Open in new tab"
+msgstr ""
+
+#: inc/widgets/class-spacious-call-to-action-widget.php:65
+msgid "Image:"
+msgstr ""
+
+#: inc/widgets/class-spacious-call-to-action-widget.php:67
+msgid "Upload Image"
+msgstr ""
+
+#: inc/widgets/class-spacious-call-to-action-widget.php:71
+#: inc/widgets/class-spacious-pricing-table-widget.php:51
+msgid "Choose style:"
+msgstr ""
+
+#: inc/widgets/class-spacious-call-to-action-widget.php:72
+#: inc/widgets/class-spacious-pricing-table-widget.php:52
+msgid "Style One"
+msgstr ""
+
+#: inc/widgets/class-spacious-call-to-action-widget.php:73
+#: inc/widgets/class-spacious-pricing-table-widget.php:53
+msgid "Style Two"
+msgstr ""
+
+#: inc/widgets/class-spacious-call-to-action-widget.php:74
+msgid "Style Three"
+msgstr ""
+
+#: inc/widgets/class-spacious-featured-posts-widget.php:11
+msgid "Display latest posts or posts of specific category"
+msgstr ""
+
+#: inc/widgets/class-spacious-featured-posts-widget.php:15
+msgid "TG: Featured Posts"
+msgstr ""
+
+#: inc/widgets/class-spacious-featured-posts-widget.php:44
+#: inc/widgets/class-spacious-our-clients-widget.php:74
+#: inc/widgets/class-spacious-recent-work-widget.php:41
+#: inc/widgets/class-spacious-team-widget.php:62
+#: spacious-toolkit/controls/content-widget-slider-1.php:97
+#: spacious-toolkit/controls/content-widget-slider-2.php:96
+#: spacious-toolkit/controls/content-widget-slider-2.php:98
+#: spacious-toolkit/controls/content-widget-slider-2.php:283
+#: spacious-toolkit/controls/content-widget-team-1.php:82
+#: spacious-toolkit/controls/content-widget-team-1.php:334
+#: spacious-toolkit/controls/content-widget-team-2.php:77
+#: spacious-toolkit/controls/content-widget-team-3.php:77
+msgid "Description"
+msgstr ""
+
+#: inc/widgets/class-spacious-featured-posts-widget.php:47
+msgid "Number of posts to display:"
+msgstr ""
+
+#: inc/widgets/class-spacious-featured-posts-widget.php:52
+msgid "Large Featured Image"
+msgstr ""
+
+#: inc/widgets/class-spacious-featured-posts-widget.php:54
+msgid "Medium Featured Image"
+msgstr ""
+
+#: inc/widgets/class-spacious-featured-posts-widget.php:58
+msgid "Show latest Posts"
+msgstr ""
+
+#: inc/widgets/class-spacious-featured-posts-widget.php:60
+msgid "Show posts from a category"
+msgstr ""
+
+#: inc/widgets/class-spacious-featured-posts-widget.php:62
+msgid "Show posts from a tag"
+msgstr ""
+
+#: inc/widgets/class-spacious-featured-posts-widget.php:64
+msgid "Show posts from an author"
+msgstr ""
+
+#: inc/widgets/class-spacious-featured-posts-widget.php:69
+msgid "Select category"
+msgstr ""
+
+#: inc/widgets/class-spacious-featured-posts-widget.php:79
+msgid "Select tag"
+msgstr ""
+
+#: inc/widgets/class-spacious-featured-posts-widget.php:89
+msgid "Select author"
+msgstr ""
+
+#: inc/widgets/class-spacious-featured-posts-widget.php:101
+msgid "Select the featured post column"
+msgstr ""
+
+#: inc/widgets/class-spacious-featured-posts-widget.php:106
+msgid "One Column"
+msgstr ""
+
+#: inc/widgets/class-spacious-featured-posts-widget.php:109
+#: inc/widgets/class-spacious-recent-work-widget.php:67
+#: inc/widgets/class-spacious-service-widget.php:67
+#: inc/widgets/class-spacious-team-widget.php:193
+msgid "Two Column"
+msgstr ""
+
+#: inc/widgets/class-spacious-featured-single-page-widget.php:10
+msgid "Display Featured Single Page"
+msgstr ""
+
+#: inc/widgets/class-spacious-featured-single-page-widget.php:14
+msgid "TG: Featured Single Page"
+msgstr ""
+
+#: inc/widgets/class-spacious-featured-single-page-widget.php:34
+msgid "Suitable for Home Top Sidebar, Home Bottom Left Sidebar and Side Sidbar."
+msgstr ""
+
+#: inc/widgets/class-spacious-featured-single-page-widget.php:40
+msgid "Displays the title of the Page if title input is empty."
+msgstr ""
+
+#: inc/widgets/class-spacious-featured-single-page-widget.php:51
+msgid "Remove Featured image"
+msgstr ""
+
+#: inc/widgets/class-spacious-featured-single-page-widget.php:55
+msgid "Link the featured image to the respective page."
+msgstr ""
+
+#: inc/widgets/class-spacious-featured-single-page-widget.php:59
+msgid "Remove the dots at the end of content"
+msgstr ""
+
+#: inc/widgets/class-spacious-featured-single-page-widget.php:63
+#: inc/widgets/class-spacious-service-widget.php:56
+msgid "Disable the read more button."
+msgstr ""
+
+#: inc/widgets/class-spacious-featured-single-page-widget.php:68
+#: inc/widgets/class-spacious-featured-single-page-widget.php:75
+msgid "Show Image Before Title"
+msgstr ""
+
+#: inc/widgets/class-spacious-featured-single-page-widget.php:70
+#: inc/widgets/class-spacious-featured-single-page-widget.php:77
+msgid "Show Image After Title"
+msgstr ""
+
+#: inc/widgets/class-spacious-fun-facts-widget.php:11
+msgid "Widget to show Fun Facts"
+msgstr ""
+
+#: inc/widgets/class-spacious-fun-facts-widget.php:14
+msgid "TG: Fun Facts"
+msgstr ""
+
+#: inc/widgets/class-spacious-fun-facts-widget.php:71
+msgid "Fact number: "
+msgstr ""
+
+#: inc/widgets/class-spacious-fun-facts-widget.php:80
+msgid "Fact Detail:"
+msgstr ""
+
+#: inc/widgets/class-spacious-fun-facts-widget.php:87
+msgid "Icon Class:"
+msgstr ""
+
+#: inc/widgets/class-spacious-fun-facts-widget.php:98
+msgid "<a href=\"%s\" target=\"_blank\">Refer here</a> For Icon Class"
+msgstr ""
+
+#: inc/widgets/class-spacious-fun-facts-widget.php:104
+#: inc/widgets/class-spacious-team-widget.php:147
+msgid "Background Color:"
+msgstr ""
+
+#: inc/widgets/class-spacious-fun-facts-widget.php:110
+msgid "Select the column"
+msgstr ""
+
+#: inc/widgets/class-spacious-fun-facts-widget.php:116
+#: inc/widgets/class-spacious-product-widget.php:102
+#: inc/widgets/class-spacious-service-widget.php:70
+#: inc/widgets/class-spacious-team-widget.php:196
+msgid "Three Column"
+msgstr ""
+
+#: inc/widgets/class-spacious-fun-facts-widget.php:119
+#: inc/widgets/class-spacious-product-widget.php:105
+#: inc/widgets/class-spacious-recent-work-widget.php:70
+#: inc/widgets/class-spacious-service-widget.php:73
+#: inc/widgets/class-spacious-team-widget.php:199
+msgid "Four Column"
+msgstr ""
+
+#: inc/widgets/class-spacious-our-clients-widget.php:11
+msgid "Widget to show clients/partners images"
+msgstr ""
+
+#: inc/widgets/class-spacious-our-clients-widget.php:15
+msgid "TG: Our Clients"
+msgstr ""
+
+#: inc/widgets/class-spacious-our-clients-widget.php:69
+msgid ""
+"Note: To add the image. Go to Media->Add New. Upload an image. Copy the "
+"image path link and paste in image input field. Recommended size for the "
+"image is 200px * 75px."
+msgstr ""
+
+#: inc/widgets/class-spacious-our-clients-widget.php:83
+msgid "Image Path Link "
+msgstr ""
+
+#: inc/widgets/class-spacious-our-clients-widget.php:87
+msgid "Redirect Link "
+msgstr ""
+
+#: inc/widgets/class-spacious-our-clients-widget.php:93
+msgid "Hover Title Text "
+msgstr ""
+
+#: inc/widgets/class-spacious-our-clients-widget.php:102
+msgid "Enable carousel"
+msgstr ""
+
+#: inc/widgets/class-spacious-our-clients-widget.php:107
+msgid "Check to open in same window"
+msgstr ""
+
+#: inc/widgets/class-spacious-pricing-table-widget.php:11
+msgid ""
+"Use this widdget to show the Pricing Table plan. Best for Business Top or "
+"Bottom sidebar."
+msgstr ""
+
+#: inc/widgets/class-spacious-pricing-table-widget.php:14
+msgid "TG: Pricing Table"
+msgstr ""
+
+#: inc/widgets/class-spacious-pricing-table-widget.php:57
+msgid ""
+"Note: Enter number of columns for Pricing Table (default 3 columns) and "
+"save it then enter the data in respective field."
+msgstr ""
+
+#: inc/widgets/class-spacious-pricing-table-widget.php:61
+msgid "Display no of Columns:"
+msgstr ""
+
+#: inc/widgets/class-spacious-pricing-table-widget.php:65
+#: inc/widgets/class-spacious-product-widget.php:166
+msgid "Four"
+msgstr ""
+
+#: inc/widgets/class-spacious-pricing-table-widget.php:72
+msgid "Title :"
+msgstr ""
+
+#: inc/widgets/class-spacious-pricing-table-widget.php:77
+msgid "Price :"
+msgstr ""
+
+#: inc/widgets/class-spacious-pricing-table-widget.php:82
+msgid "Description :"
+msgstr ""
+
+#: inc/widgets/class-spacious-pricing-table-widget.php:87
+msgid "Sub Title :"
+msgstr ""
+
+#: inc/widgets/class-spacious-pricing-table-widget.php:92
+msgid "Badge :"
+msgstr ""
+
+#: inc/widgets/class-spacious-pricing-table-widget.php:97
+msgid "Badge background :"
+msgstr ""
+
+#: inc/widgets/class-spacious-pricing-table-widget.php:102
+msgid ""
+"Note: Enter the number of features to display in column (default 4 "
+"features) and save it then enter the data in respective field."
+msgstr ""
+
+#: inc/widgets/class-spacious-pricing-table-widget.php:106
+msgid "Number of features to display :"
+msgstr ""
+
+#: inc/widgets/class-spacious-pricing-table-widget.php:110
+msgid "Features :"
+msgstr ""
+
+#: inc/widgets/class-spacious-pricing-table-widget.php:122
+msgid "Button Text :"
+msgstr ""
+
+#: inc/widgets/class-spacious-pricing-table-widget.php:127
+msgid "Button URL :"
+msgstr ""
+
+#: inc/widgets/class-spacious-pricing-table-widget.php:132
+msgid "Color :"
+msgstr ""
+
+#: inc/widgets/class-spacious-product-widget.php:10
+msgid "Display WooCommerce Product."
+msgstr ""
+
+#: inc/widgets/class-spacious-product-widget.php:18
+msgid "TG: Product Widget"
+msgstr ""
+
+#: inc/widgets/class-spacious-product-widget.php:64
+#: spacious-toolkit/controls/content-widget-product-carousel-1.php:49
+msgid "Number of products to display:"
+msgstr ""
+
+#: inc/widgets/class-spacious-product-widget.php:73
+msgid "Show latest Products"
+msgstr ""
+
+#: inc/widgets/class-spacious-product-widget.php:77
+msgid "Show Products from a category"
+msgstr ""
+
+#: inc/widgets/class-spacious-product-widget.php:82
+msgid "Select Category"
+msgstr ""
+
+#: inc/widgets/class-spacious-product-widget.php:96
+#: inc/widgets/class-spacious-recent-work-widget.php:61
+msgid "Select Column"
+msgstr ""
+
+#: inc/widgets/class-spacious-product-widget.php:118
+#: inc/widgets/class-spacious-team-widget.php:212
+msgid "Layout One"
+msgstr ""
+
+#: inc/widgets/class-spacious-product-widget.php:121
+msgid "Layout Two"
+msgstr ""
+
+#: inc/widgets/class-spacious-product-widget.php:130
+msgid "Enable Slider"
+msgstr ""
+
+#: inc/widgets/class-spacious-product-widget.php:138
+#: inc/widgets/class-spacious-testimonial-widget.php:238
+msgid "Enable Pause on Hover"
+msgstr ""
+
+#: inc/widgets/class-spacious-product-widget.php:142
+#: inc/widgets/class-spacious-testimonial-widget.php:242
+msgid "Transition Speed Time (in ms):"
+msgstr ""
+
+#: inc/widgets/class-spacious-product-widget.php:149
+#: inc/widgets/class-spacious-testimonial-widget.php:249
+msgid "Transition delay Time (in ms):"
+msgstr ""
+
+#: inc/widgets/class-spacious-product-widget.php:156
+#: inc/widgets/class-spacious-testimonial-widget.php:256
+msgid "Slides Per View:"
+msgstr ""
+
+#: inc/widgets/class-spacious-product-widget.php:160
+msgid "One"
+msgstr ""
+
+#: inc/widgets/class-spacious-product-widget.php:323
+msgid "Sale!"
+msgstr ""
+
+#: inc/widgets/class-spacious-recent-work-widget.php:10
+msgid ""
+"Show your some pages as recent work. Best for Business Top or Bottom "
+"sidebar."
+msgstr ""
+
+#: inc/widgets/class-spacious-recent-work-widget.php:14
+msgid "TG: Featured Widget"
+msgstr ""
+
+#: inc/widgets/class-spacious-service-widget.php:10
+msgid "Display some pages as services. Best for Business Top or Bottom sidebar."
+msgstr ""
+
+#: inc/widgets/class-spacious-service-widget.php:14
+msgid "TG: Services"
+msgstr ""
+
+#: inc/widgets/class-spacious-service-widget.php:39
+#: inc/widgets/class-spacious-team-widget.php:159
+msgid "Link featured image to their respective page"
+msgstr ""
+
+#: inc/widgets/class-spacious-service-widget.php:60
+#: inc/widgets/class-spacious-team-widget.php:183
+msgid "Check to open in new tab."
+msgstr ""
+
+#: inc/widgets/class-spacious-service-widget.php:62
+msgid "Select the services column"
+msgstr ""
+
+#: inc/widgets/class-spacious-team-widget.php:10
+msgid "Display some pages as team. Best for Business Top or Bottom sidebar."
+msgstr ""
+
+#: inc/widgets/class-spacious-team-widget.php:14
+msgid "TG: Team"
+msgstr ""
+
+#: inc/widgets/class-spacious-team-widget.php:70
+msgid "Page:"
+msgstr ""
+
+#: inc/widgets/class-spacious-team-widget.php:84
+msgid "Designation:"
+msgstr ""
+
+#: inc/widgets/class-spacious-team-widget.php:94
+msgid "Facebook:"
+msgstr ""
+
+#: inc/widgets/class-spacious-team-widget.php:104
+msgid "Twitter:"
+msgstr ""
+
+#: inc/widgets/class-spacious-team-widget.php:114
+msgid "Google Plus:"
+msgstr ""
+
+#: inc/widgets/class-spacious-team-widget.php:124
+msgid "LinkedIn:"
+msgstr ""
+
+#: inc/widgets/class-spacious-team-widget.php:134
+msgid "Instagram:"
+msgstr ""
+
+#: inc/widgets/class-spacious-team-widget.php:167
+msgid "Link title to their respective page"
+msgstr ""
+
+#: inc/widgets/class-spacious-team-widget.php:175
+msgid "Enable the read more button."
+msgstr ""
+
+#: inc/widgets/class-spacious-team-widget.php:186
+msgid "Select the teams column"
+msgstr ""
+
+#: inc/widgets/class-spacious-testimonial-widget.php:11
+msgid "Display Testimonial"
+msgstr ""
+
+#: inc/widgets/class-spacious-testimonial-widget.php:15
+msgid "TG: Testimonial"
+msgstr ""
+
+#: inc/widgets/class-spacious-testimonial-widget.php:205
+msgid "Testimonial Description"
+msgstr ""
+
+#: inc/widgets/class-spacious-testimonial-widget.php:210
+msgid "Name:"
+msgstr ""
+
+#: inc/widgets/class-spacious-testimonial-widget.php:217
+msgid "Byline:"
+msgstr ""
+
+#: inc/widgets/class-spacious-testimonial-widget.php:231
+msgid "Enable slider"
+msgstr ""
+
+#: inc/widgets/class-spacious-testimonial-widget.php:260
+msgid "one"
+msgstr ""
+
+#: inc/widgets/class-spacious-testimonial-widget.php:262
+msgid "two"
+msgstr ""
+
+#: inc/widgets/class-spacious-testimonial-widget.php:264
+msgid "three"
+msgstr ""
+
+#: inc/widgets/widgets.php:20
+msgid "Shows widgets at Right side."
+msgstr ""
+
+#: inc/widgets/widgets.php:31
+msgid "Shows widgets at Left side."
+msgstr ""
+
+#: inc/widgets/widgets.php:40
+msgid "Header Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:42
+msgid "Shows widgets in header section just above the main navigation menu."
+msgstr ""
+
+#: inc/widgets/widgets.php:51
+msgid "Business Top Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:53
+msgid "Shows widgets on Business Page Template Top Section."
+msgstr ""
+
+#: inc/widgets/widgets.php:53 inc/widgets/widgets.php:87
+msgid ""
+"Suitable widget: TG: Services, TG: Call To Action Widget, TG: Featured "
+"Posts, TG: Featured Widget, TG: Our Clients"
+msgstr ""
+
+#: inc/widgets/widgets.php:62
+msgid "Business Middle Left Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:64
+msgid "Shows widgets on Business Page Template Middle Section Left Half."
+msgstr ""
+
+#: inc/widgets/widgets.php:64 inc/widgets/widgets.php:75
+msgid "Suitable widget: TG: Testimonial, TG: Featured Single Page"
+msgstr ""
+
+#: inc/widgets/widgets.php:73
+msgid "Business Middle Right Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:75
+msgid "Shows widgets on Business Page Template Middle Section Right Half."
+msgstr ""
+
+#: inc/widgets/widgets.php:85
+msgid "Business Bottom Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:87
+msgid "Shows widgets on Business Page Template Bottom Section."
+msgstr ""
+
+#: inc/widgets/widgets.php:96
+msgid "Contact Page Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:98
+msgid "Shows widgets on Contact Page Template."
+msgstr ""
+
+#: inc/widgets/widgets.php:108
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:110
+msgid "Widget area for WooCommerce Pages."
+msgstr ""
+
+#: inc/widgets/widgets.php:120
+msgid "Error 404 Page Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:122
+msgid "Shows widgets on Error 404 page."
+msgstr ""
+
+#: inc/widgets/widgets.php:131
+msgid "Footer Sidebar One"
+msgstr ""
+
+#: inc/widgets/widgets.php:133
+msgid "Shows widgets at footer sidebar one."
+msgstr ""
+
+#: inc/widgets/widgets.php:146
+msgid "Footer Sidebar Two"
+msgstr ""
+
+#: inc/widgets/widgets.php:148
+msgid "Shows widgets at footer sidebar two."
+msgstr ""
+
+#: inc/widgets/widgets.php:159
+msgid "Footer Sidebar Three"
+msgstr ""
+
+#: inc/widgets/widgets.php:161
+msgid "Shows widgets at footer sidebar three."
+msgstr ""
+
+#: inc/widgets/widgets.php:172
+msgid "Footer Sidebar Four"
+msgstr ""
+
+#: inc/widgets/widgets.php:174
+msgid "Shows widgets at footer sidebar four."
+msgstr ""
+
+#: inc/widgets/widgets.php:184
+msgid "Footer Sidebar Full Width"
+msgstr ""
+
+#: inc/widgets/widgets.php:186
+msgid "Shows widgets just above footer copyright area."
+msgstr ""
+
+#: inc/widgets/widgets.php:196
+msgid "Toggable Header Sidebar One"
+msgstr ""
+
+#: inc/widgets/widgets.php:198
+msgid "Shows widgets in header section one."
+msgstr ""
+
+#: inc/widgets/widgets.php:211
+msgid "Toggable Header Sidebar Two"
+msgstr ""
+
+#: inc/widgets/widgets.php:213
+msgid "Shows widgets in header section two."
+msgstr ""
+
+#: inc/widgets/widgets.php:224
+msgid "Toggable Header Sidebar Three"
+msgstr ""
+
+#: inc/widgets/widgets.php:226
+msgid "Shows widgets in header section three."
+msgstr ""
+
+#: inc/widgets/widgets.php:237
+msgid "Toggable Header Sidebar Four"
+msgstr ""
+
+#: inc/widgets/widgets.php:239
+msgid "Shows widgets in header section four."
+msgstr ""
+
+#: inc/widgets/widgets.php:249
+msgid "Toggable Header Sidebar Full Width"
+msgstr ""
+
+#: inc/widgets/widgets.php:251
+msgid "Shows widgets in Header sidebar ."
+msgstr ""
+
+#: navigation.php:19
+msgid "&laquo; Previous"
+msgstr ""
+
+#: navigation.php:20
+msgid "Next &raquo;"
+msgstr ""
+
+#: navigation.php:31
+msgid "&larr; Previous"
+msgstr ""
+
+#: navigation.php:32
+msgid "Next &rarr;"
+msgstr ""
+
+#: no-results.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: no-results.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: sidebar-left.php:36 sidebar.php:39
+msgid "Meta"
+msgstr ""
+
+#: single.php:42
+msgid "See all posts by %1$s"
+msgstr ""
+
+#: spacious-toolkit/content-widget-product-carousel-1.php:94
+msgid "Price:"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-block-2.php:44
+msgid "Block Title"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-block-2.php:52
+#: spacious-toolkit/controls/content-widget-counter-1.php:102
+#: spacious-toolkit/controls/content-widget-counter-1.php:208
+#: spacious-toolkit/controls/content-widget-counter-2.php:98
+#: spacious-toolkit/controls/content-widget-counter-3.php:98
+#: spacious-toolkit/controls/content-widget-cta-2.php:45
+#: spacious-toolkit/controls/content-widget-cta-3.php:58
+#: spacious-toolkit/controls/content-widget-cta-3.php:245
+#: spacious-toolkit/controls/content-widget-icon-box-1.php:54
+#: spacious-toolkit/controls/content-widget-icon-box-2.php:54
+#: spacious-toolkit/controls/content-widget-icon-box-3.php:54
+#: spacious-toolkit/controls/content-widget-icon-box-4.php:54
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:71
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:73
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:430
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:44
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:105
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:44
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:104
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:44
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:104
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:44
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:104
+#: spacious-toolkit/controls/content-widget-slider-1.php:90
+#: spacious-toolkit/controls/content-widget-slider-2.php:89
+#: spacious-toolkit/controls/content-widget-slider-2.php:91
+#: spacious-toolkit/controls/content-widget-slider-2.php:246
+msgid "Title"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-block-2.php:54
+msgid "Block posts 2"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-block-2.php:65
+msgid "Posts"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-block-2.php:73
+msgid "Number of posts:"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-block-2.php:84
+msgid "Offset Posts:"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-block-2.php:98
+#: spacious-toolkit/controls/content-widget-product-carousel-1.php:68
+msgid "Filter"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-block-2.php:105
+msgid "Display the posts from:"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-block-2.php:109
+msgid "Latest Posts"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-block-2.php:110
+#: spacious-toolkit/controls/content-widget-product-carousel-1.php:80
+msgid "Categories"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-block-2.php:118
+#: spacious-toolkit/controls/content-widget-product-carousel-1.php:88
+msgid "Select categories:"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-block-2.php:133
+#: spacious-toolkit/controls/content-widget-product-carousel-1.php:103
+#: spacious-toolkit/controls/content-widget-slider-1.php:154
+#: spacious-toolkit/controls/content-widget-slider-2.php:128
+msgid "Slider Controls"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-block-2.php:141
+#: spacious-toolkit/controls/content-widget-product-carousel-1.php:111
+#: spacious-toolkit/controls/content-widget-slider-1.php:162
+#: spacious-toolkit/controls/content-widget-slider-2.php:136
+#: spacious-toolkit/controls/content-widget-team-5.php:108
+msgid "Enable AutoPlay"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-block-2.php:143
+#: spacious-toolkit/controls/content-widget-product-carousel-1.php:113
+#: spacious-toolkit/controls/content-widget-slider-1.php:164
+#: spacious-toolkit/controls/content-widget-slider-1.php:206
+#: spacious-toolkit/controls/content-widget-slider-2.php:138
+#: spacious-toolkit/controls/content-widget-slider-2.php:197
+#: spacious-toolkit/controls/content-widget-team-5.php:110
+msgid "Enable"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-block-2.php:153
+#: spacious-toolkit/controls/content-widget-product-carousel-1.php:123
+#: spacious-toolkit/controls/content-widget-slider-1.php:174
+#: spacious-toolkit/controls/content-widget-slider-2.php:148
+#: spacious-toolkit/controls/content-widget-team-5.php:120
+msgid "Delay"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-block-2.php:168
+#: spacious-toolkit/controls/content-widget-product-carousel-1.php:138
+#: spacious-toolkit/controls/content-widget-slider-1.php:189
+#: spacious-toolkit/controls/content-widget-slider-2.php:163
+#: spacious-toolkit/controls/content-widget-team-5.php:135
+msgid "Speed"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-block-2.php:183
+#: spacious-toolkit/controls/content-widget-product-carousel-1.php:153
+#: spacious-toolkit/controls/content-widget-slider-2.php:178
+msgid "Slides to show"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-block-2.php:200
+msgid "Widget Title"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-block-2.php:237
+msgid "Post Title"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-block-2.php:311
+msgid "Post Content"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-block-2.php:348
+msgid "Read More"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-counter-1.php:40
+#: spacious-toolkit/controls/content-widget-counter-2.php:36
+#: spacious-toolkit/controls/content-widget-counter-3.php:36
+msgid "Counter"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-counter-1.php:48
+#: spacious-toolkit/controls/content-widget-counter-1.php:114
+#: spacious-toolkit/controls/content-widget-counter-2.php:44
+#: spacious-toolkit/controls/content-widget-counter-3.php:44
+#: spacious-toolkit/controls/content-widget-icon-box-1.php:44
+#: spacious-toolkit/controls/content-widget-icon-box-2.php:44
+#: spacious-toolkit/controls/content-widget-icon-box-3.php:44
+#: spacious-toolkit/controls/content-widget-icon-box-4.php:44
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:51
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:202
+msgid "Icon"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-counter-1.php:58
+#: spacious-toolkit/controls/content-widget-counter-2.php:54
+#: spacious-toolkit/controls/content-widget-counter-3.php:54
+msgid "Starting number"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-counter-1.php:68
+#: spacious-toolkit/controls/content-widget-counter-2.php:64
+#: spacious-toolkit/controls/content-widget-counter-3.php:64
+msgid "Ending number"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-counter-1.php:78
+#: spacious-toolkit/controls/content-widget-counter-2.php:74
+#: spacious-toolkit/controls/content-widget-counter-3.php:74
+msgid "Animation speed"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-counter-1.php:90
+#: spacious-toolkit/controls/content-widget-counter-2.php:86
+#: spacious-toolkit/controls/content-widget-counter-3.php:86
+msgid "Animation interval"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-counter-1.php:104
+#: spacious-toolkit/controls/content-widget-counter-2.php:100
+#: spacious-toolkit/controls/content-widget-counter-3.php:100
+msgid "Projects"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-counter-1.php:142
+msgid "Number"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-counter-1.php:180
+msgid "Divider"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-2.php:37
+#: spacious-toolkit/controls/content-widget-cta-3.php:40
+msgid "Call to Action"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-2.php:47
+#: spacious-toolkit/controls/content-widget-cta-3.php:60
+msgid "Call to Action title"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-2.php:57
+#: spacious-toolkit/controls/content-widget-cta-3.php:80
+msgid "Content goes here."
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-2.php:67
+#: spacious-toolkit/controls/content-widget-cta-3.php:90
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:93
+#: spacious-toolkit/controls/content-widget-slider-1.php:58
+#: spacious-toolkit/controls/content-widget-slider-1.php:75
+#: spacious-toolkit/controls/content-widget-slider-1.php:113
+msgid "Click here"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-3.php:48
+#: spacious-toolkit/controls/content-widget-cta-3.php:164
+msgid "Before Title"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-3.php:68
+#: spacious-toolkit/controls/content-widget-cta-3.php:326
+msgid "After Title"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-3.php:108
+msgid "Button Text 2"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-3.php:118
+msgid "Button Link 2"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-3.php:130
+#: spacious-toolkit/controls/content-widget-cta-3.php:138
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:121
+#: spacious-toolkit/controls/content-widget-slider-2.php:213
+#: spacious-toolkit/controls/content-widget-slider-2.php:221
+#: spacious-toolkit/controls/content-widget-team-1.php:150
+#: spacious-toolkit/controls/content-widget-team-5.php:166
+#: spacious-toolkit/controls/content-widget-team-5.php:173
+msgid "Alignment"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-3.php:142
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:125
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:232
+#: spacious-toolkit/controls/content-widget-slider-2.php:225
+#: spacious-toolkit/controls/content-widget-team-1.php:154
+#: spacious-toolkit/controls/content-widget-team-5.php:177
+msgid "Left"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-3.php:150
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:133
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:233
+#: spacious-toolkit/controls/content-widget-slider-2.php:233
+#: spacious-toolkit/controls/content-widget-team-1.php:162
+#: spacious-toolkit/controls/content-widget-team-5.php:185
+msgid "Right"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-3.php:172
+#: spacious-toolkit/controls/content-widget-cta-3.php:253
+#: spacious-toolkit/controls/content-widget-cta-3.php:334
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:346
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:438
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:530
+msgid "HTML Tag"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-3.php:176
+#: spacious-toolkit/controls/content-widget-cta-3.php:257
+#: spacious-toolkit/controls/content-widget-cta-3.php:338
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:350
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:442
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:534
+msgid "H1"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-3.php:177
+#: spacious-toolkit/controls/content-widget-cta-3.php:258
+#: spacious-toolkit/controls/content-widget-cta-3.php:339
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:351
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:443
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:535
+msgid "H2"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-3.php:178
+#: spacious-toolkit/controls/content-widget-cta-3.php:259
+#: spacious-toolkit/controls/content-widget-cta-3.php:340
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:352
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:444
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:536
+msgid "H3"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-3.php:179
+#: spacious-toolkit/controls/content-widget-cta-3.php:260
+#: spacious-toolkit/controls/content-widget-cta-3.php:341
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:353
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:445
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:537
+msgid "H4"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-3.php:180
+#: spacious-toolkit/controls/content-widget-cta-3.php:261
+#: spacious-toolkit/controls/content-widget-cta-3.php:342
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:354
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:446
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:538
+msgid "H5"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-3.php:181
+#: spacious-toolkit/controls/content-widget-cta-3.php:262
+#: spacious-toolkit/controls/content-widget-cta-3.php:343
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:355
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:447
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:539
+msgid "H6"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-3.php:182
+#: spacious-toolkit/controls/content-widget-cta-3.php:263
+#: spacious-toolkit/controls/content-widget-cta-3.php:344
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:356
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:448
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:540
+msgid "div"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-3.php:183
+#: spacious-toolkit/controls/content-widget-cta-3.php:264
+#: spacious-toolkit/controls/content-widget-cta-3.php:345
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:357
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:449
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:541
+msgid "span"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-3.php:184
+#: spacious-toolkit/controls/content-widget-cta-3.php:265
+#: spacious-toolkit/controls/content-widget-cta-3.php:346
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:358
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:450
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:542
+msgid "p"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-3.php:219
+#: spacious-toolkit/controls/content-widget-cta-3.php:300
+#: spacious-toolkit/controls/content-widget-cta-3.php:381
+#: spacious-toolkit/controls/content-widget-cta-3.php:442
+#: spacious-toolkit/controls/content-widget-cta-3.php:477
+#: spacious-toolkit/controls/content-widget-cta-3.php:642
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:157
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:301
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:403
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:495
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:587
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:622
+#: spacious-toolkit/controls/content-widget-slider-1.php:256
+#: spacious-toolkit/controls/content-widget-slider-1.php:317
+#: spacious-toolkit/controls/content-widget-slider-1.php:351
+#: spacious-toolkit/controls/content-widget-slider-1.php:494
+#: spacious-toolkit/controls/content-widget-slider-2.php:328
+#: spacious-toolkit/controls/content-widget-team-1.php:183
+#: spacious-toolkit/controls/content-widget-team-1.php:245
+#: spacious-toolkit/controls/content-widget-team-1.php:307
+#: spacious-toolkit/controls/content-widget-team-1.php:369
+#: spacious-toolkit/controls/content-widget-team-1.php:522
+msgid "Padding"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-3.php:231
+#: spacious-toolkit/controls/content-widget-cta-3.php:312
+#: spacious-toolkit/controls/content-widget-cta-3.php:393
+#: spacious-toolkit/controls/content-widget-cta-3.php:454
+#: spacious-toolkit/controls/content-widget-cta-3.php:489
+#: spacious-toolkit/controls/content-widget-cta-3.php:654
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:169
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:314
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:415
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:507
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:599
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:634
+#: spacious-toolkit/controls/content-widget-slider-1.php:268
+#: spacious-toolkit/controls/content-widget-slider-1.php:329
+#: spacious-toolkit/controls/content-widget-team-1.php:195
+#: spacious-toolkit/controls/content-widget-team-1.php:257
+#: spacious-toolkit/controls/content-widget-team-1.php:319
+#: spacious-toolkit/controls/content-widget-team-1.php:381
+msgid "Margin"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-3.php:469
+#: spacious-toolkit/controls/content-widget-slider-1.php:343
+msgid "Primary Button"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-3.php:516
+#: spacious-toolkit/controls/content-widget-cta-3.php:681
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:661
+#: spacious-toolkit/controls/content-widget-slider-1.php:378
+#: spacious-toolkit/controls/content-widget-slider-1.php:520
+#: spacious-toolkit/controls/content-widget-slider-2.php:355
+#: spacious-toolkit/controls/content-widget-team-1.php:407
+msgid "Normal"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-3.php:579
+#: spacious-toolkit/controls/content-widget-cta-3.php:744
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:724
+#: spacious-toolkit/controls/content-widget-slider-1.php:430
+#: spacious-toolkit/controls/content-widget-slider-1.php:572
+#: spacious-toolkit/controls/content-widget-slider-2.php:418
+#: spacious-toolkit/controls/content-widget-team-1.php:450
+msgid "Hover"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-cta-3.php:634
+msgid "secondary Button"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-icon-box-1.php:36
+#: spacious-toolkit/controls/content-widget-icon-box-2.php:36
+#: spacious-toolkit/controls/content-widget-icon-box-3.php:36
+#: spacious-toolkit/controls/content-widget-icon-box-4.php:36
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:43
+msgid "Icon Box"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-icon-box-1.php:56
+#: spacious-toolkit/controls/content-widget-icon-box-2.php:56
+#: spacious-toolkit/controls/content-widget-icon-box-3.php:56
+#: spacious-toolkit/controls/content-widget-icon-box-4.php:56
+msgid "Icon box title"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-icon-box-1.php:64
+#: spacious-toolkit/controls/content-widget-icon-box-2.php:64
+#: spacious-toolkit/controls/content-widget-icon-box-3.php:64
+#: spacious-toolkit/controls/content-widget-icon-box-4.php:64
+msgid "Title link"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-icon-box-1.php:76
+#: spacious-toolkit/controls/content-widget-icon-box-2.php:76
+#: spacious-toolkit/controls/content-widget-icon-box-3.php:76
+#: spacious-toolkit/controls/content-widget-icon-box-4.php:76
+msgid "Icon box content"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:61
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:63
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:338
+msgid "Caption"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:113
+msgid "Icon Box Style"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:182
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:280
+msgid "Border"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:191
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:327
+#: spacious-toolkit/controls/content-widget-team-1.php:578
+msgid "Box Shadow"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:227
+msgid "Position"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:231
+msgid "Above"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:241
+#: spacious-toolkit/controls/content-widget-team-1.php:495
+msgid "Size"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-icon-box-5.php:614
+#: spacious-toolkit/controls/content-widget-slider-2.php:320
+msgid "Button"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:36
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:36
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:36
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:36
+msgid "Pricing Table"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:46
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:46
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:46
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:46
+msgid "Basic"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:54
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:54
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:54
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:54
+msgid "Currency"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:56
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:56
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:56
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:56
+msgid "$"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:64
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:64
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:64
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:64
+msgid "Price"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:74
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:74
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:74
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:74
+msgid "Pricing duration"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:76
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:76
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:76
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:76
+msgid "Month"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:84
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:84
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:84
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:84
+msgid "Feature heading"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:86
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:86
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:86
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:86
+msgid "Details"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:94
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:94
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:94
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:94
+msgid "Features List"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:98
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:99
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:98
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:98
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:98
+msgid "Feature #1"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:118
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:117
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:117
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:117
+msgid "Button text"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:120
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:119
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:119
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:119
+msgid "Buy Now"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-pricing-table-1.php:128
+#: spacious-toolkit/controls/content-widget-pricing-table-2.php:127
+#: spacious-toolkit/controls/content-widget-pricing-table-3.php:127
+#: spacious-toolkit/controls/content-widget-pricing-table-4.php:127
+#: spacious-toolkit/controls/content-widget-slider-1.php:118
+#: spacious-toolkit/controls/content-widget-slider-2.php:109
+msgid "Button link"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-product-carousel-1.php:42
+msgid "Product"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-product-carousel-1.php:58
+msgid "Offset Products:"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-product-carousel-1.php:75
+msgid "Display the products from:"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-product-carousel-1.php:79
+msgid "Latest Products"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-slider-1.php:49
+#: spacious-toolkit/controls/content-widget-slider-2.php:50
+msgid "Sliders"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-slider-1.php:53
+msgid "Slider title #1"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-slider-1.php:54
+msgid "Slider description #1"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-slider-1.php:70
+msgid "Slider title #2"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-slider-1.php:71
+msgid "Slider description #2"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-slider-1.php:92
+msgid "Slider title"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-slider-1.php:99
+msgid "Slider description"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-slider-1.php:103
+#: spacious-toolkit/controls/content-widget-slider-2.php:81
+#: spacious-toolkit/controls/content-widget-team-5.php:83
+#: spacious-toolkit/controls/content-widget-team-5.php:198
+msgid "Image"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-slider-1.php:128
+msgid "Button Text 1"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-slider-1.php:135
+msgid "Button link 1"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-slider-1.php:204
+#: spacious-toolkit/controls/content-widget-slider-2.php:195
+msgid "Pause on hover"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-slider-1.php:221
+msgid "Slider Title"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-slider-1.php:282
+msgid "Slider Description"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-slider-1.php:486
+msgid "Secondary Button"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-slider-2.php:54
+msgid "Title #1"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-slider-2.php:55
+msgid "Description #1"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-slider-2.php:66
+msgid "Title #2"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-slider-2.php:67
+msgid "Description #2"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-1.php:42
+#: spacious-toolkit/controls/content-widget-team-2.php:37
+#: spacious-toolkit/controls/content-widget-team-3.php:37
+#: spacious-toolkit/controls/content-widget-team-4.php:37
+#: spacious-toolkit/controls/content-widget-team-5.php:41
+msgid "Team"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-1.php:50
+#: spacious-toolkit/controls/content-widget-team-1.php:210
+#: spacious-toolkit/controls/content-widget-team-2.php:45
+#: spacious-toolkit/controls/content-widget-team-3.php:45
+#: spacious-toolkit/controls/content-widget-team-4.php:45
+#: spacious-toolkit/controls/content-widget-team-5.php:70
+#: spacious-toolkit/controls/content-widget-team-5.php:72
+#: spacious-toolkit/controls/content-widget-team-5.php:220
+msgid "Name"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-1.php:52
+#: spacious-toolkit/controls/content-widget-team-2.php:47
+#: spacious-toolkit/controls/content-widget-team-3.php:47
+#: spacious-toolkit/controls/content-widget-team-4.php:47
+msgid "Member name"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-1.php:60
+#: spacious-toolkit/controls/content-widget-team-1.php:272
+#: spacious-toolkit/controls/content-widget-team-2.php:55
+#: spacious-toolkit/controls/content-widget-team-3.php:55
+#: spacious-toolkit/controls/content-widget-team-4.php:55
+#: spacious-toolkit/controls/content-widget-team-5.php:77
+#: spacious-toolkit/controls/content-widget-team-5.php:79
+#: spacious-toolkit/controls/content-widget-team-5.php:257
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:59
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:127
+#: spacious-toolkit/controls/content-widget-testimonial-2.php:55
+#: spacious-toolkit/controls/content-widget-testimonial-3.php:55
+#: spacious-toolkit/controls/content-widget-testimonial-4.php:55
+msgid "Designation"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-1.php:62
+#: spacious-toolkit/controls/content-widget-team-2.php:57
+#: spacious-toolkit/controls/content-widget-team-3.php:57
+#: spacious-toolkit/controls/content-widget-team-4.php:57
+msgid "Member designation"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-1.php:70
+#: spacious-toolkit/controls/content-widget-team-2.php:65
+#: spacious-toolkit/controls/content-widget-team-3.php:65
+#: spacious-toolkit/controls/content-widget-team-4.php:65
+#: spacious-toolkit/controls/content-widget-testimonial-2.php:75
+#: spacious-toolkit/controls/content-widget-testimonial-3.php:75
+#: spacious-toolkit/controls/content-widget-testimonial-4.php:75
+msgid "Choose Image"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-1.php:84
+#: spacious-toolkit/controls/content-widget-team-2.php:79
+#: spacious-toolkit/controls/content-widget-team-3.php:79
+msgid "Description of the member goes here."
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-1.php:92
+#: spacious-toolkit/controls/content-widget-team-2.php:87
+#: spacious-toolkit/controls/content-widget-team-3.php:87
+#: spacious-toolkit/controls/content-widget-team-4.php:77
+msgid "Facebook link"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-1.php:104
+#: spacious-toolkit/controls/content-widget-team-2.php:99
+#: spacious-toolkit/controls/content-widget-team-3.php:99
+#: spacious-toolkit/controls/content-widget-team-4.php:89
+msgid "Twitter link"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-1.php:116
+#: spacious-toolkit/controls/content-widget-team-2.php:111
+#: spacious-toolkit/controls/content-widget-team-3.php:111
+msgid "Google Plus link"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-1.php:128
+#: spacious-toolkit/controls/content-widget-team-2.php:123
+#: spacious-toolkit/controls/content-widget-team-3.php:123
+msgid "LinkedIn link"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-1.php:142
+msgid "Team Content"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-1.php:414
+#: spacious-toolkit/controls/content-widget-team-1.php:457
+msgid "Primary"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-1.php:431
+#: spacious-toolkit/controls/content-widget-team-1.php:474
+msgid "Secondary"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-1.php:549
+msgid "Spacing"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-4.php:113
+msgid "Pinterest link"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-5.php:49
+msgid "Our Team"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-5.php:53
+msgid "Member #1"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-5.php:54
+msgid "Designation #1"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-5.php:60
+msgid "Member #2"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-5.php:61
+msgid "Designation #2"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-5.php:100
+msgid "Team Controls"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-team-5.php:149
+msgid "Team to show"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:41
+#: spacious-toolkit/controls/content-widget-testimonial-2.php:37
+#: spacious-toolkit/controls/content-widget-testimonial-3.php:37
+#: spacious-toolkit/controls/content-widget-testimonial-4.php:37
+msgid "Testimonial"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:49
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:90
+#: spacious-toolkit/controls/content-widget-testimonial-2.php:45
+#: spacious-toolkit/controls/content-widget-testimonial-3.php:45
+#: spacious-toolkit/controls/content-widget-testimonial-4.php:45
+msgid "Author"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:51
+#: spacious-toolkit/controls/content-widget-testimonial-2.php:47
+#: spacious-toolkit/controls/content-widget-testimonial-3.php:47
+#: spacious-toolkit/controls/content-widget-testimonial-4.php:47
+msgid "Author name"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:61
+#: spacious-toolkit/controls/content-widget-testimonial-2.php:57
+#: spacious-toolkit/controls/content-widget-testimonial-3.php:57
+#: spacious-toolkit/controls/content-widget-testimonial-4.php:57
+msgid "Author designation"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:69
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:164
+#: spacious-toolkit/controls/content-widget-testimonial-2.php:65
+#: spacious-toolkit/controls/content-widget-testimonial-3.php:65
+#: spacious-toolkit/controls/content-widget-testimonial-4.php:65
+msgid "Company"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:71
+#: spacious-toolkit/controls/content-widget-testimonial-2.php:67
+#: spacious-toolkit/controls/content-widget-testimonial-3.php:67
+#: spacious-toolkit/controls/content-widget-testimonial-4.php:67
+msgid "Company name"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:79
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:201
+#: spacious-toolkit/controls/content-widget-testimonial-2.php:87
+#: spacious-toolkit/controls/content-widget-testimonial-3.php:87
+#: spacious-toolkit/controls/content-widget-testimonial-4.php:87
+msgid "Words"
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:81
+#: spacious-toolkit/controls/content-widget-testimonial-2.php:89
+#: spacious-toolkit/controls/content-widget-testimonial-3.php:89
+#: spacious-toolkit/controls/content-widget-testimonial-4.php:89
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nisl "
+"et metus dignissim interdum. Nunc tristique ullamcorper lectus nec tempus."
+msgstr ""
+
+#: spacious-toolkit/controls/content-widget-testimonial-1.php:243
+msgid "Border Bottom"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-block-2.php:39
+msgid "Block Posts 2"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-counter-2.php:39
+msgid "Counter 2"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-counter-3.php:39
+msgid "Counter 3"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-cta-2.php:39
+msgid "Call to Action 2"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-cta-3.php:39
+msgid "Call to Action 3"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-icon-box-1.php:39
+msgid "Icon Box 1"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-icon-box-2.php:39
+msgid "Icon Box 2"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-icon-box-3.php:39
+msgid "Icon Box 3"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-icon-box-4.php:39
+msgid "Icon Box 4"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-icon-box-5.php:39
+msgid "Icon Box 5"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-pricing-table-1.php:39
+msgid "Pricing Table 1"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-pricing-table-2.php:39
+msgid "Pricing Table 2"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-pricing-table-3.php:39
+msgid "Pricing Table 3"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-pricing-table-4.php:39
+msgid "Pricing Table 4"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-product-carousel-1.php:39
+msgid "Product Carousel 1"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-slider-1.php:39
+msgid "Slider 1"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-slider-2.php:39
+msgid "Slider 2"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-team-3.php:39
+msgid "Team 3"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-team-4.php:39
+msgid "Team 4"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-team-5.php:39
+msgid "Team 5"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-testimonial-1.php:39
+msgid "Testimonial 1"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-testimonial-2.php:39
+msgid "Testimonial 2"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-testimonial-3.php:39
+msgid "Testimonial 3"
+msgstr ""
+
+#: spacious-toolkit/widgets/class-spacious-widget-testimonial-4.php:39
+msgid "Testimonial 4"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themegrill.com/themes/spacious/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Spacious Pro is the pro version of Spacious free theme."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themegrill.com/wordpress-themes/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog Image Grid."
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog Image Masonry."
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Business Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Contact Page Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page Builder Template"
+msgstr ""
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/functions.php:1449 navigation.php:39
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: inc/functions.php:1450 navigation.php:40
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
